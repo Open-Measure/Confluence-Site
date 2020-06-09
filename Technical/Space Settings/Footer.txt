@@ -1,3 +1,3 @@
 ----
+_[Open Measure|https://www.open-measure.org] by David Doret et al. is [a non-profit association|https://www.open-measure.org/miscellaneous/statutes] and [open-source wiki|https://open-measure.atlassian.net/wiki] licensed under a [Creative Commons Attribution 4.0 International License|http://creativecommons.org/licenses/by/4.0/]. You may [sign-up for free membership|https://www.open-measure.org/sign-up] or [become a patron|https://www.open-measure.org/donate] to support the project._
 [!https://i.creativecommons.org/l/by/4.0/88x31.png!|http://creativecommons.org/licenses/by/4.0/]
-_[Open Measure|https://www.open-measure.org]_ by _David Doret et al._ is licensed under a _[Creative Commons Attribution 4.0 International License|http://creativecommons.org/licenses/by/4.0/]_.
