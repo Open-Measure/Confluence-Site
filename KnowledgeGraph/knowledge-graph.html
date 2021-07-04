@@ -29,11 +29,9 @@
 <div id="debugDiv">debug</div>
 <div id="selectedItemDiv">selected item</div>
 <div id="mynetwork"></div>
-
-  <script type="text/javascript" src="https://unpkg.com/vis-data@latest/peer/umd/vis-data.min.js"></script>
+<script type="text/javascript" src="https://unpkg.com/vis-data@latest/peer/umd/vis-data.min.js"></script>
 <script type="text/javascript" src="https://unpkg.com/vis-network@latest/peer/umd/vis-network.min.js"></script>
 <link rel="stylesheet" type="text/css" href="https://unpkg.com/vis-network/styles/vis-network.min.css" />
-
 <script type="text/javascript">
 
 function debug(something){
@@ -90,11 +88,15 @@ $(document).ready(function() {
       loadNode(nodeId);
     });
 
-
+    $('#mySelect2').on('select2:unselect', function (e) {
+      var nodeId = e.params.data.id;
+      document.getElementById("debugDiv").innerText = nodeId;
+      unloadNode(nodeId);
+    });
   });
 
-  var nodes = new vis.DataSet(); //nodesArray);
-  var edges = new vis.DataSet(); //edgesArray);
+  var nodes = new vis.DataSet();
+  var edges = new vis.DataSet();
 
 function startNetwork(){
   var container = document.getElementById("mynetwork");
@@ -103,7 +105,6 @@ function startNetwork(){
           edges: edges,
         };
 
-  /*Source: view-source:https://visjs.github.io/vis-network/examples/network/other/navigation.html*/
   var options = {
     interaction: {
       navigationButtons: true,
@@ -122,12 +123,14 @@ function startNetwork(){
 startNetwork();
 
 function onClick(params) {
-    //var nodeIDs = params.nodes[0];
     var nodeId = params.nodes[0];
     var myNode = getNode(nodeId);
     var label = myNode.label;
-    var url  = myNode.url;
-    document.getElementById("selectedItemDiv").innerHTML = '<a href="' + url + '" target="_blank">"' + label + '</a>';
+    document.getElementById("selectedItemDiv").innerHTML =
+      '<h4>' + label + '</h4>' +
+      '<input type="button" onclick="getMoreInformation(\'' + nodeId + '\');" value="More information" />' +
+      '<input type="button" onclick="unloadNode(\'' + nodeId + '\');" value="Remove" />'
+      ;
   }
 
 function resetAll() {
@@ -160,6 +163,16 @@ function loadNode(nodeId){
   var targetNode = getNode(nodeId);
   nodes.update(targetNode);
   loadAdjacent(nodeId);
+}
+
+function getMoreInformation(nodeId){
+  var targetNode = getNode(nodeId);
+  window.open(targetNode.url, "_blank");
+}
+
+function unloadNode(nodeId){
+  nodes.remove(nodeId);
+  document.getElementById("selectedItemDiv").innerHTML = "";
 }
 
 </script>
