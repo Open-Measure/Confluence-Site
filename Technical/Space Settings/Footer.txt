@@ -1,3 +1,8 @@
 ----
-_[Open Measure|https://www.open-measure.org] by David Doret et al. is [a non-profit association|https://www.open-measure.org/miscellaneous/statutes] and [open-source wiki|https://open-measure.atlassian.net/wiki] licensed under a [Creative Commons Attribution 4.0 International License|http://creativecommons.org/licenses/by/4.0/]. You may [sign-up for free membership|https://www.open-measure.org/sign-up] or [become a patron|https://www.open-measure.org/donate] to support the project._
-[!https://i.creativecommons.org/l/by/4.0/88x31.png!|http://creativecommons.org/licenses/by/4.0/]
+_Follow us on [LinkedIn|https://www.linkedin.com/company/open-measure/]_ | _Discuss on [Slack|https://open-measure.slack.com/channels/main]_ | _Support us with [Patreon|https://www.patreon.com/bePatron?u=27895661]_ | _Sign-up for a [perpetually free membership|https://www.open-measure.org/sign-up]._
+
+[!BRAND:LinkedIn^linkedin-36x31.png|hspace=4!|https://www.linkedin.com/company/open-measure/] [!BRAND:Slack^slack-mark-31x31.png|hspace=4!|https://open-measure.slack.com/channels/main] [!BRAND:Patreon^patreon-32x31.png|hspace=4!|https://www.patreon.com/bePatron?u=27895661]
+----
+_This [wiki|https://open-measure.atlassian.net/wiki] is owned by [Open Measure|https://www.open-measure.org], a non-profit association (check out our [statutes|https://www.open-measure.org/miscellaneous/statutes]). The original content we publish is licensed under a [Creative Commons Attribution 4.0 International License|http://creativecommons.org/licenses/by/4.0/]._
+
+[!https://i.creativecommons.org/l/by/4.0/88x31.png|hspace=4!|http://creativecommons.org/licenses/by/4.0/] 
