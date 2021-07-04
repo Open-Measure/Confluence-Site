@@ -26,8 +26,20 @@
   <select class="js-example-basic-multiple js-states form-control" id="mySelect2" multiple="multiple"  style="width: 75%">
   </select>
 </label>
+<div id="debugDiv"></div>
+  <div id="selectedItemDiv"></div>
+<div id="mynetwork"></div>
+
+  <script type="text/javascript" src="https://unpkg.com/vis-data@latest/peer/umd/vis-data.min.js"></script>
+<script type="text/javascript" src="https://unpkg.com/vis-network@latest/peer/umd/vis-network.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://unpkg.com/vis-network/styles/vis-network.min.css" />
 
 <script type="text/javascript">
+
+function debug(something){
+    document.getElementById("debugDiv").innerText = JSON.stringify(something);
+}
+
 var selectableItems = [
     {
       text: "Concepts",
@@ -46,22 +58,21 @@ var selectableItems = [
     }
   ];
 
-nodesArray = [
-          { id: "n1", label: "Authentication Factors" ,category:"Concept", url:"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1061650689"},
-          { id: "n2", label: "Inherence Factor" ,category:"Concept", url:"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1061650689"},
-          { id: "n3", label: "Possession Factor" ,category:"Concept", url:"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1061650689"},
-          { id: "n4", label: "Application Onboarding" ,category:"Process", url:"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1061650689"},
-          { id: "n5", label: "Provisioning" ,category:"Process", url:"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1061650689"},
+var edgesDatabase = [
+          { id: "e1", from: "n2", to: "n1", label:"is a", arrows:"to" },
+          { id: "e2", from: "n3", to: "n1", label:"is a", arrows:"to" },
+          { id: "e3", from: "n3", to: "n4", label:"is a", arrows:"to" },
+          { id: "e4", from: "n4", to: "n5", label:"is a", arrows:"to" }
         ];
 
-edgesArray = [
-          { id: "e1", from: "n1", to: "n2", label:"is a",arrows:"to" },
-          { id: "e2", from: "n2", to: "n4", label:"is a",arrows:"to" },
-          { id: "e3", from: "n3", to: "n4", label:"is a",arrows:"to" },
-          { id: "e4", from: "n4", to: "n5", label:"is a",arrows:"to" },
+var nodesDatabase = [
+          { id: "n1", label: "Authentication Factors", category:"Concept", url:"https://open"},
+          { id: "n2", label: "Inherence Factor", category:"Concept", url:"https://open"},
+          { id: "n3", label: "Possession Factor", category:"Concept", url:"https://open"},
+          { id: "n4", label: "Application Onboarding", category:"Process", url:"https://open"},
+          { id: "n5", label: "Provisioning", category:"Process", url:"https://open"}
         ];
 
-  // In your Javascript (external .js resource or <script> tag)
 $(document).ready(function() {
 
     $('.js-example-basic-multiple').select2({
@@ -79,18 +90,11 @@ $(document).ready(function() {
       loadNode(nodeId);
     });
 
-  });
-</script>
-<div id="debugDiv"></div>
-<div id="mynetwork"></div>
-<script type="text/javascript" src="https://unpkg.com/vis-data@latest/peer/umd/vis-data.min.js"></script>
-<script type="text/javascript" src="https://unpkg.com/vis-network@latest/peer/umd/vis-network.min.js"></script>
-<link rel="stylesheet" type="text/css" href="https://unpkg.com/vis-network/styles/vis-network.min.css" />
-<div id="mynetwork"></div>
-<script type="text/javascript">
 
-var nodes = new vis.DataSet(); //nodesArray);
-var edges = new vis.DataSet(); //edgesArray);
+  });
+
+  var nodes = new vis.DataSet(); //nodesArray);
+  var edges = new vis.DataSet(); //edgesArray);
 
 function startNetwork(){
   var container = document.getElementById("mynetwork");
@@ -118,82 +122,41 @@ function onDoubleClick(params) {
     var nodeIDs = params.nodes[0];
     var myNode = nodes.get(nodeIDs);
     var url  = myNode.url;
-    document.getElementsByName('wikiPage')[0].src = url;
-  }
-
-function addNode() {
-        var newId = (Math.random() * 1e7).toString(32);
-        nodes.add({ id: newId, label: "I'm new!" });
-        nodeIds.push(newId);
+    document.getElementById("selectedItemDiv").innerHtml = url;
   }
 
 function resetAll() {
   if (network !== null) {
-          network.destroy();
-          network = null;
+    network.destroy();
+    network = null;
   }
-        startNetwork();
+  startNetwork();
 }
 
 function getNode(nodeId){
-  var result = nodesArray.filter(obj => {
+  var result = nodesDatabase.filter(obj => {
     return obj.id === nodeId
     });
-  return result;
+  return result[0];
 }
 
-function getNodeEdges(nodeId){
-  var result = edgesArray.filter(obj => {
-    return obj.from === nodeId || obj.to === nodeId
-    });
-  return result;
-}
-
-function debug(something){
-    document.getElementById("debugDiv").innerText = JSON.stringify(something);
+function loadAdjacent(nodeId){
+  for (i = 0; i < edgesDatabase.length; i++) {
+    myEdge = edgesDatabase[i];
+    if(myEdge.from == nodeId || myEdge.to == nodeId){
+      edges.update(myEdge);
+      nodes.update(getNode(myEdge.from));
+      nodes.update(getNode(myEdge.to));
+    }
+  }
 }
 
 function loadNode(nodeId){
-  var mergedNodes = getNode(nodeId);
-  nodes.update(mergedNodes);
-  var mergedEdges = getNodeEdges(nodeId);
-  debug(mergedEdges);
-  edges.update(mergedEdges);
-  /*
-  var mergedEdges = getNodeEdges(nodeId);
-  edges.update(mergedEdges);
-  */
+  var targetNode = getNode(nodeId);
+  nodes.update(targetNode);
+  loadAdjacent(nodeId);
 }
 
-function loadNode_OLD(){
-
-    // provide data in the DOT language
-      /*
-    var DOTstring = 'dinetwork {a1 -> a1 -> a2;a2 -> a3; a2 -- a4; a2 -> a1 }';
-    var parsedData = vis.parseDOTNetwork(DOTstring);
-    var data = {
-      nodes: parsedData.nodes,
-      edges: parsedData.edges
-    }
-    */
-      mergedNodes = [
-          { id: "n1", label: "Node 1" },
-          { id: "n2", label: "Node 2" },
-          { id: "n3", label: "Node 3" },
-          { id: "n4", label: "Node 4" },
-          { id: "n5", label: "Node 5" }
-        ];
-    mergedEdges = [
-          { id:"e1", from: "n1", to: "n2" ,label:"is a",arrows:"to"},
-          { id:"e2", from: "n2", to: "n2" },
-          { id:"e3", from: "n3", to: "n2" },
-          { id:"e4", from: "n4", to: "n1" },
-        ];
-
-    nodes.update(mergedNodes);
-    edges.update(mergedEdges);
-
-    }
 </script>
 </body>
 </html>
