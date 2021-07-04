@@ -30,35 +30,40 @@
 <script type="text/javascript">
 var selectableItems = [
     {
-      "text": "Concepts",
-      "children" : [
-        {
-            "id": 1,
-            "text": "Authentication Factors"
-        },
-        {
-            "id": 2,
-            "text": "Inherence Factor"
-        }
+      text: "Concepts",
+      children: [
+        {id: "n1", text: "Authentication Factors"},
+        {id: "n2", text: "Inherence Factor"},
+        {id: "n3", text: "Possession Factor"}
       ]
     },
     {
-      "text": "Processes",
-      "children" : [
-        {
-            "id": 3,
-            "text": "Application Onboarding"
-        },
-        {
-            "id": 4,
-            "text": "Provisioning"
-        }
+      text: "Processes",
+      children: [
+        {id: "n4", text: "Application Onboarding"},
+        {id: "n5", text: "Provisioning"}
       ]
     }
   ];
 
+nodesArray = [
+          { id: "n1", label: "Authentication Factors" ,category:"Concept", url:"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1061650689"},
+          { id: "n2", label: "Inherence Factor" ,category:"Concept", url:"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1061650689"},
+          { id: "n3", label: "Possession Factor" ,category:"Concept", url:"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1061650689"},
+          { id: "n4", label: "Application Onboarding" ,category:"Process", url:"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1061650689"},
+          { id: "n5", label: "Provisioning" ,category:"Process", url:"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1061650689"},
+        ];
+
+edgesArray = [
+          { id: "e1", from: "n1", to: "n2", label:"is a",arrows:"to" },
+          { id: "e2", from: "n2", to: "n4", label:"is a",arrows:"to" },
+          { id: "e3", from: "n3", to: "n4", label:"is a",arrows:"to" },
+          { id: "e4", from: "n4", to: "n5", label:"is a",arrows:"to" },
+        ];
+
   // In your Javascript (external .js resource or <script> tag)
 $(document).ready(function() {
+
     $('.js-example-basic-multiple').select2({
       tags: true,
       tokenSeparators: [',', ' '],
@@ -67,19 +72,14 @@ $(document).ready(function() {
                 return undefined;
            }
     });
-});
 
-function assureOption(id, label){
-    // Set the value, creating a new option if necessary
-  if ($('#mySelect2').find("option[value='" + id + "']").length) {
-    $('#mySelect2').val(id).trigger('change');
-  } else {
-    // Create a DOM Option and pre-select by default
-    var newOption = new Option(label, id, true, true);
-    // Append it to the select
-    $('#mySelect2').append(newOption).trigger('change');
-  }
-}
+    $('#mySelect2').on('select2:select', function (e) {
+      var nodeId = e.params.data.id;
+      document.getElementById("debugDiv").innerText = nodeId;
+      loadNode(nodeId);
+    });
+
+  });
 </script>
 <div id="debugDiv"></div>
 <div id="mynetwork"></div>
@@ -89,76 +89,83 @@ function assureOption(id, label){
 <div id="mynetwork"></div>
 <script type="text/javascript">
 
-        function startNetwork(){
+var nodes = new vis.DataSet(); //nodesArray);
+var edges = new vis.DataSet(); //edgesArray);
 
-        nodesArray = [
-          { id: "n1", label: "Node 1" ,url:"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1061650689"},
-          { id: "n2", label: "Node 2" ,url:"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1061650689"},
-          { id: "n3", label: "Node 3" ,url:"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1061650689"},
-          { id: "n4", label: "Node 4" ,url:"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1061650689"},
-          { id: "n5", label: "Node 5" ,url:"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1061650689"},
-        ];
-        nodes = new vis.DataSet(nodesArray);
-
-        edgesArray = [
-          { from: 1, to: 3 },
-          { from: 1, to: 2 },
-          { from: 2, to: 4 },
-          { from: 2, to: 5 },
-        ];
-        edges = new vis.DataSet(edgesArray);
-
-        var container = document.getElementById("mynetwork");
+function startNetwork(){
+  var container = document.getElementById("mynetwork");
         var data = {
           nodes: nodes,
           edges: edges,
         };
 
-        /*Source: view-source:https://visjs.github.io/vis-network/examples/network/other/navigation.html*/
-        var options = {
-          interaction: {
-            navigationButtons: true,
-            keyboard: true,
-          }};
+  /*Source: view-source:https://visjs.github.io/vis-network/examples/network/other/navigation.html*/
+  var options = {
+    interaction: {
+      navigationButtons: true,
+      keyboard: true,
+    }};
 
-        network = new vis.Network(container, data, options);
+    network = new vis.Network(container, data, options);
+    network.on("doubleClick", function (params) {
+      onDoubleClick(params);
+      });
+    }
 
+startNetwork();
 
-           network.on("doubleClick", function (params) {
-              onDoubleClick(params);
-          });
-      }
+function onDoubleClick(params) {
+    var nodeIDs = params.nodes[0];
+    var myNode = nodes.get(nodeIDs);
+    var url  = myNode.url;
+    document.getElementsByName('wikiPage')[0].src = url;
+  }
 
-  startNetwork();
-
-    function onDoubleClick_OLD(params){
-          nodeId = params.nodes[0];
-          url = nodes[nodeId].url;
-          document.getElementById("debugDiv").innerText = url;
-      }
-
-   function onDoubleClick(params) {
-     var nodeIDs = params.nodes[0];
-     var myNode = nodes.get(nodeIDs);
-     var url  = myNode.url;
-     document.getElementsByName('wikiPage')[0].src = url;
-   }
-
-      function addNode() {
+function addNode() {
         var newId = (Math.random() * 1e7).toString(32);
         nodes.add({ id: newId, label: "I'm new!" });
         nodeIds.push(newId);
-      }
+  }
 
-      function resetAll() {
-        if (network !== null) {
+function resetAll() {
+  if (network !== null) {
           network.destroy();
           network = null;
-        }
+  }
         startNetwork();
-      }
+}
 
-    function loadNode(){
+function getNode(nodeId){
+  var result = nodesArray.filter(obj => {
+    return obj.id === nodeId
+    });
+  return result;
+}
+
+function getNodeEdges(nodeId){
+    neighboringNodes = [];
+    for(e in edgesArray){
+        if(e.from == nodeId || e.to == nodeId){
+        neighboringNodes.push(n);
+      }
+    }
+  return(neighboringNodes);
+}
+
+function debug(something){
+    document.getElementById("debugDiv").innerText = JSON.stringify(something);
+}
+
+function loadNode(nodeId){
+  var mergedNodes = getNode(nodeId);
+  nodes.update(mergedNodes);
+  /*
+  var mergedEdges = getNodeEdges(nodeId);
+  edges.update(mergedEdges);
+  */
+}
+
+function loadNode_OLD(){
 
     // provide data in the DOT language
       /*
