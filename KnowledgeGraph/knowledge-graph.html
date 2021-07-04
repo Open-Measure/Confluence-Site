@@ -26,8 +26,8 @@
   <select class="js-example-basic-multiple js-states form-control" id="mySelect2" multiple="multiple"  style="width: 75%">
   </select>
 </label>
-<div id="debugDiv"></div>
-  <div id="selectedItemDiv"></div>
+<div id="debugDiv">debug</div>
+<div id="selectedItemDiv">selected item</div>
 <div id="mynetwork"></div>
 
   <script type="text/javascript" src="https://unpkg.com/vis-data@latest/peer/umd/vis-data.min.js"></script>
@@ -111,18 +111,23 @@ function startNetwork(){
     }};
 
     network = new vis.Network(container, data, options);
-    network.on("doubleClick", function (params) {
-      onDoubleClick(params);
-      });
+
+
+    network.on("click", function (params) {
+        //debug(params.nodes[0]);
+        onClick(params);
+    });
     }
 
 startNetwork();
 
-function onDoubleClick(params) {
-    var nodeIDs = params.nodes[0];
-    var myNode = nodes.get(nodeIDs);
+function onClick(params) {
+    //var nodeIDs = params.nodes[0];
+    var nodeId = params.nodes[0];
+    var myNode = getNode(nodeId);
+    var label = myNode.label;
     var url  = myNode.url;
-    document.getElementById("selectedItemDiv").innerHtml = url;
+    document.getElementById("selectedItemDiv").innerHTML = '<a href="' + url + '" target="_blank">"' + label + '</a>';
   }
 
 function resetAll() {
