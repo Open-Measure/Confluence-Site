@@ -143,13 +143,10 @@ function getNode(nodeId){
 }
 
 function getNodeEdges(nodeId){
-    neighboringNodes = [];
-    for(e in edgesArray){
-        if(e.from == nodeId || e.to == nodeId){
-        neighboringNodes.push(n);
-      }
-    }
-  return(neighboringNodes);
+  var result = edgesArray.filter(obj => {
+    return obj.from === nodeId || obj.to === nodeId
+    });
+  return result;
 }
 
 function debug(something){
@@ -159,6 +156,9 @@ function debug(something){
 function loadNode(nodeId){
   var mergedNodes = getNode(nodeId);
   nodes.update(mergedNodes);
+  var mergedEdges = getNodeEdges(nodeId);
+  debug(mergedEdges);
+  edges.update(mergedEdges);
   /*
   var mergedEdges = getNodeEdges(nodeId);
   edges.update(mergedEdges);
