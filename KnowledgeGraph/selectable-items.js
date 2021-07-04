@@ -1,5 +1,4 @@
-var selectableItems = {
-  "results": [
+var selectableItems = [
     {
       "text": "Group 1",
       "children" : [
@@ -26,5 +25,4 @@ var selectableItems = {
         }
       ]
     }
-  ]
-};
+  ];

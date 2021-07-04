@@ -27,40 +27,62 @@
   </select>
 </label>
 
-<script src="selectable-items.js"></script>
 <script type="text/javascript">
+var selectableItems = [
+    {
+      "text": "Concepts",
+      "children" : [
+        {
+            "id": 1,
+            "text": "Authentication Factors"
+        },
+        {
+            "id": 2,
+            "text": "Inherence Factor"
+        }
+      ]
+    },
+    {
+      "text": "Processes",
+      "children" : [
+        {
+            "id": 3,
+            "text": "Application Onboarding"
+        },
+        {
+            "id": 4,
+            "text": "Provisioning"
+        }
+      ]
+    }
+  ];
+
   // In your Javascript (external .js resource or <script> tag)
 $(document).ready(function() {
     $('.js-example-basic-multiple').select2({
       tags: true,
       tokenSeparators: [',', ' '],
-      data: selectableItems
+      data: selectableItems,
+      createTag: function(params) {
+                return undefined;
+           }
     });
 });
 
-  function assureOption(id, label){
+function assureOption(id, label){
     // Set the value, creating a new option if necessary
-if ($('#mySelect2').find("option[value='" + id + "']").length) {
+  if ($('#mySelect2').find("option[value='" + id + "']").length) {
     $('#mySelect2').val(id).trigger('change');
-} else {
+  } else {
     // Create a DOM Option and pre-select by default
     var newOption = new Option(label, id, true, true);
     // Append it to the select
     $('#mySelect2').append(newOption).trigger('change');
-}
   }
-
-  </script>
-
-  <div id="debugDiv"></div>
-    <div id="mynetwork"></div>
-
-
-<!--
-  In the following URLs you may want to replace @latest by @version
-  to prevent unexpected potentionally breaking updates.
-  For example vis-data@1.0.0 instead of vis-data@latest.
--->
+}
+</script>
+<div id="debugDiv"></div>
+<div id="mynetwork"></div>
 <script type="text/javascript" src="https://unpkg.com/vis-data@latest/peer/umd/vis-data.min.js"></script>
 <script type="text/javascript" src="https://unpkg.com/vis-network@latest/peer/umd/vis-network.min.js"></script>
 <link rel="stylesheet" type="text/css" href="https://unpkg.com/vis-network/styles/vis-network.min.css" />
@@ -165,7 +187,6 @@ if ($('#mySelect2').find("option[value='" + id + "']").length) {
     edges.update(mergedEdges);
 
     }
-  </script>
-
+</script>
 </body>
 </html>
