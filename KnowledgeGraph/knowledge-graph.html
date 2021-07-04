@@ -1,0 +1,208 @@
+<html>
+<head>
+</head>
+<body>
+    <h1>The Open-Measure Knowledge Graph</h1>
+    <input
+      type="button"
+      onclick="resetAll()"
+      value="Destroy the network and restart it.">
+    <input
+      type="button" onclick="addNode()" value="add node dynamically" />
+    <input
+      type="button"
+      onclick="loadNode()"
+      value="Load Node"
+    />
+
+
+  <!--https://select2.org/getting-started/basic-usage-->
+<script src="https://code.jquery.com/jquery-3.6.0.slim.min.js"></script>
+<link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+<script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+
+<label for="mySelect2">
+  Click this to highlight the multiple select element
+  <select class="js-example-basic-multiple js-states form-control" id="mySelect2" multiple="multiple"  style="width: 75%">
+  </select>
+</label>
+
+<script type="text/javascript">
+  // In your Javascript (external .js resource or <script> tag)
+$(document).ready(function() {
+    $('.js-example-basic-multiple').select2({
+      tags: true,
+      tokenSeparators: [',', ' '],
+      ajax: {
+        url: 'https://api.github.com/search/repositories',
+        dataType: 'json'
+      }
+    });
+});
+
+
+selectOptions = {
+  "results": [
+    {
+      "text": "Group 1",
+      "children" : [
+        {
+            "id": 1,
+            "text": "Option 1.1"
+        },
+        {
+            "id": 2,
+            "text": "Option 1.2"
+        }
+      ]
+    },
+    {
+      "text": "Group 2",
+      "children" : [
+        {
+            "id": 3,
+            "text": "Option 2.1"
+        },
+        {
+            "id": 4,
+            "text": "Option 2.2"
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "more": true
+  }
+};
+
+  function assureOption(id, label){
+    // Set the value, creating a new option if necessary
+if ($('#mySelect2').find("option[value='" + id + "']").length) {
+    $('#mySelect2').val(id).trigger('change');
+} else {
+    // Create a DOM Option and pre-select by default
+    var newOption = new Option(label, id, true, true);
+    // Append it to the select
+    $('#mySelect2').append(newOption).trigger('change');
+}
+  }
+
+  </script>
+
+  <div id="debugDiv"></div>
+    <div id="mynetwork"></div>
+
+
+<!--
+  In the following URLs you may want to replace @latest by @version
+  to prevent unexpected potentionally breaking updates.
+  For example vis-data@1.0.0 instead of vis-data@latest.
+-->
+<script type="text/javascript" src="https://unpkg.com/vis-data@latest/peer/umd/vis-data.min.js"></script>
+<script type="text/javascript" src="https://unpkg.com/vis-network@latest/peer/umd/vis-network.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://unpkg.com/vis-network/styles/vis-network.min.css" />
+<div id="mynetwork"></div>
+<script type="text/javascript">
+
+        function startNetwork(){
+
+        nodesArray = [
+          { id: "n1", label: "Node 1" ,url:"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1061650689"},
+          { id: "n2", label: "Node 2" ,url:"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1061650689"},
+          { id: "n3", label: "Node 3" ,url:"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1061650689"},
+          { id: "n4", label: "Node 4" ,url:"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1061650689"},
+          { id: "n5", label: "Node 5" ,url:"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1061650689"},
+        ];
+        nodes = new vis.DataSet(nodesArray);
+
+        edgesArray = [
+          { from: 1, to: 3 },
+          { from: 1, to: 2 },
+          { from: 2, to: 4 },
+          { from: 2, to: 5 },
+        ];
+        edges = new vis.DataSet(edgesArray);
+
+        var container = document.getElementById("mynetwork");
+        var data = {
+          nodes: nodes,
+          edges: edges,
+        };
+
+        /*Source: view-source:https://visjs.github.io/vis-network/examples/network/other/navigation.html*/
+        var options = {
+          interaction: {
+            navigationButtons: true,
+            keyboard: true,
+          }};
+
+        network = new vis.Network(container, data, options);
+
+
+           network.on("doubleClick", function (params) {
+              onDoubleClick(params);
+          });
+      }
+
+  startNetwork();
+
+    function onDoubleClick_OLD(params){
+          nodeId = params.nodes[0];
+          url = nodes[nodeId].url;
+          document.getElementById("debugDiv").innerText = url;
+      }
+
+   function onDoubleClick(params) {
+     var nodeIDs = params.nodes[0];
+     var myNode = nodes.get(nodeIDs);
+     var url  = myNode.url;
+     document.getElementsByName('wikiPage')[0].src = url;
+   }
+
+      function addNode() {
+        var newId = (Math.random() * 1e7).toString(32);
+        nodes.add({ id: newId, label: "I'm new!" });
+        nodeIds.push(newId);
+      }
+
+      function resetAll() {
+        if (network !== null) {
+          network.destroy();
+          network = null;
+        }
+        startNetwork();
+      }
+
+    function loadNode(){
+
+    // provide data in the DOT language
+      /*
+    var DOTstring = 'dinetwork {a1 -> a1 -> a2;a2 -> a3; a2 -- a4; a2 -> a1 }';
+    var parsedData = vis.parseDOTNetwork(DOTstring);
+    var data = {
+      nodes: parsedData.nodes,
+      edges: parsedData.edges
+    }
+    */
+      mergedNodes = [
+          { id: "n1", label: "Node 1" },
+          { id: "n2", label: "Node 2" },
+          { id: "n3", label: "Node 3" },
+          { id: "n4", label: "Node 4" },
+          { id: "n5", label: "Node 5" }
+        ];
+    mergedEdges = [
+          { id:"e1", from: "n1", to: "n2" ,label:"is a",arrows:"to"},
+          { id:"e2", from: "n2", to: "n2" },
+          { id:"e3", from: "n3", to: "n2" },
+          { id:"e4", from: "n4", to: "n1" },
+        ];
+
+    nodes.update(mergedNodes);
+    edges.update(mergedEdges);
+
+    }
+  </script>
+
+</body>
+</html>
