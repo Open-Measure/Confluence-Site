@@ -14,7 +14,7 @@
 <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
 
 <label for="mySelect2">
-  Click this to highlight the multiple select element
+  Search and select items to add to the graph.
   <select class="js-example-basic-multiple js-states form-control" id="mySelect2" multiple="multiple"  style="width: 75%">
   </select>
 </label>
@@ -87,9 +87,9 @@ $(document).ready(function() {
     });
   });
 
-  var nodes = new vis.DataSet();
-  var edges = new vis.DataSet();
-  var network = [];
+var nodes = new vis.DataSet();
+var edges = new vis.DataSet();
+var network = {};
 
 function startNetwork(){
   var container = document.getElementById("mynetwork");
@@ -107,7 +107,6 @@ function startNetwork(){
     network = new vis.Network(container, data, options);
 
     network.on("click", function (params) {
-        //debug(params.nodes[0]);
         onClick(params);
     });
     }
@@ -115,22 +114,45 @@ function startNetwork(){
 startNetwork();
 
 function onClick(params) {
-    var nodeId = params.nodes[0];
-    var myNode = getNode(nodeId);
-    var label = myNode.label;
-    document.getElementById("selectedItemDiv").innerHTML =
-      '<h4>' + label + '</h4>' +
-      '<input type="button" onclick="getMoreInformation(\'' + nodeId + '\');" value="More information" />' +
-      '<input type="button" onclick="unloadNode(\'' + nodeId + '\');" value="Remove" />'
-      ;
+    if(params.nodes.length == 1){
+      /*A node was clicked*/
+      var nodeId = params.nodes[0];
+      var myNode = getNode(nodeId);
+      document.getElementById("selectedItemDiv").innerHTML =
+        '<b>' + myNode.label + '</b>' +
+        '<input type="button" onclick="getMoreInformation(\'' + nodeId + '\');" value="More information" />' +
+        '<input type="button" onclick="unloadNode(\'' + nodeId + '\');" value="Remove" />'
+        ;
+    } else if(params.edges.length == 1){
+      /*An edge was clicked*/
+      /*DEBUG THIS*/
+      /*
+      window.alert("E");
+      var edgeId = params.edges[0];
+      var myEdge = getEdge(edgeId);
+      var label = myEdge.label;
+      var from = getNode(myEdge.from);
+      var to = getNode(myEdge.to);
+      document.getElementById("selectedItemDiv").innerHTML =
+        '<b>' + from.label + ' ' + myEdge.label + ' ' + to.label + '</b>'; /* +
+        '<input type="button" onclick="getMoreInformation(\'' + nodeId + '\');" value="More information" />' +
+        '<input type="button" onclick="unloadNode(\'' + nodeId + '\');" value="Remove" />'
+        */
+    }
+
   }
 
 function resetAll() {
-  if (network !== null) {
-    network.destroy();
-    network = null;
-  }
-  startNetwork();
+  $('#mySelect2').val(null).trigger('change');
+  nodes.clear();
+  edges.clear();
+}
+
+function getEdge(edgeId){
+  var result = edgesDatabase.filter(obj => {
+    return obj.id === nodeId
+    });
+  return result[0];
 }
 
 function getNode(nodeId){
