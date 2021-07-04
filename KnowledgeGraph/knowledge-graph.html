@@ -27,53 +27,16 @@
   </select>
 </label>
 
+<script src="selectable-items.js"></script>
 <script type="text/javascript">
   // In your Javascript (external .js resource or <script> tag)
 $(document).ready(function() {
     $('.js-example-basic-multiple').select2({
       tags: true,
       tokenSeparators: [',', ' '],
-      ajax: {
-        url: 'https://raw.githubusercontent.com/Open-Measure/Confluence-Site/master/KnowledgeGraph/selectable-items.json',
-        dataType: 'json'
-      }
+      data: selectableItems
     });
 });
-
-
-selectOptions = {
-  "results": [
-    {
-      "text": "Group 1",
-      "children" : [
-        {
-            "id": 1,
-            "text": "Option 1.1"
-        },
-        {
-            "id": 2,
-            "text": "Option 1.2"
-        }
-      ]
-    },
-    {
-      "text": "Group 2",
-      "children" : [
-        {
-            "id": 3,
-            "text": "Option 2.1"
-        },
-        {
-            "id": 4,
-            "text": "Option 2.2"
-        }
-      ]
-    }
-  ],
-  "pagination": {
-    "more": true
-  }
-};
 
   function assureOption(id, label){
     // Set the value, creating a new option if necessary

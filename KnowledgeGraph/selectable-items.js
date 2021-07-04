@@ -26,8 +26,5 @@ var selectableItems = {
         }
       ]
     }
-  ],
-  "pagination": {
-    "more": true
-  }
+  ]
 };
