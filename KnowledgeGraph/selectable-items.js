@@ -1,4 +1,4 @@
-{
+var selectableItems = {
   "results": [
     {
       "text": "Group 1",
@@ -26,5 +26,8 @@
         }
       ]
     }
-  ]
-}
+  ],
+  "pagination": {
+    "more": true
+  }
+};
