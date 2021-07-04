@@ -2,19 +2,11 @@
 <head>
 </head>
 <body>
-    <h1>The Open-Measure Knowledge Graph</h1>
-    <input
-      type="button"
-      onclick="resetAll()"
-      value="Destroy the network and restart it.">
-    <input
-      type="button" onclick="addNode()" value="add node dynamically" />
-    <input
-      type="button"
-      onclick="loadNode()"
-      value="Load Node"
-    />
-
+  <h1>The Open-Measure Knowledge Graph</h1>
+  <input
+         type="button"
+         onclick="resetAll()"
+         value="Clear">
 
   <!--https://select2.org/getting-started/basic-usage-->
 <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js"></script>
@@ -27,7 +19,7 @@
   </select>
 </label>
 <div id="debugDiv">debug</div>
-<div id="selectedItemDiv">selected item</div>
+<div id="selectedItemDiv"></div>
 <div id="mynetwork"></div>
 <script type="text/javascript" src="https://unpkg.com/vis-data@latest/peer/umd/vis-data.min.js"></script>
 <script type="text/javascript" src="https://unpkg.com/vis-network@latest/peer/umd/vis-network.min.js"></script>
@@ -97,6 +89,7 @@ $(document).ready(function() {
 
   var nodes = new vis.DataSet();
   var edges = new vis.DataSet();
+  var network = [];
 
 function startNetwork(){
   var container = document.getElementById("mynetwork");
@@ -112,7 +105,6 @@ function startNetwork(){
     }};
 
     network = new vis.Network(container, data, options);
-
 
     network.on("click", function (params) {
         //debug(params.nodes[0]);
@@ -170,9 +162,14 @@ function getMoreInformation(nodeId){
   window.open(targetNode.url, "_blank");
 }
 
+function noSelection(){
+  document.getElementById("selectedItemDiv").innerHTML = "<i>No item selected</i>";
+}
+noSelection();
+
 function unloadNode(nodeId){
   nodes.remove(nodeId);
-  document.getElementById("selectedItemDiv").innerHTML = "";
+  noSelection();
 }
 
 </script>
