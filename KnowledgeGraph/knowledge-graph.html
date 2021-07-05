@@ -2,40 +2,129 @@
 <head>
 </head>
 <body>
-  <h1>The Open-Measure Knowledge Graph</h1>
-  <p><i>Beta Version 0.1</i></p>
+  <h1>The Open-Measure Knowledge Graph - <i>Beta Version 0.1</i></h1>
+  <label for="mySelect2">
+    Search and select items:
+    <select class="js-example-basic-multiple js-states form-control" id="mySelect2" multiple="multiple"  style="width: 75%">
+    </select>
+  </label>
+  <div>
+  <span id="selectedItemDiv"></span>
   <input
          type="button"
          onclick="resetAll()"
          value="Clear">
+
+  </div>
 <!--https://select2.org/getting-started/basic-usage-->
 <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js"></script>
 <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
 <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
-<label for="mySelect2">
-  Search and select items to add to the graph.
-  <select class="js-example-basic-multiple js-states form-control" id="mySelect2" multiple="multiple"  style="width: 75%">
-  </select>
-</label>
-<div id="debugDiv">debug</div>
-<div id="selectedItemDiv"></div>
 <div id="mynetwork"></div>
 <script type="text/javascript" src="https://unpkg.com/vis-data@latest/peer/umd/vis-data.min.js"></script>
 <script type="text/javascript" src="https://unpkg.com/vis-network@latest/peer/umd/vis-network.min.js"></script>
 <link rel="stylesheet" type="text/css" href="https://unpkg.com/vis-network/styles/vis-network.min.css" />
 <style>
 
+  * { font-family: helvetica }
+
+    #selectedItemDiv {
+    width: 90%;
+    border: 2px solid #999999;
+    border-radius: 10px;
+    padding: 4px;
+    margin: 4px;
+    vertical-align: middle;
+    background-color: #ffffff;
+    height: 30px;
+  }
+
+    input[type=button] {
+    border: 2px solid #999999;
+    border-radius: 10px;
+    font-size: 1em;
+    padding: 4px;
+    margin: 4px;
+    text-align: center;
+    vertical-align: middle;
+    background-color: #aaccff;
+  }
+
+
   #mynetwork {
-  width: 90%;
-  height: 80%;
-  border: 1px solid lightgray;
+    width: 90%;
+    height: 75%;
+    border: 2px solid #999999;
+    border-radius: 10px;
+    padding: 2px;
+    margin: 4px;
+    text-align: center;
+    vertical-align: middle;
+    background-color: #ffffff;
+  }
+
+
+div.vis-network div.vis-navigation div.vis-button.vis-up,
+div.vis-network div.vis-navigation div.vis-button.vis-down,
+div.vis-network div.vis-navigation div.vis-button.vis-left,
+div.vis-network div.vis-navigation div.vis-button.vis-right,
+div.vis-network div.vis-navigation div.vis-button.vis-zoomIn,
+div.vis-network div.vis-navigation div.vis-button.vis-zoomOut,
+div.vis-network div.vis-navigation div.vis-button.vis-zoomExtends {
+  background-image: none !important;
+  font-size: 2em;
+  border: 2px solid #999999;
+  border-radius: 10px;
+  padding: 2px;
+  margin: 4px;
+  text-align: center;
+  vertical-align: middle;
+  background-color: #aaccff;
+}
+
+div.vis-network div.vis-navigation div.vis-button:hover {
+  box-shadow: none !important;
+}
+
+.vis-button:after {
+  color: #555555;
+}
+
+.vis-button:hover:after {
+  color: "#0066ff";
+}
+
+.vis-button.vis-up:after {
+  content: "▲";
+}
+
+.vis-button.vis-down:after {
+  content: "▼";
+}
+
+.vis-button.vis-left:after {
+  content: "◀";
+}
+
+.vis-button.vis-right:after {
+  content: "▶";
+}
+
+.vis-button.vis-zoomIn:after {
+  content: "+";
+  font-weight: bold;
+}
+
+.vis-button.vis-zoomOut:after {
+  content: "−";
+  font-weight: bold;
+}
+
+.vis-button.vis-zoomExtends:after {
+  content: "⤧";
 }
   </style>
   <script type="text/javascript">
-
-function debug(something){
-    document.getElementById("debugDiv").innerText = JSON.stringify(something);
-}
 
 var selectableItems = [
     {
