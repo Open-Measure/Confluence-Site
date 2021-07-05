@@ -83,13 +83,12 @@ $(document).ready(function() {
 
     $('#mySelect2').on('select2:select', function (e) {
       var nodeId = e.params.data.id;
-      document.getElementById("debugDiv").innerText = nodeId;
       loadNode(nodeId);
+      network.selectNodes([nodeId]);
     });
 
     $('#mySelect2').on('select2:unselect', function (e) {
       var nodeId = e.params.data.id;
-      document.getElementById("debugDiv").innerText = nodeId;
       unloadNode(nodeId);
     });
   });
@@ -159,23 +158,23 @@ function startNetwork(){
 
     network.on("selectNode", function (params) {
       var nodeId = params.nodes[0];
-      network.focus(nodeId); //re-center the graph on the newly selected node
-      var nodeData = getNode(nodeId);
-      var nodeLabel = nodeData.label;
-      var nodeObject = network.body.nodes[nodeId];
-      if(nodeObject){
-      nodeObject.setOptions({
-        font: {
-          size: 20
+      if(nodeId){
+        network.focus(nodeId); //re-center the graph on the newly selected node
+        var nodeData = getNode(nodeId);
+        var nodeLabel = nodeData.label;
+        var nodeObject = network.body.nodes[nodeId];
+        nodeObject.setOptions({
+          font: {
+            size: 20
+        }});
+        document.getElementById("selectedItemDiv").innerHTML =
+          '<b>' + nodeLabel + '</b>' +
+          '<input type="button" onclick="getMoreInformation(\'' + nodeId + '\');" value="More information" />' +
+          '<input type="button" onclick="unloadNode(\'' + nodeId + '\');" value="Remove" />'
+          ;
         }
-      });
-      document.getElementById("selectedItemDiv").innerHTML =
-        '<b>' + nodeLabel + '</b>' +
-        '<input type="button" onclick="getMoreInformation(\'' + nodeId + '\');" value="More information" />' +
-        '<input type="button" onclick="unloadNode(\'' + nodeId + '\');" value="Remove" />'
-        ;
       }
-    });
+    );
 
     network.on("deselectNode", function (params) {
       var nodeId = params.previousSelection.nodes[0].id;
