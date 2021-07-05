@@ -3,16 +3,15 @@
 </head>
 <body>
   <h1>The Open-Measure Knowledge Graph</h1>
+  <p><i>Beta Version 0.1</i></p>
   <input
          type="button"
          onclick="resetAll()"
          value="Clear">
-
-  <!--https://select2.org/getting-started/basic-usage-->
+<!--https://select2.org/getting-started/basic-usage-->
 <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js"></script>
 <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
 <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
-
 <label for="mySelect2">
   Search and select items to add to the graph.
   <select class="js-example-basic-multiple js-states form-control" id="mySelect2" multiple="multiple"  style="width: 75%">
@@ -24,7 +23,15 @@
 <script type="text/javascript" src="https://unpkg.com/vis-data@latest/peer/umd/vis-data.min.js"></script>
 <script type="text/javascript" src="https://unpkg.com/vis-network@latest/peer/umd/vis-network.min.js"></script>
 <link rel="stylesheet" type="text/css" href="https://unpkg.com/vis-network/styles/vis-network.min.css" />
-<script type="text/javascript">
+<style>
+
+  #mynetwork {
+  width: 90%;
+  height: 80%;
+  border: 1px solid lightgray;
+}
+  </style>
+  <script type="text/javascript">
 
 function debug(something){
     document.getElementById("debugDiv").innerText = JSON.stringify(something);
@@ -98,49 +105,93 @@ function startNetwork(){
           edges: edges,
         };
 
-  var options = {
+  var networkOptions = {
     interaction: {
       navigationButtons: true,
       keyboard: true,
-    }};
-
-    network = new vis.Network(container, data, options);
-
-    network.on("click", function (params) {
-        onClick(params);
-    });
+      multiselect: false
+    },
+    physics: {
+      enabled: true,
+      barnesHut: {
+            theta: 0.5,
+            gravitationalConstant: -1500,
+            centralGravity: 0.5,
+            springLength: 50,
+            springConstant: 0.04,
+            damping: 0.09,
+            avoidOverlap: 0.2
+          },
+      maxVelocity: 5,
+      minVelocity: 1,
+    solver: 'barnesHut',
+    stabilization: {
+      enabled: true,
+      iterations: 500,
+      updateInterval: 100,
+      onlyDynamicEdges: false,
+      fit: true
+      },
+    timestep: 0.5
+    },
+    nodes:{
+      borderWidth: 1,
+      borderWidthSelected: 2,
+      chosen: true,
+      color: {
+        border: '#b3b3b3',
+        background: '#aaccff',
+        highlight: {
+          border: '#999999',
+          background: '#5599ff'
+        },
+        hover: {
+          border: '#2B7CE9',
+          background: '#D2E5FF'
+        }
+      },
+      size: 30,
+      shape: 'ellipse' //box is a good option as well.
     }
+  };
 
-startNetwork();
+    network = new vis.Network(container, data, networkOptions);
 
-function onClick(params) {
-    if(params.nodes.length == 1){
-      /*A node was clicked*/
+    network.on("selectNode", function (params) {
       var nodeId = params.nodes[0];
-      var myNode = getNode(nodeId);
+      network.focus(nodeId); //re-center the graph on the newly selected node
+      var nodeData = getNode(nodeId);
+      var nodeLabel = nodeData.label;
+      var nodeObject = network.body.nodes[nodeId];
+      if(nodeObject){
+      nodeObject.setOptions({
+        font: {
+          size: 20
+        }
+      });
       document.getElementById("selectedItemDiv").innerHTML =
-        '<b>' + myNode.label + '</b>' +
+        '<b>' + nodeLabel + '</b>' +
         '<input type="button" onclick="getMoreInformation(\'' + nodeId + '\');" value="More information" />' +
         '<input type="button" onclick="unloadNode(\'' + nodeId + '\');" value="Remove" />'
         ;
-    } else if(params.edges.length == 1){
-      /*An edge was clicked*/
-      /*DEBUG THIS*/
-      /*
-      window.alert("E");
-      var edgeId = params.edges[0];
-      var myEdge = getEdge(edgeId);
-      var label = myEdge.label;
-      var from = getNode(myEdge.from);
-      var to = getNode(myEdge.to);
-      document.getElementById("selectedItemDiv").innerHTML =
-        '<b>' + from.label + ' ' + myEdge.label + ' ' + to.label + '</b>'; /* +
-        '<input type="button" onclick="getMoreInformation(\'' + nodeId + '\');" value="More information" />' +
-        '<input type="button" onclick="unloadNode(\'' + nodeId + '\');" value="Remove" />'
-        */
-    }
+      }
+    });
+
+    network.on("deselectNode", function (params) {
+      var nodeId = params.previousSelection.nodes[0].id;
+      var node = network.body.nodes[nodeId];
+      if(node){
+      node.setOptions({
+        font: {
+          size: 15
+        }
+      });
+              }
+    });
 
   }
+
+startNetwork();
 
 function resetAll() {
   $('#mySelect2').val(null).trigger('change');
