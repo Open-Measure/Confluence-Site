@@ -28,28 +28,30 @@
 
   * { font-family: helvetica }
 
-    #selectedItemDiv {
-    width: 90%;
-    border: 2px solid #999999;
-    border-radius: 10px;
-    padding: 4px;
-    margin: 4px;
-    vertical-align: middle;
-    background-color: #ffffff;
-    height: 30px;
-  }
+
 
     input[type=button] {
     border: 2px solid #999999;
     border-radius: 10px;
     font-size: 1em;
+    font-weight: bold;
     padding: 4px;
-    margin: 4px;
     text-align: center;
     vertical-align: middle;
-    background-color: #aaccff;
+    background-color: #efefef;
   }
 
+    #nodeHeaderTitle {
+    color: black;
+    font-weight: bold;
+    width: 80%;
+    border: 2px solid #999999;
+    border-radius: 10px;
+    padding: 6px;
+    margin: 4px;
+    vertical-align: middle;
+    background-color: #5599ff;
+  }
 
   #mynetwork {
     width: 90%;
@@ -79,7 +81,7 @@ div.vis-network div.vis-navigation div.vis-button.vis-zoomExtends {
   margin: 4px;
   text-align: center;
   vertical-align: middle;
-  background-color: #aaccff;
+  background-color: #efefef;
 }
 
 div.vis-network div.vis-navigation div.vis-button:hover {
@@ -257,9 +259,9 @@ function startNetwork(){
             size: 20
         }});
         document.getElementById("selectedItemDiv").innerHTML =
-          '<b>' + nodeLabel + '</b>' +
-          '<input type="button" onclick="getMoreInformation(\'' + nodeId + '\');" value="More information" />' +
-          '<input type="button" onclick="unloadNode(\'' + nodeId + '\');" value="Remove" />'
+          '<span id="nodeHeaderTitle">' + nodeLabel + '</span>' +
+          '&nbsp;<input type="button" onclick="getMoreInformation(\'' + nodeId + '\');" value="More information" />' +
+          '&nbsp;<input type="button" onclick="unloadNode(\'' + nodeId + '\');" value="Remove" />'
           ;
         }
       }
