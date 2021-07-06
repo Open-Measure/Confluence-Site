@@ -38,7 +38,7 @@
 ,{"id":"n_authenticated_users","label":"Authenticated Users","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/966492169"}
 ,{"id":"n_authentication","label":"Authentication","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/61177884"}
 ,{"id":"n_authentication_factor","label":"Authentication Factor","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/81199158"}
-,{"id":"n_authentication_method","label":"Authentication Method","url":}
+,{"id":"n_authentication_method","label":"Authentication Method","url":""}
 ,{"id":"n_authenticator","label":"Authenticator","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/848724060"}
 ,{"id":"n_authority","label":"Authority","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998178905"}
 ,{"id":"n_authorization","label":"Authorization","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/60882993"}
@@ -55,7 +55,7 @@
 ,{"id":"n_authorization_externalization","label":"Authorization Externalization","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1137573936/Authorization+Externalization"}
 ,{"id":"n_bankid","label":"BankID","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/797933843"}
 ,{"id":"n_basic_z_rule","label":"Basic Z Rule","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1228079157"}
-,{"id":"n_back_end_authentication","label":"Back-end Authentication","url":}
+,{"id":"n_back_end_authentication","label":"Back-end Authentication","url":""}
 ,{"id":"n_bell_lapadula_model","label":"Bell-LaPadula Model","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1237549087/Bell-LaPadula+Model"}
 ,{"id":"n_behavioral_authentication","label":"Behavioral Authentication","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1673527501/Behavioral+Authentication"}
 ,{"id":"n_biometric_identification","label":"Biometric Identification","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/409174210"}
@@ -63,7 +63,7 @@
 ,{"id":"n_birth_certificate","label":"Birth Certificate","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1031209441"}
 ,{"id":"n_blast_radius","label":"Blast Radius","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/794492970"}
 ,{"id":"n_boundary_control","label":"Boundary Control","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1571389777/Boundary+Control"}
-,{"id":"n_biometric_authentication","label":"Biometric Authentication","url":}
+,{"id":"n_biometric_authentication","label":"Biometric Authentication","url":""}
 ,{"id":"n_broker","label":"Broker","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/81101750"}
 ,{"id":"n_brute_force_attack","label":"Brute Force Attack","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1348763687/Brute+Force+Attack"}
 ,{"id":"n_built_in","label":"Built-in","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140772106"}
@@ -71,14 +71,14 @@
 ,{"id":"n_cached_credential","label":"Cached Credential","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1254588417/Cached+Credential"}
 ,{"id":"n_cdd","label":"CDD","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/442466346/CDD"}
 ,{"id":"n_centralized_identity_management_system","label":"Centralized Identity Management System","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1152483641"}
-,{"id":"n_brainwaves_authentication","label":"Brainwaves Authentication","url":}
+,{"id":"n_brainwaves_authentication","label":"Brainwaves Authentication","url":""}
 ,{"id":"n_certification","label":"Certification","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/823459864"}
 ,{"id":"n_ciba","label":"CIBA","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1290076214/CIBA"}
 ,{"id":"n_claim","label":"Claim","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1323499650/Claim"}
 ,{"id":"n_claim_registry_model","label":"Claim Registry Model","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1309605928/Claim+Registry+Model"}
 ,{"id":"n_claimant","label":"Claimant","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/848363630"}
 ,{"id":"n_classification","label":"Classification","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140771387"}
-,{"id":"n_certificate_based_authentication","label":"Certificate-based Authentication","url":}
+,{"id":"n_certificate_based_authentication","label":"Certificate-based Authentication","url":""}
 ,{"id":"n_cloud_identity_management_system","label":"Cloud Identity Management System","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1152516136"}
 ,{"id":"n_cloud_idms","label":"Cloud IdMS","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1152516118"}
 ,{"id":"n_cloud_service_consumers","label":"Cloud Service Consumers","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1147043959"}
@@ -130,7 +130,7 @@
 ,{"id":"n_e_identity","label":"e-Identity","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/82903896"}
 ,{"id":"n_ecs","label":"ECS","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/206766113"}
 ,{"id":"n_eidm","label":"EIdM","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/61964467"}
-,{"id":"n_email_otp","label":"Email OTP","url":}
+,{"id":"n_email_otp","label":"Email OTP","url":""}
 ,{"id":"n_employee","label":"Employee","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1031209232"}
 ,{"id":"n_enterprise_cloud_subscriber","label":"Enterprise Cloud Subscriber","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/206766092"}
 ,{"id":"n_enterprise_identity_management","label":"Enterprise Identity Management","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/62455952"}
@@ -156,22 +156,22 @@
 ,{"id":"n_federation_bridge","label":"Federation Bridge","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/763035693"}
 ,{"id":"n_fim","label":"FIM","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/331579618"}
 ,{"id":"n_financial_grade_api","label":"Financial-grade API","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1290207237/Financial-grade+API"}
-,{"id":"n_facial_recognition_authentication","label":"Facial Recognition Authentication","url":}
+,{"id":"n_facial_recognition_authentication","label":"Facial Recognition Authentication","url":""}
 ,{"id":"n_fintech","label":"FinTech","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1378091043/FinTech"}
 ,{"id":"n_flexibility","label":"Flexibility","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/438698048"}
 ,{"id":"n_flow_analysis","label":"Flow Analysis","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1223884872"}
 ,{"id":"n_forged_identity","label":"Forged Identity","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1173585921"}
 ,{"id":"n_formal_verification","label":"Formal Verification","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1226833964"}
 ,{"id":"n_foundational_identification_system","label":"Foundational Identification System","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/419561522/Foundational+Identification+System"}
-,{"id":"n_fingerprint_recognition_authentication","label":"Fingerprint Recognition Authentication","url":}
+,{"id":"n_fingerprint_recognition_authentication","label":"Fingerprint Recognition Authentication","url":""}
 ,{"id":"n_functional_identification_system","label":"Functional Identification System","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/419528747"}
 ,{"id":"n_functional_system","label":"Functional System","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1229619254"}
-,{"id":"n_front_end_authentication","label":"Front-end Authentication","url":}
-,{"id":"n_gait_recognition_authentication","label":"Gait Recognition Authentication","url":}
-,{"id":"n_geo_localization_authentication","label":"Geo-localization Authentication","url":}
+,{"id":"n_front_end_authentication","label":"Front-end Authentication","url":""}
+,{"id":"n_gait_recognition_authentication","label":"Gait Recognition Authentication","url":""}
+,{"id":"n_geo_localization_authentication","label":"Geo-localization Authentication","url":""}
 ,{"id":"n_guest_account","label":"Guest Account","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/966557699"}
-,{"id":"n_graphical_password_based_authentication","label":"Graphical Password-Based Authentication","url":}
-,{"id":"n_hand_gestures_recognition_authentication","label":"Hand Gestures Recognition Authentication","url":}
+,{"id":"n_graphical_password_based_authentication","label":"Graphical Password-Based Authentication","url":""}
+,{"id":"n_hand_gestures_recognition_authentication","label":"Hand Gestures Recognition Authentication","url":""}
 ,{"id":"n_high_water_mark_principle","label":"High Water Mark Principle","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1177846011"}
 ,{"id":"n_human_error","label":"Human Error","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998047786"}
 ,{"id":"n_human_reliability","label":"Human Reliability","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998277156"}
@@ -209,7 +209,7 @@
 ,{"id":"n_idp","label":"IdP","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/81101362"}
 ,{"id":"n_img","label":"IMG","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/107708597"}
 ,{"id":"n_impersonation","label":"Impersonation","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/974323719"}
-,{"id":"n_heartbeats_recognition_authentication","label":"Heartbeats Recognition Authentication","url":}
+,{"id":"n_heartbeats_recognition_authentication","label":"Heartbeats Recognition Authentication","url":""}
 ,{"id":"n_information","label":"Information","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1027342618"}
 ,{"id":"n_information_asset","label":"Information Asset","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/455508212"}
 ,{"id":"n_information_custodian","label":"Information Custodian","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1004896257"}
@@ -217,7 +217,7 @@
 ,{"id":"n_information_owner","label":"Information Owner","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998113409"}
 ,{"id":"n_information_security_domain","label":"Information Security Domain","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/438698009/Information+Security+Domain"}
 ,{"id":"n_information_system","label":"Information System","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1031241830/Information+System"}
-,{"id":"n_inherence_factor","label":"Inherence Factor","url":}
+,{"id":"n_inherence_factor","label":"Inherence Factor","url":""}
 ,{"id":"n_inside_attacker","label":"Inside Attacker","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1477869651/Inside+Attacker"}
 ,{"id":"n_insider","label":"Insider","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1451884782/Insider"}
 ,{"id":"n_insider_attack","label":"Insider Attack","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1478459402/Insider+Attack"}
@@ -227,7 +227,7 @@
 ,{"id":"n_interested_party","label":"Interested Party","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1311417"}
 ,{"id":"n_interoperability","label":"Interoperability","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/442466314"}
 ,{"id":"n_interval_scale","label":"Interval Scale","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/11567191"}
-,{"id":"n_in_band_authentication","label":"In-band Authentication","url":}
+,{"id":"n_in_band_authentication","label":"In-band Authentication","url":""}
 ,{"id":"n_isolated_identity_management_system","label":"Isolated Identity Management System","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1152483625"}
 ,{"id":"n_it_asset_scope","label":"IT Asset Scope","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/720902"}
 ,{"id":"n_it_system","label":"IT System","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1569095803/IT+System"}
@@ -240,9 +240,9 @@
 ,{"id":"n_key_criteria_type","label":"Key Criteria Type","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140706011"}
 ,{"id":"n_key_information","label":"Key Information","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/425623701"}
 ,{"id":"n_keying_material","label":"Keying Material","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/427163745"}
-,{"id":"n_iris_recognition_authentication","label":"Iris Recognition Authentication","url":}
-,{"id":"n_knowledge_factor","label":"Knowledge Factor","url":}
-,{"id":"n_keystroke_recognition_authentication","label":"Keystroke Recognition Authentication","url":}
+,{"id":"n_iris_recognition_authentication","label":"Iris Recognition Authentication","url":""}
+,{"id":"n_knowledge_factor","label":"Knowledge Factor","url":""}
+,{"id":"n_keystroke_recognition_authentication","label":"Keystroke Recognition Authentication","url":""}
 ,{"id":"n_kyc","label":"KYC","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/442499114"}
 ,{"id":"n_kyc_registry","label":"KYC Registry","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/442400811"}
 ,{"id":"n_lattice_based_access_control","label":"Lattice-Based Access Control","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1177681925"}
@@ -256,18 +256,18 @@
 ,{"id":"n_levels_of_assurance","label":"Levels of Assurance","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/442466381"}
 ,{"id":"n_liberal_discretionary_access_control","label":"Liberal Discretionary Access Control","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1177845957"}
 ,{"id":"n_loa","label":"LOA","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/442400912"}
-,{"id":"n_location_factor","label":"Location Factor","url":}
+,{"id":"n_location_factor","label":"Location Factor","url":""}
 ,{"id":"n_logic_bomb","label":"Logic Bomb","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1452048577/Logic+Bomb"}
 ,{"id":"n_login","label":"Login","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1440153606/Login"}
 ,{"id":"n_login_id","label":"Login ID","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1428685307/Login+ID"}
 ,{"id":"n_login_name","label":"Login Name","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1428685365/Login+Name"}
 ,{"id":"n_mechanism","label":"Mechanism","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/67699227"}
 ,{"id":"n_metadirectory","label":"Metadirectory","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/834044288"}
-,{"id":"n_knuckleprint_recognition_authentication","label":"Knuckleprint Recognition Authentication","url":}
+,{"id":"n_knuckleprint_recognition_authentication","label":"Knuckleprint Recognition Authentication","url":""}
 ,{"id":"n_multidomain_single_sign_on","label":"Multidomain Single Sign-On","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/75890760"}
 ,{"id":"n_multilevel_security","label":"Multilevel Security","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1031241799"}
 ,{"id":"n_multiple_accounts","label":"Multiple Accounts","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1600684160/Multiple+Accounts"}
-,{"id":"n_multi_model_biometric_authentication","label":"Multi-Model Biometric Authentication","url":}
+,{"id":"n_multi_model_biometric_authentication","label":"Multi-Model Biometric Authentication","url":""}
 ,{"id":"n_need_to_know","label":"Need-to-Know","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1474592794/Need-to-Know"}
 ,{"id":"n_new_joiner","label":"New Joiner","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/858456124"}
 ,{"id":"n_no_tranquility_property","label":"No Tranquility Property","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1237483723"}
@@ -293,21 +293,21 @@
 ,{"id":"n_orphan_role","label":"Orphan Role","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1063845889"}
 ,{"id":"n_orphan_routes_apis","label":"Orphan Routes / APIs","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1061650689"}
 ,{"id":"n_orphan_system","label":"Orphan System","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1061748885"}
-,{"id":"n_one_time_passcode_authentication","label":"One-Time Passcode Authentication","url":}
+,{"id":"n_one_time_passcode_authentication","label":"One-Time Passcode Authentication","url":""}
 ,{"id":"n_outsider","label":"Outsider","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1472692289/Outsider"}
-,{"id":"n_out_of_band_authentication","label":"Out-of-band Authentication","url":}
+,{"id":"n_out_of_band_authentication","label":"Out-of-band Authentication","url":""}
 ,{"id":"n_passive_impersonation_attack","label":"Passive Impersonation Attack","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/974323764"}
-,{"id":"n_palmprint_recognition_authentication","label":"Palmprint Recognition Authentication","url":}
-,{"id":"n_passphrase_authentication","label":"Passphrase Authentication","url":}
+,{"id":"n_palmprint_recognition_authentication","label":"Palmprint Recognition Authentication","url":""}
+,{"id":"n_passphrase_authentication","label":"Passphrase Authentication","url":""}
 ,{"id":"n_password_guessing_attack","label":"Password Guessing Attack","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1428652394/Password+Guessing+Attack"}
 ,{"id":"n_password_rotation","label":"Password Rotation","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1027048058"}
 ,{"id":"n_password_spraying_attack","label":"Password Spraying Attack","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1348730921/Password+Spraying+Attack"}
-,{"id":"n_password_based_authentication","label":"Password-Based Authentication","url":}
+,{"id":"n_password_based_authentication","label":"Password-Based Authentication","url":""}
 ,{"id":"n_people","label":"People","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1409753"}
 ,{"id":"n_permission","label":"Permission","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/67699129"}
 ,{"id":"n_persona","label":"Persona","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1323499709/Persona"}
 ,{"id":"n_passwordless_authentication","label":"Passwordless Authentication","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1677164566/Passwordless+Authentication"}
-,{"id":"n_physical_token_otp","label":"Physical Token OTP","url":}
+,{"id":"n_physical_token_otp","label":"Physical Token OTP","url":""}
 ,{"id":"n_pms","label":"PMS","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1572948"}
 ,{"id":"n_policy","label":"Policy","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/67568272"}
 ,{"id":"n_policy_analysis","label":"Policy Analysis","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1104904334"}
@@ -316,7 +316,7 @@
 ,{"id":"n_policy_manageability","label":"Policy Manageability","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1122631903"}
 ,{"id":"n_policy_mining","label":"Policy Mining","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1105068063"}
 ,{"id":"n_policy_modeling","label":"Policy Modeling","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1130987523"}
-,{"id":"n_possession_factor","label":"Possession Factor","url":}
+,{"id":"n_possession_factor","label":"Possession Factor","url":""}
 ,{"id":"n_pre_approval","label":"Pre-approval","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1094549649"}
 ,{"id":"n_principal","label":"Principal","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/67699046"}
 ,{"id":"n_private_key_loss","label":"Private Key Loss","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1323434264/Private+Key+Loss"}
@@ -327,7 +327,7 @@
 ,{"id":"n_privileged_identity","label":"Privileged Identity","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/138346661"}
 ,{"id":"n_privileged_insider","label":"Privileged Insider","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1477902403/Privileged+Insider"}
 ,{"id":"n_provisioning","label":"Provisioning","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/61964289"}
-,{"id":"n_personal_identification_number_authentication","label":"Personal Identification Number Authentication","url":}
+,{"id":"n_personal_identification_number_authentication","label":"Personal Identification Number Authentication","url":""}
 ,{"id":"n_qualitative_identity","label":"Qualitative Identity","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1323598109/Qualitative+Identity"}
 ,{"id":"n_ra","label":"RA","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/82903928"}
 ,{"id":"n_ratio_scale","label":"Ratio Scale","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/11567198"}
@@ -378,22 +378,22 @@
 ,{"id":"n_service_account","label":"Service Account","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/805142555"}
 ,{"id":"n_service_centric_identity_management_system","label":"Service-Centric Identity Management System","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1313538143/Service-Centric+Identity+Management+System"}
 ,{"id":"n_session","label":"Session","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/881197061"}
-,{"id":"n_security_question_authentication","label":"Security Question Authentication","url":}
+,{"id":"n_security_question_authentication","label":"Security Question Authentication","url":""}
 ,{"id":"n_single_login","label":"Single Login","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/78741548"}
 ,{"id":"n_single_sign_on","label":"Single Sign-On","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/75956255"}
-,{"id":"n_single_sign_on","label":"Single Sign-On","url":}
-,{"id":"n_sms_otp","label":"SMS OTP","url":}
-,{"id":"n_session_authentication","label":"Session Authentication","url":}
+,{"id":"n_single_sign_on","label":"Single Sign-On","url":""}
+,{"id":"n_sms_otp","label":"SMS OTP","url":""}
+,{"id":"n_session_authentication","label":"Session Authentication","url":""}
 ,{"id":"n_social_honeypot","label":"Social Honeypot","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1270055026/Social+Honeypot"}
 ,{"id":"n_sod","label":"SoD","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1071317018"}
-,{"id":"n_software_app_otp","label":"Software / App OTP","url":}
+,{"id":"n_software_app_otp","label":"Software / App OTP","url":""}
 ,{"id":"n_software_defined_perimeter","label":"Software-Defined Perimeter","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/234487981"}
 ,{"id":"n_spiffe","label":"SPIFFE","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1142292486"}
 ,{"id":"n_spms","label":"SPMS","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1605648"}
 ,{"id":"n_ssh_key","label":"SSH Key","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1027342899"}
 ,{"id":"n_ssi","label":"SSI","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1311113221/SSI"}
 ,{"id":"n_sso","label":"SSO","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/75956237"}
-,{"id":"n_sso","label":"SSO","url":}
+,{"id":"n_sso","label":"SSO","url":""}
 ,{"id":"n_stability_of_access_decision_factors","label":"Stability of Access Decision Factors","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998244645"}
 ,{"id":"n_stakeholder","label":"Stakeholder","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1311763"}
 ,{"id":"n_social_authentication","label":"Social Authentication","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1600684200/Social+Authentication"}
@@ -411,12 +411,12 @@
 ,{"id":"n_system_for_cross_domain_identity_management","label":"System for Cross-domain Identity Management","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/206372869"}
 ,{"id":"n_system_owner","label":"System Owner","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1004961963"}
 ,{"id":"n_system_z","label":"System Z","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1226571890"}
-,{"id":"n_tan_list_otp","label":"TAN List OTP","url":}
+,{"id":"n_tan_list_otp","label":"TAN List OTP","url":""}
 ,{"id":"n_task_based_access_control","label":"Task-Based Access Control","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1122631693"}
 ,{"id":"n_strong_authentication","label":"Strong Authentication","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/81199126"}
-,{"id":"n_time_factor","label":"Time Factor","url":}
-,{"id":"n_text_password_authentication","label":"Text Password Authentication","url":}
-,{"id":"n_token_based_authentication","label":"Token-Based Authentication","url":}
+,{"id":"n_time_factor","label":"Time Factor","url":""}
+,{"id":"n_text_password_authentication","label":"Text Password Authentication","url":""}
+,{"id":"n_token_based_authentication","label":"Token-Based Authentication","url":""}
 ,{"id":"n_toxic_combinations","label":"Toxic Combinations","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1130954862"}
 ,{"id":"n_toxic_right_rule_(definition)","label":"Toxic Right Rule (Definition)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/360467"}
 ,{"id":"n_tranquil","label":"Tranquil","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1237582070/Tranquil"}
@@ -430,7 +430,7 @@
 ,{"id":"n_typing_biometrics","label":"Typing Biometrics","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1417084929/Typing+Biometrics"}
 ,{"id":"n_typology","label":"Typology","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140673267"}
 ,{"id":"n_unanticipated_user","label":"Unanticipated User","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1027080193/Unanticipated+User"}
-,{"id":"n_touchstroke_recognition_authentication","label":"Touchstroke Recognition Authentication","url":}
+,{"id":"n_touchstroke_recognition_authentication","label":"Touchstroke Recognition Authentication","url":""}
 ,{"id":"n_unique_id_number","label":"Unique ID Number","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/446955662/Unique+ID+Number"}
 ,{"id":"n_unprivileged_insider","label":"Unprivileged Insider","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1477902414/Unprivileged+Insider"}
 ,{"id":"n_user","label":"User","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/82839586/User"}
@@ -446,10 +446,10 @@
 ,{"id":"n_virtual_directory","label":"Virtual Directory","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/834044330"}
 ,{"id":"n_virtual_private_network","label":"Virtual Private Network","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/236748839"}
 ,{"id":"n_virtual_risk_and_security_site_review","label":"Virtual Risk and Security Site Review","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/542146561"}
-,{"id":"n_voice_otp","label":"Voice OTP","url":}
+,{"id":"n_voice_otp","label":"Voice OTP","url":""}
 ,{"id":"n_unauthorized_access","label":"Unauthorized Access","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1231126540/Unauthorized+Access"}
 ,{"id":"n_vpn","label":"VPN","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/234389605"}
-,{"id":"n_voice_recognition_authentication","label":"Voice Recognition Authentication","url":}
+,{"id":"n_voice_recognition_authentication","label":"Voice Recognition Authentication","url":""}
 ,{"id":"n_weak_tranquility_property","label":"Weak Tranquility Property","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1177845999"}
 ,{"id":"n_web_based_single_sign_on","label":"Web-based Single Sign-On","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/75923587"}
 ,{"id":"n_windows_(non_default)_local_user_account","label":"Windows (Non-Default) Local User Account","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140673566"}
