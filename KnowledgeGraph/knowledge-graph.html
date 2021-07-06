@@ -1,5 +1,11 @@
 <html>
 <head>
+<!--
+Big hugs to:
+https://select2.org/
+https://visjs.org/
+https://jquery.com/
+-->
 </head>
 <body>
   <h1>The Open-Measure Knowledge Graph - <i>Beta Version 0.1</i></h1>
@@ -16,7 +22,6 @@
          value="Clear All">
 
   </div>
-<!--https://select2.org/getting-started/basic-usage-->
 <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js"></script>
 <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
 <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
@@ -151,6 +156,14 @@ var edgesDatabase = [
           { id: "e4", from: "n4", to: "n5", label:"is a", arrows:"to" }
         ];
 
+var nodesDatabase = null;
+
+fetch('nodes-data.json')
+  .then(getNodes => response.json());
+
+var nodesDatabase = getNodes();
+
+/*
 var nodesDatabase = [
           { id: "n1", label: "Authentication Factors", group:"Concept", url:"https://open"},
           { id: "n2", label: "Inherence Factor", group:"Concept", url:"https://open"},
@@ -164,6 +177,7 @@ var nodesDatabase = [
           { id: "n10", label: "Provisioning", group:"Process", url:"https://open"},
           { id: "n11", label: "Provisioning", group:"Process", url:"https://open"}
         ];
+*/
 
 $(document).ready(function() {
 
