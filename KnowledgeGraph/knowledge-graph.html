@@ -158,10 +158,9 @@ var edgesDatabase = [
 
 var nodesDatabase = null;
 
-fetch('nodes-data.json')
-  .then(getNodes => response.json());
-
-var nodesDatabase = getNodes();
+fetch('https://raw.githubusercontent.com/Open-Measure/Confluence-Site/master/KnowledgeGraph/nodes-data.json')
+  .then(response => response.json())
+  .then(data => nodesDatabase = data);
 
 /*
 var nodesDatabase = [
