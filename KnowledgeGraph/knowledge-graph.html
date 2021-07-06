@@ -13,7 +13,7 @@
   <input
          type="button"
          onclick="resetAll()"
-         value="Clear">
+         value="Clear All">
 
   </div>
 <!--https://select2.org/getting-started/basic-usage-->
@@ -27,8 +27,6 @@
 <style>
 
   * { font-family: helvetica }
-
-
 
     input[type=button] {
     border: 2px solid #999999;
@@ -125,8 +123,8 @@ div.vis-network div.vis-navigation div.vis-button:hover {
 .vis-button.vis-zoomExtends:after {
   content: "⤧";
 }
-  </style>
-  <script type="text/javascript">
+</style>
+<script type="text/javascript">
 
 var selectableItems = [
     {
@@ -154,11 +152,17 @@ var edgesDatabase = [
         ];
 
 var nodesDatabase = [
-          { id: "n1", label: "Authentication Factors", category:"Concept", url:"https://open"},
-          { id: "n2", label: "Inherence Factor", category:"Concept", url:"https://open"},
-          { id: "n3", label: "Possession Factor", category:"Concept", url:"https://open"},
-          { id: "n4", label: "Application Onboarding", category:"Process", url:"https://open"},
-          { id: "n5", label: "Provisioning", category:"Process", url:"https://open"}
+          { id: "n1", label: "Authentication Factors", group:"Concept", url:"https://open"},
+          { id: "n2", label: "Inherence Factor", group:"Concept", url:"https://open"},
+          { id: "n3", label: "Possession Factor", group:"Concept", url:"https://open"},
+          { id: "n4", label: "Application Onboarding", group:"Process", url:"https://open"},
+          { id: "n5", label: "Provisioning", group:"Process", url:"https://open"},
+          { id: "n6", label: "Provisioning", group:"Process", url:"https://open"},
+          { id: "n7", label: "Provisioning", group:"Process", url:"https://open"},
+          { id: "n8", label: "Provisioning", group:"Process", url:"https://open"},
+          { id: "n9", label: "Provisioning", group:"Process", url:"https://open"},
+          { id: "n10", label: "Provisioning", group:"Process", url:"https://open"},
+          { id: "n11", label: "Provisioning", group:"Process", url:"https://open"}
         ];
 
 $(document).ready(function() {
@@ -250,7 +254,7 @@ function startNetwork(){
     network.on("selectNode", function (params) {
       var nodeId = params.nodes[0];
       if(nodeId){
-        network.focus(nodeId); //re-center the graph on the newly selected node
+        loadNode(nodeId);
         var nodeData = getNode(nodeId);
         var nodeLabel = nodeData.label;
         var nodeObject = network.body.nodes[nodeId];
@@ -260,9 +264,10 @@ function startNetwork(){
         }});
         document.getElementById("selectedItemDiv").innerHTML =
           '<span id="nodeHeaderTitle">' + nodeLabel + '</span>' +
-          '&nbsp;<input type="button" onclick="getMoreInformation(\'' + nodeId + '\');" value="More information" />' +
+          '&nbsp;<a type="button" href="' + nodeData.url + '" target="_blank">Wiki Page</a>' +
           '&nbsp;<input type="button" onclick="unloadNode(\'' + nodeId + '\');" value="Remove" />'
           ;
+        //network.focus(nodeId); //re-center the graph on the newly selected node
         }
       }
     );
