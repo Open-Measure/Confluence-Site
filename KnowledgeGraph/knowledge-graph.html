@@ -131,24 +131,6 @@ div.vis-network div.vis-navigation div.vis-button:hover {
 </style>
 <script type="text/javascript">
 
-var selectableItems = [
-    {
-      text: "Concepts",
-      children: [
-        {id: "n1", text: "Authentication Factors"},
-        {id: "n2", text: "Inherence Factor"},
-        {id: "n3", text: "Possession Factor"}
-      ]
-    },
-    {
-      text: "Processes",
-      children: [
-        {id: "n4", text: "Application Onboarding"},
-        {id: "n5", text: "Provisioning"}
-      ]
-    }
-  ];
-
 var edgesDatabase = [
           { id: "e1", from: "n2", to: "n1", label:"is a", arrows:"to" },
           { id: "e2", from: "n3", to: "n1", label:"is a", arrows:"to" },
@@ -177,6 +159,29 @@ var nodesDatabase = [
           { id: "n11", label: "Provisioning", group:"Process", url:"https://open"}
         ];
 */
+
+for(node in nodesDatabase){
+  ***** TODO ******
+    TRANSFORM THE NODES DATABASE IN SELECTABLE ITEMS FORMAT
+}
+
+var selectableItems = [
+    {
+      text: "Concepts",
+      children: [
+        {id: "n1", text: "Authentication Factors"},
+        {id: "n2", text: "Inherence Factor"},
+        {id: "n3", text: "Possession Factor"}
+      ]
+    },
+    {
+      text: "Processes",
+      children: [
+        {id: "n4", text: "Application Onboarding"},
+        {id: "n5", text: "Provisioning"}
+      ]
+    }
+  ];
 
 $(document).ready(function() {
 

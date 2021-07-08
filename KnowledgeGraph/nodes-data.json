@@ -1,475 +1,475 @@
 [
-{"id":"n_4_eyes_principle","label":"4-Eyes Principle","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/805175450/4-Eyes+Principle"}
-,{"id":"n_access","label":"Access","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/123962347/Access"}
-,{"id":"n_access_audit","label":"Access Audit","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1121878227"}
-,{"id":"n_access_continuum","label":"Access Continuum","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1034223816/Access+Continuum"}
-,{"id":"n_access_control","label":"Access Control","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/427163781"}
-,{"id":"n_access_control_list","label":"Access Control List","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/822345754"}
-,{"id":"n_access_control_mechanism","label":"Access Control Mechanism","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/67633606"}
-,{"id":"n_access_control_model","label":"Access Control Model","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/67699193"}
-,{"id":"n_access_control_policy","label":"Access Control Policy","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/67633597"}
-,{"id":"n_access_granularity","label":"Access Granularity","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1006632974"}
-,{"id":"n_access_privilege","label":"Access Privilege","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1122631723"}
-,{"id":"n_access_right","label":"Access Right","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1122599013"}
-,{"id":"n_access_rights_management","label":"Access Rights Management","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1704003"}
-,{"id":"n_access_token","label":"Access Token","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1600684040/Access+Token"}
-,{"id":"n_account","label":"Account","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/461308120/Account"}
-,{"id":"n_account_lockout_policy","label":"Account Lockout Policy","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/67699360"}
-,{"id":"n_account_management","label":"Account Management","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1146847331"}
-,{"id":"n_account_takeover","label":"Account Takeover","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1079050286/Account+Takeover"}
-,{"id":"n_accountability","label":"Accountability","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/425623718"}
-,{"id":"n_accreditation","label":"Accreditation","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/446955580"}
-,{"id":"n_active_impersonation_attack","label":"Active Impersonation Attack","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/974454812"}
-,{"id":"n_ap","label":"AP","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/81101665/AP"}
-,{"id":"n_applicant","label":"Applicant","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/848625750"}
-,{"id":"n_application","label":"Application","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/5965602/Application"}
-,{"id":"n_application_administrator","label":"Application Administrator","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/274236090"}
-,{"id":"n_application_instance","label":"Application Instance","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/834044036"}
-,{"id":"n_application_level_policy","label":"Application-Level Policy","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1122631854"}
-,{"id":"n_application_multiplexing","label":"Application Multiplexing","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1658355721/Application+Multiplexing"}
-,{"id":"n_application_package","label":"Application Package","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/5932704"}
-,{"id":"n_application_program","label":"Application Program","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/6030793/Application+Program"}
-,{"id":"n_archive","label":"Archive","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/425197720"}
-,{"id":"n_arm","label":"ARM","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1703994/ARM"}
-,{"id":"n_asset_custody","label":"Asset Custody","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1094516867"}
-,{"id":"n_attestation","label":"Attestation","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1323368851/Attestation"}
-,{"id":"n_attribute","label":"Attribute","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/409174161"}
-,{"id":"n_attribute_provider","label":"Attribute Provider","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/81101655"}
-,{"id":"n_authenticated_users","label":"Authenticated Users","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/966492169"}
-,{"id":"n_authentication","label":"Authentication","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/61177884"}
-,{"id":"n_authentication_factor","label":"Authentication Factor","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/81199158"}
-,{"id":"n_authentication_method","label":"Authentication Method","url":""}
-,{"id":"n_authenticator","label":"Authenticator","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/848724060"}
-,{"id":"n_authority","label":"Authority","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998178905"}
-,{"id":"n_authorization","label":"Authorization","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/60882993"}
-,{"id":"n_awareness","label":"Awareness","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1311472"}
-,{"id":"n_aws_account_root_user","label":"AWS Account Root User","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998277774"}
-,{"id":"n_aws_acl","label":"AWS ACL","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998245198"}
-,{"id":"n_aws_iam","label":"AWS IAM","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998277876"}
-,{"id":"n_aws_iam_group","label":"AWS IAM Group","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998277805"}
-,{"id":"n_aws_iam_policy","label":"AWS IAM Policy","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998277852"}
-,{"id":"n_aws_iam_principal","label":"AWS IAM Principal","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1071251573"}
-,{"id":"n_aws_iam_role","label":"AWS IAM Role","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998245151"}
-,{"id":"n_aws_iam_temporary_security_credentials","label":"AWS IAM Temporary Security Credentials","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998277835"}
-,{"id":"n_aws_iam_user","label":"AWS IAM User","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998245125"}
-,{"id":"n_authorization_externalization","label":"Authorization Externalization","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1137573936/Authorization+Externalization"}
-,{"id":"n_bankid","label":"BankID","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/797933843"}
-,{"id":"n_basic_z_rule","label":"Basic Z Rule","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1228079157"}
-,{"id":"n_back_end_authentication","label":"Back-end Authentication","url":""}
-,{"id":"n_bell_lapadula_model","label":"Bell-LaPadula Model","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1237549087/Bell-LaPadula+Model"}
-,{"id":"n_behavioral_authentication","label":"Behavioral Authentication","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1673527501/Behavioral+Authentication"}
-,{"id":"n_biometric_identification","label":"Biometric Identification","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/409174210"}
-,{"id":"n_biometrics","label":"Biometrics","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/409010581"}
-,{"id":"n_birth_certificate","label":"Birth Certificate","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1031209441"}
-,{"id":"n_blast_radius","label":"Blast Radius","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/794492970"}
-,{"id":"n_boundary_control","label":"Boundary Control","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1571389777/Boundary+Control"}
-,{"id":"n_biometric_authentication","label":"Biometric Authentication","url":""}
-,{"id":"n_broker","label":"Broker","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/81101750"}
-,{"id":"n_brute_force_attack","label":"Brute Force Attack","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1348763687/Brute+Force+Attack"}
-,{"id":"n_built_in","label":"Built-in","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140772106"}
-,{"id":"n_bzr","label":"BZR","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1228079170/BZR"}
-,{"id":"n_cached_credential","label":"Cached Credential","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1254588417/Cached+Credential"}
-,{"id":"n_cdd","label":"CDD","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/442466346/CDD"}
-,{"id":"n_centralized_identity_management_system","label":"Centralized Identity Management System","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1152483641"}
-,{"id":"n_brainwaves_authentication","label":"Brainwaves Authentication","url":""}
-,{"id":"n_certification","label":"Certification","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/823459864"}
-,{"id":"n_ciba","label":"CIBA","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1290076214/CIBA"}
-,{"id":"n_claim","label":"Claim","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1323499650/Claim"}
-,{"id":"n_claim_registry_model","label":"Claim Registry Model","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1309605928/Claim+Registry+Model"}
-,{"id":"n_claimant","label":"Claimant","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/848363630"}
-,{"id":"n_classification","label":"Classification","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140771387"}
-,{"id":"n_certificate_based_authentication","label":"Certificate-based Authentication","url":""}
-,{"id":"n_cloud_identity_management_system","label":"Cloud Identity Management System","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1152516136"}
-,{"id":"n_cloud_idms","label":"Cloud IdMS","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1152516118"}
-,{"id":"n_cloud_service_consumers","label":"Cloud Service Consumers","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1147043959"}
-,{"id":"n_cloud_service_provider","label":"Cloud Service Provider","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/206307528"}
-,{"id":"n_cloud_service_user","label":"Cloud Service User","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/206766142/Cloud+Service+User"}
-,{"id":"n_commission_error","label":"Commission Error","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998277125"}
-,{"id":"n_compromised_identity","label":"Compromised Identity","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/461307985"}
-,{"id":"n_concurrent_impersonation_attack","label":"Concurrent Impersonation Attack","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/974454827"}
-,{"id":"n_client_initiated_backchannel_authentication","label":"Client Initiated Backchannel Authentication","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1290076229/Client+Initiated+Backchannel+Authentication"}
-,{"id":"n_control_party","label":"Control Party","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/82838169"}
-,{"id":"n_core_identity","label":"Core Identity","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/138346642"}
-,{"id":"n_credential","label":"Credential","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/67633343/Credential"}
-,{"id":"n_credential_harvesting","label":"Credential Harvesting","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1254719498/Credential+Harvesting"}
-,{"id":"n_credential_service_provider","label":"Credential Service Provider","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/82870977"}
-,{"id":"n_credential_stuffing","label":"Credential Stuffing","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1348862053/Credential+Stuffing"}
-,{"id":"n_credential_theft","label":"Credential Theft","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/461340725"}
-,{"id":"n_cryptographic_key","label":"Cryptographic Key","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/427130918"}
-,{"id":"n_csc","label":"CSC","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1152516162/CSC"}
-,{"id":"n_csp","label":"CSP","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/82903984/CSP"}
-,{"id":"n_csu","label":"CSU","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/206667867/CSU"}
-,{"id":"n_customer_due_diligence","label":"Customer Due Diligence","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/414482448"}
-,{"id":"n_customer_identification","label":"Customer Identification","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/414548006"}
-,{"id":"n_customer_identity","label":"Customer Identity","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/138444875"}
-,{"id":"n_customer_identity_verification","label":"Customer Identity Verification","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/409010717"}
-,{"id":"n_customer_on_boarding","label":"Customer On-Boarding","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/408944928"}
-,{"id":"n_customer_privacy_and_consent_management","label":"Customer Privacy and Consent Management","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/797900801"}
-,{"id":"n_cyber_sabotage","label":"Cyber-sabotage","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1451982933/Cyber-sabotage"}
-,{"id":"n_dac","label":"DAC","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1177845938/DAC"}
-,{"id":"n_data_anonymization","label":"Data Anonymization","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1267400850/Data+Anonymization"}
-,{"id":"n_data_custodian","label":"Data Custodian","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998244454"}
-,{"id":"n_data_level_policy","label":"Data-Level Policy","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1132331029"}
-,{"id":"n_data_lineage","label":"Data Lineage","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/508330028"}
-,{"id":"n_data_obfuscation","label":"Data Obfuscation","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1027048097"}
-,{"id":"n_data_owner","label":"Data Owner","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998179040"}
-,{"id":"n_de_duplication","label":"De-duplication","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/408977837"}
-,{"id":"n_death_certificate","label":"Death Certificate","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1031242134"}
-,{"id":"n_decentralized_identifier","label":"Decentralized Identifier","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/782893122"}
-,{"id":"n_deprovisioning","label":"Deprovisioning","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/62193665"}
-,{"id":"n_did","label":"DID","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/782925889/DID"}
-,{"id":"n_digital_continuity","label":"Digital Continuity","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/458326308"}
-,{"id":"n_digital_identification_system","label":"Digital Identification System","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/419561482/Digital+Identification+System"}
-,{"id":"n_digital_identity","label":"Digital Identity","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/419528705/Digital+Identity"}
-,{"id":"n_continuous_authentication","label":"Continuous Authentication","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/877297665"}
-,{"id":"n_digital_triangulation","label":"Digital Triangulation","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/796983391"}
-,{"id":"n_discretionary_access_control","label":"Discretionary Access Control","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1181876315"}
-,{"id":"n_distributed_identity","label":"Distributed Identity","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/810287202"}
-,{"id":"n_distributed_ledger_technology","label":"Distributed Ledger Technology","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/419594251"}
-,{"id":"n_digital_identity_authenticity","label":"Digital Identity Authenticity","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1270153304/Digital+Identity+Authenticity"}
-,{"id":"n_e_identity","label":"e-Identity","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/82903896"}
-,{"id":"n_ecs","label":"ECS","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/206766113"}
-,{"id":"n_eidm","label":"EIdM","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/61964467"}
-,{"id":"n_email_otp","label":"Email OTP","url":""}
-,{"id":"n_employee","label":"Employee","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1031209232"}
-,{"id":"n_enterprise_cloud_subscriber","label":"Enterprise Cloud Subscriber","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/206766092"}
-,{"id":"n_enterprise_identity_management","label":"Enterprise Identity Management","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/62455952"}
-,{"id":"n_enterprise_single_sign_on","label":"Enterprise Single Sign-On","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/76021801"}
-,{"id":"n_entitlement","label":"Entitlement","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1121878049"}
-,{"id":"n_entitlement_based_access_control","label":"Entitlement-Based Access Control","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1122566173"}
-,{"id":"n_entitlement_management","label":"Entitlement Management","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1122566465"}
-,{"id":"n_entitlement_management_process","label":"Entitlement Management Process","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1121910973"}
-,{"id":"n_entitlement_management_solution","label":"Entitlement Management Solution","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1122631800"}
-,{"id":"n_entity","label":"Entity","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/123830932"}
-,{"id":"n_esso","label":"ESSO","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/75956266"}
-,{"id":"n_excessive_privilege_abuse","label":"Excessive Privilege Abuse","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1104904275"}
-,{"id":"n_expanded_password_system","label":"Expanded Password System","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/446824885"}
-,{"id":"n_exploited_identity","label":"Exploited Identity","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/461275380"}
-,{"id":"n_extended_enterprise","label":"Extended Enterprise","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/82870848"}
-,{"id":"n_extensible_access_control_markup_language","label":"Extensible Access Control Markup Language","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1121878505"}
-,{"id":"n_dual_authorization","label":"Dual Authorization","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/806584322"}
-,{"id":"n_fake_digital_identity","label":"Fake Digital Identity","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1267433567/Fake+Digital+Identity"}
-,{"id":"n_fapi","label":"FAPI","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1290141697/FAPI"}
-,{"id":"n_federated_identity_management","label":"Federated Identity Management","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/331579598"}
-,{"id":"n_federated_identity_management_system","label":"Federated Identity Management System","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1152483703"}
-,{"id":"n_federated_sso","label":"Federated SSO","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/75890786"}
-,{"id":"n_federation_bridge","label":"Federation Bridge","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/763035693"}
-,{"id":"n_fim","label":"FIM","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/331579618"}
-,{"id":"n_financial_grade_api","label":"Financial-grade API","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1290207237/Financial-grade+API"}
-,{"id":"n_facial_recognition_authentication","label":"Facial Recognition Authentication","url":""}
-,{"id":"n_fintech","label":"FinTech","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1378091043/FinTech"}
-,{"id":"n_flexibility","label":"Flexibility","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/438698048"}
-,{"id":"n_flow_analysis","label":"Flow Analysis","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1223884872"}
-,{"id":"n_forged_identity","label":"Forged Identity","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1173585921"}
-,{"id":"n_formal_verification","label":"Formal Verification","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1226833964"}
-,{"id":"n_foundational_identification_system","label":"Foundational Identification System","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/419561522/Foundational+Identification+System"}
-,{"id":"n_fingerprint_recognition_authentication","label":"Fingerprint Recognition Authentication","url":""}
-,{"id":"n_functional_identification_system","label":"Functional Identification System","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/419528747"}
-,{"id":"n_functional_system","label":"Functional System","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1229619254"}
-,{"id":"n_front_end_authentication","label":"Front-end Authentication","url":""}
-,{"id":"n_gait_recognition_authentication","label":"Gait Recognition Authentication","url":""}
-,{"id":"n_geo_localization_authentication","label":"Geo-localization Authentication","url":""}
-,{"id":"n_guest_account","label":"Guest Account","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/966557699"}
-,{"id":"n_graphical_password_based_authentication","label":"Graphical Password-Based Authentication","url":""}
-,{"id":"n_hand_gestures_recognition_authentication","label":"Hand Gestures Recognition Authentication","url":""}
-,{"id":"n_high_water_mark_principle","label":"High Water Mark Principle","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1177846011"}
-,{"id":"n_human_error","label":"Human Error","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998047786"}
-,{"id":"n_human_reliability","label":"Human Reliability","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998277156"}
-,{"id":"n_iag","label":"IAG","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1572865/IAG"}
-,{"id":"n_iam","label":"IAM","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1081356/IAM"}
-,{"id":"n_iam_arn","label":"IAM ARN","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1037926677"}
-,{"id":"n_iam_management","label":"IAM Management","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/82838735"}
-,{"id":"n_iap","label":"IAP","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/234487971"}
-,{"id":"n_idaas","label":"IDaaS","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1149468857"}
-,{"id":"n_ideal_type","label":"Ideal Type","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/149356545"}
-,{"id":"n_identification","label":"Identification","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/419659837"}
-,{"id":"n_identification_system","label":"Identification System","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/419758113"}
-,{"id":"n_identifier","label":"Identifier","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/435322922"}
-,{"id":"n_identifier_registry_model","label":"Identifier Registry Model","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1311113273/Identifier+Registry+Model"}
-,{"id":"n_identity","label":"Identity","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/67600948"}
-,{"id":"n_identity_aggregation","label":"Identity Aggregation","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1600618542/Identity+Aggregation"}
-,{"id":"n_identity_and_access_governance","label":"Identity and Access Governance","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1458176007/Identity+and+Access+Governance"}
-,{"id":"n_identity_and_access_management","label":"Identity and Access Management","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1409143/Identity+and+Access+Management"}
-,{"id":"n_identity_as_a_service","label":"Identity-as-a-Service","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1152516217"}
-,{"id":"n_identity_assurance","label":"Identity Assurance","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1600749655/Identity+Assurance"}
-,{"id":"n_identity_attribute","label":"Identity Attribute","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/82903275"}
-,{"id":"n_identity_aware_proxy","label":"Identity-Aware Proxy","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/236748873"}
-,{"id":"n_identity_establishment","label":"Identity Establishment","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/123896632/Identity+Establishment"}
-,{"id":"n_identity_federation","label":"Identity Federation","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/336035929/Identity+Federation"}
-,{"id":"n_identity_guardian","label":"Identity Guardian","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1323597918/Identity+Guardian"}
-,{"id":"n_identity_lifecycle","label":"Identity Lifecycle","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/67600436"}
-,{"id":"n_identity_management","label":"Identity Management","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1122533530"}
-,{"id":"n_identity_management_system","label":"Identity Management System","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1146847286"}
-,{"id":"n_identity_portability","label":"Identity Portability","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1323434004/Identity+Portability"}
-,{"id":"n_identity_proofing","label":"Identity Proofing","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/858522094"}
-,{"id":"n_identity_propagation","label":"Identity Propagation","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/810254353"}
-,{"id":"n_identity_provider","label":"Identity Provider","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/82838020"}
-,{"id":"n_identity_repository","label":"Identity Repository","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1117913089"}
-,{"id":"n_idms","label":"IdMS","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1147043904"}
-,{"id":"n_idp","label":"IdP","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/81101362"}
-,{"id":"n_img","label":"IMG","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/107708597"}
-,{"id":"n_impersonation","label":"Impersonation","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/974323719"}
-,{"id":"n_heartbeats_recognition_authentication","label":"Heartbeats Recognition Authentication","url":""}
-,{"id":"n_information","label":"Information","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1027342618"}
-,{"id":"n_information_asset","label":"Information Asset","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/455508212"}
-,{"id":"n_information_custodian","label":"Information Custodian","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1004896257"}
-,{"id":"n_information_flow_policy","label":"Information Flow Policy","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1177714758"}
-,{"id":"n_information_owner","label":"Information Owner","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998113409"}
-,{"id":"n_information_security_domain","label":"Information Security Domain","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/438698009/Information+Security+Domain"}
-,{"id":"n_information_system","label":"Information System","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1031241830/Information+System"}
-,{"id":"n_inherence_factor","label":"Inherence Factor","url":""}
-,{"id":"n_inside_attacker","label":"Inside Attacker","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1477869651/Inside+Attacker"}
-,{"id":"n_insider","label":"Insider","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1451884782/Insider"}
-,{"id":"n_insider_attack","label":"Insider Attack","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1478459402/Insider+Attack"}
-,{"id":"n_insider_threat","label":"Insider Threat","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1451098397/Insider+Threat"}
-,{"id":"n_insufficient_granularity_of_access_control","label":"Insufficient Granularity of Access Control","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/822476843"}
-,{"id":"n_intentional_error","label":"Intentional Error","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998277141"}
-,{"id":"n_interested_party","label":"Interested Party","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1311417"}
-,{"id":"n_interoperability","label":"Interoperability","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/442466314"}
-,{"id":"n_interval_scale","label":"Interval Scale","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/11567191"}
-,{"id":"n_in_band_authentication","label":"In-band Authentication","url":""}
-,{"id":"n_isolated_identity_management_system","label":"Isolated Identity Management System","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1152483625"}
-,{"id":"n_it_asset_scope","label":"IT Asset Scope","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/720902"}
-,{"id":"n_it_system","label":"IT System","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1569095803/IT+System"}
-,{"id":"n_jml","label":"JML","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/858488984"}
-,{"id":"n_joiner","label":"Joiner","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/855506953"}
-,{"id":"n_joiner_hire_date","label":"Joiner Hire Date","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/858456203"}
-,{"id":"n_joiner_lead_time","label":"Joiner Lead Time","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/852492379"}
-,{"id":"n_joiner_process","label":"Joiner Process","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/858521641"}
-,{"id":"n_joiner_start_date","label":"Joiner Start Date","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/852492338"}
-,{"id":"n_key_criteria_type","label":"Key Criteria Type","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140706011"}
-,{"id":"n_key_information","label":"Key Information","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/425623701"}
-,{"id":"n_keying_material","label":"Keying Material","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/427163745"}
-,{"id":"n_iris_recognition_authentication","label":"Iris Recognition Authentication","url":""}
-,{"id":"n_knowledge_factor","label":"Knowledge Factor","url":""}
-,{"id":"n_keystroke_recognition_authentication","label":"Keystroke Recognition Authentication","url":""}
-,{"id":"n_kyc","label":"KYC","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/442499114"}
-,{"id":"n_kyc_registry","label":"KYC Registry","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/442400811"}
-,{"id":"n_lattice_based_access_control","label":"Lattice-Based Access Control","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1177681925"}
-,{"id":"n_layers_architectural_pattern","label":"Layers Architectural Pattern","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1181843548"}
-,{"id":"n_lbac","label":"LBAC","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1177780225"}
-,{"id":"n_leading_indicator","label":"Leading Indicator","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/49250375"}
-,{"id":"n_least_privilege","label":"Least Privilege","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1006698533"}
-,{"id":"n_legal_entity_identifier","label":"Legal Entity Identifier","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/442466361"}
-,{"id":"n_legitimate_privilege_abuse","label":"Legitimate Privilege Abuse","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1104936974"}
-,{"id":"n_lei","label":"LEI","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/442368033"}
-,{"id":"n_levels_of_assurance","label":"Levels of Assurance","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/442466381"}
-,{"id":"n_liberal_discretionary_access_control","label":"Liberal Discretionary Access Control","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1177845957"}
-,{"id":"n_loa","label":"LOA","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/442400912"}
-,{"id":"n_location_factor","label":"Location Factor","url":""}
-,{"id":"n_logic_bomb","label":"Logic Bomb","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1452048577/Logic+Bomb"}
-,{"id":"n_login","label":"Login","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1440153606/Login"}
-,{"id":"n_login_id","label":"Login ID","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1428685307/Login+ID"}
-,{"id":"n_login_name","label":"Login Name","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1428685365/Login+Name"}
-,{"id":"n_mechanism","label":"Mechanism","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/67699227"}
-,{"id":"n_metadirectory","label":"Metadirectory","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/834044288"}
-,{"id":"n_knuckleprint_recognition_authentication","label":"Knuckleprint Recognition Authentication","url":""}
-,{"id":"n_multidomain_single_sign_on","label":"Multidomain Single Sign-On","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/75890760"}
-,{"id":"n_multilevel_security","label":"Multilevel Security","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1031241799"}
-,{"id":"n_multiple_accounts","label":"Multiple Accounts","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1600684160/Multiple+Accounts"}
-,{"id":"n_multi_model_biometric_authentication","label":"Multi-Model Biometric Authentication","url":""}
-,{"id":"n_need_to_know","label":"Need-to-Know","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1474592794/Need-to-Know"}
-,{"id":"n_new_joiner","label":"New Joiner","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/858456124"}
-,{"id":"n_no_tranquility_property","label":"No Tranquility Property","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1237483723"}
-,{"id":"n_nonworker","label":"Nonworker","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/858554692"}
-,{"id":"n_numerical_identity","label":"Numerical Identity","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1323336029/Numerical+Identity"}
-,{"id":"n_mutual_authentication","label":"Mutual Authentication","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998244664"}
-,{"id":"n_object","label":"Object","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/67568133"}
-,{"id":"n_omission_error","label":"Omission Error","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998244357"}
-,{"id":"n_oauth","label":"OAuth","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/446825168"}
-,{"id":"n_opa","label":"OPA","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1142358051"}
-,{"id":"n_open_policy_agent","label":"Open Policy Agent","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1142259761"}
-,{"id":"n_operational_definition","label":"Operational Definition","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/3211353"}
-,{"id":"n_operational_taxonomic_unit","label":"Operational Taxonomic Unit","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/148439181"}
-,{"id":"n_ordinal_scale","label":"Ordinal Scale","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/5932838"}
-,{"id":"n_organization_context","label":"Organization Context","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1311403"}
-,{"id":"n_organization_scope","label":"Organization Scope","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/557057"}
-,{"id":"n_orphan","label":"Orphan","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1061650550"}
-,{"id":"n_orphan_account","label":"Orphan Account","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1062207530/Orphan+Account"}
-,{"id":"n_orphan_file","label":"Orphan File","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1061748965"}
-,{"id":"n_orphan_object","label":"Orphan Object","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1061650653"}
-,{"id":"n_orphan_process","label":"Orphan Process","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1061748925"}
-,{"id":"n_orphan_product","label":"Orphan Product","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1061749016"}
-,{"id":"n_orphan_role","label":"Orphan Role","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1063845889"}
-,{"id":"n_orphan_routes_apis","label":"Orphan Routes / APIs","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1061650689"}
-,{"id":"n_orphan_system","label":"Orphan System","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1061748885"}
-,{"id":"n_one_time_passcode_authentication","label":"One-Time Passcode Authentication","url":""}
-,{"id":"n_outsider","label":"Outsider","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1472692289/Outsider"}
-,{"id":"n_out_of_band_authentication","label":"Out-of-band Authentication","url":""}
-,{"id":"n_passive_impersonation_attack","label":"Passive Impersonation Attack","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/974323764"}
-,{"id":"n_palmprint_recognition_authentication","label":"Palmprint Recognition Authentication","url":""}
-,{"id":"n_passphrase_authentication","label":"Passphrase Authentication","url":""}
-,{"id":"n_password_guessing_attack","label":"Password Guessing Attack","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1428652394/Password+Guessing+Attack"}
-,{"id":"n_password_rotation","label":"Password Rotation","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1027048058"}
-,{"id":"n_password_spraying_attack","label":"Password Spraying Attack","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1348730921/Password+Spraying+Attack"}
-,{"id":"n_password_based_authentication","label":"Password-Based Authentication","url":""}
-,{"id":"n_people","label":"People","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1409753"}
-,{"id":"n_permission","label":"Permission","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/67699129"}
-,{"id":"n_persona","label":"Persona","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1323499709/Persona"}
-,{"id":"n_passwordless_authentication","label":"Passwordless Authentication","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1677164566/Passwordless+Authentication"}
-,{"id":"n_physical_token_otp","label":"Physical Token OTP","url":""}
-,{"id":"n_pms","label":"PMS","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1572948"}
-,{"id":"n_policy","label":"Policy","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/67568272"}
-,{"id":"n_policy_analysis","label":"Policy Analysis","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1104904334"}
-,{"id":"n_policy_centralization","label":"Policy Centralization","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1132331103"}
-,{"id":"n_policy_interoperability","label":"Policy Interoperability","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1132331086"}
-,{"id":"n_policy_manageability","label":"Policy Manageability","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1122631903"}
-,{"id":"n_policy_mining","label":"Policy Mining","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1105068063"}
-,{"id":"n_policy_modeling","label":"Policy Modeling","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1130987523"}
-,{"id":"n_possession_factor","label":"Possession Factor","url":""}
-,{"id":"n_pre_approval","label":"Pre-approval","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1094549649"}
-,{"id":"n_principal","label":"Principal","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/67699046"}
-,{"id":"n_private_key_loss","label":"Private Key Loss","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1323434264/Private+Key+Loss"}
-,{"id":"n_privilege","label":"Privilege","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/67568310"}
-,{"id":"n_privilege_abuse","label":"Privilege Abuse","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/814449037/Privilege+Abuse"}
-,{"id":"n_privilege_chaining","label":"Privilege Chaining","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/473890861"}
-,{"id":"n_privilege_escalation","label":"Privilege Escalation","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/810320380"}
-,{"id":"n_privileged_identity","label":"Privileged Identity","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/138346661"}
-,{"id":"n_privileged_insider","label":"Privileged Insider","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1477902403/Privileged+Insider"}
-,{"id":"n_provisioning","label":"Provisioning","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/61964289"}
-,{"id":"n_personal_identification_number_authentication","label":"Personal Identification Number Authentication","url":""}
-,{"id":"n_qualitative_identity","label":"Qualitative Identity","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1323598109/Qualitative+Identity"}
-,{"id":"n_ra","label":"RA","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/82903928"}
-,{"id":"n_ratio_scale","label":"Ratio Scale","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/11567198"}
-,{"id":"n_rba","label":"RBA","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/408944908"}
-,{"id":"n_qr_code_authentication","label":"QR Code Authentication","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1677164768/QR+Code+Authentication"}
-,{"id":"n_recertification","label":"Recertification","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/107840129"}
-,{"id":"n_reference_monitor","label":"Reference Monitor","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/123962234"}
-,{"id":"n_re_authentication","label":"Re-authentication","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/873201665"}
-,{"id":"n_rejoiner","label":"Rejoiner","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/858521682"}
-,{"id":"n_relying_party","label":"Relying Party","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/67699423"}
-,{"id":"n_remote_identity_proofing","label":"Remote Identity Proofing","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/427130881"}
-,{"id":"n_repeatability","label":"Repeatability","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/2589003"}
-,{"id":"n_representation_target","label":"Representation Target","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/11141464"}
-,{"id":"n_reproducibility","label":"Reproducibility","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/2588994"}
-,{"id":"n_revocation","label":"Revocation","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/67698769"}
-,{"id":"n_ridp","label":"RIDP","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/425623561"}
-,{"id":"n_registration_authority","label":"Registration Authority","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/82870985"}
-,{"id":"n_role","label":"Role","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/86442069"}
-,{"id":"n_role_based_access_control","label":"Role-Based Access Control","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1122566198"}
-,{"id":"n_role_bloating","label":"Role Bloating","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/814514401"}
-,{"id":"n_role_capacity","label":"Role Capacity","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1164902443"}
-,{"id":"n_role_cardinality","label":"Role Cardinality","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1164869655"}
-,{"id":"n_role_cardinality_activation_control","label":"Role Cardinality Activation Control","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1164902498"}
-,{"id":"n_role_explosion","label":"Role Explosion","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1152483772"}
-,{"id":"n_role_management","label":"Role Management","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1130921985"}
-,{"id":"n_rp","label":"RP","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/82903488"}
-,{"id":"n_sam_database","label":"SAM Database","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140739068/SAM+Database"}
-,{"id":"n_saml","label":"SAML","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1428586729/SAML"}
-,{"id":"n_scim","label":"SCIM","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/206307343"}
-,{"id":"n_scim_1.0","label":"SCIM 1.0","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/206372879"}
-,{"id":"n_scim_1.1","label":"SCIM 1.1","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/206307350"}
-,{"id":"n_scim_2.0","label":"SCIM 2.0","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/206307373"}
-,{"id":"n_scoping","label":"Scoping","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1376383"}
-,{"id":"n_sd","label":"SD","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/5931115"}
-,{"id":"n_sdp","label":"SDP","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/234356901"}
-,{"id":"n_secure_production_identity_framework_for_everyone","label":"Secure Production Identity Framework for Everyone","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1142390785"}
-,{"id":"n_secure_system","label":"Secure System","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1230831633"}
-,{"id":"n_security","label":"Security","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1231159321"}
-,{"id":"n_security_accounts_manager","label":"Security Accounts Manager","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140673497"}
-,{"id":"n_security_assertion_markup_language","label":"Security Assertion Markup Language","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1428619445/Security+Assertion+Markup+Language"}
-,{"id":"n_security_clearance_level","label":"Security Clearance Level","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1177747653"}
-,{"id":"n_security_compartment","label":"Security Compartment","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1181843719"}
-,{"id":"n_security_label","label":"Security Label","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1177747630"}
-,{"id":"n_risk_based_authentication","label":"Risk-Based Authentication","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/795836567"}
-,{"id":"n_segregation_of_duties","label":"Segregation of Duties","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1071185955"}
-,{"id":"n_self_sovereign_identity","label":"Self-Sovereign Identity","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/446955653/Self-Sovereign+Identity"}
-,{"id":"n_semantic_differential","label":"Semantic Differential","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/6029526"}
-,{"id":"n_service_account","label":"Service Account","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/805142555"}
-,{"id":"n_service_centric_identity_management_system","label":"Service-Centric Identity Management System","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1313538143/Service-Centric+Identity+Management+System"}
-,{"id":"n_session","label":"Session","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/881197061"}
-,{"id":"n_security_question_authentication","label":"Security Question Authentication","url":""}
-,{"id":"n_single_login","label":"Single Login","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/78741548"}
-,{"id":"n_single_sign_on","label":"Single Sign-On","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/75956255"}
-,{"id":"n_single_sign_on","label":"Single Sign-On","url":""}
-,{"id":"n_sms_otp","label":"SMS OTP","url":""}
-,{"id":"n_session_authentication","label":"Session Authentication","url":""}
-,{"id":"n_social_honeypot","label":"Social Honeypot","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1270055026/Social+Honeypot"}
-,{"id":"n_sod","label":"SoD","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1071317018"}
-,{"id":"n_software_app_otp","label":"Software / App OTP","url":""}
-,{"id":"n_software_defined_perimeter","label":"Software-Defined Perimeter","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/234487981"}
-,{"id":"n_spiffe","label":"SPIFFE","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1142292486"}
-,{"id":"n_spms","label":"SPMS","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1605648"}
-,{"id":"n_ssh_key","label":"SSH Key","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1027342899"}
-,{"id":"n_ssi","label":"SSI","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1311113221/SSI"}
-,{"id":"n_sso","label":"SSO","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/75956237"}
-,{"id":"n_sso","label":"SSO","url":""}
-,{"id":"n_stability_of_access_decision_factors","label":"Stability of Access Decision Factors","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998244645"}
-,{"id":"n_stakeholder","label":"Stakeholder","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1311763"}
-,{"id":"n_social_authentication","label":"Social Authentication","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1600684200/Social+Authentication"}
-,{"id":"n_strategic_performance_measurement_system","label":"Strategic Performance Measurement System","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1540175"}
-,{"id":"n_strict_discretionary_access_control","label":"Strict Discretionary Access Control","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1181909085"}
-,{"id":"n_step_up_authentication","label":"Step-Up Authentication","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/663257097/Step-Up+Authentication"}
-,{"id":"n_strong_tranquility_property","label":"Strong Tranquility Property","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1177747756"}
-,{"id":"n_subject","label":"Subject","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/67600697"}
-,{"id":"n_subjective_indicator","label":"Subjective Indicator","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/2981920"}
-,{"id":"n_supply_chain_attack","label":"Supply Chain Attack","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1477869640/Supply+Chain+Attack"}
-,{"id":"n_sybil_attack","label":"Sybil Attack","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1254588545/Sybil+Attack"}
-,{"id":"n_synthetic_identity_fraud","label":"Synthetic Identity Fraud","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/794296433"}
-,{"id":"n_system","label":"System","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/5965562/System"}
-,{"id":"n_system_boundaries","label":"System Boundaries","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/446824644/System+Boundaries"}
-,{"id":"n_system_for_cross_domain_identity_management","label":"System for Cross-domain Identity Management","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/206372869"}
-,{"id":"n_system_owner","label":"System Owner","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1004961963"}
-,{"id":"n_system_z","label":"System Z","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1226571890"}
-,{"id":"n_tan_list_otp","label":"TAN List OTP","url":""}
-,{"id":"n_task_based_access_control","label":"Task-Based Access Control","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1122631693"}
-,{"id":"n_strong_authentication","label":"Strong Authentication","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/81199126"}
-,{"id":"n_time_factor","label":"Time Factor","url":""}
-,{"id":"n_text_password_authentication","label":"Text Password Authentication","url":""}
-,{"id":"n_token_based_authentication","label":"Token-Based Authentication","url":""}
-,{"id":"n_toxic_combinations","label":"Toxic Combinations","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1130954862"}
-,{"id":"n_toxic_right_rule_(definition)","label":"Toxic Right Rule (Definition)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/360467"}
-,{"id":"n_tranquil","label":"Tranquil","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1237582070/Tranquil"}
-,{"id":"n_tranquility_principle","label":"Tranquility Principle","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1237483759"}
-,{"id":"n_tranquility_property","label":"Tranquility Property","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1181876587"}
-,{"id":"n_trust","label":"Trust","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1037926452/Trust"}
-,{"id":"n_trust_asymmetry","label":"Trust Asymmetry","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1027048185"}
-,{"id":"n_trust_composability","label":"Trust Composability","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1027048128"}
-,{"id":"n_trust_personalization","label":"Trust Personalization","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1027048209"}
-,{"id":"n_trust_transitivity","label":"Trust Transitivity","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1031242345"}
-,{"id":"n_typing_biometrics","label":"Typing Biometrics","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1417084929/Typing+Biometrics"}
-,{"id":"n_typology","label":"Typology","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140673267"}
-,{"id":"n_unanticipated_user","label":"Unanticipated User","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1027080193/Unanticipated+User"}
-,{"id":"n_touchstroke_recognition_authentication","label":"Touchstroke Recognition Authentication","url":""}
-,{"id":"n_unique_id_number","label":"Unique ID Number","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/446955662/Unique+ID+Number"}
-,{"id":"n_unprivileged_insider","label":"Unprivileged Insider","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1477902414/Unprivileged+Insider"}
-,{"id":"n_user","label":"User","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/82839586/User"}
-,{"id":"n_user_account","label":"User Account","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1428587273/User+Account"}
-,{"id":"n_user_centric_identity_management_system","label":"User-Centric Identity Management System","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1323597878/User-Centric+Identity+Management+System"}
-,{"id":"n_user_de_provisioning","label":"User De-Provisioning","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1146847344/User+De-Provisioning"}
-,{"id":"n_user_entitlement_reviews","label":"User Entitlement Reviews","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1121878257"}
-,{"id":"n_user_id","label":"User ID","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1428652448/User+ID"}
-,{"id":"n_user_provisioning","label":"User Provisioning","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1147043973/User+Provisioning"}
-,{"id":"n_username","label":"Username","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1428652183/Username"}
-,{"id":"n_verifiable_claim","label":"Verifiable Claim","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1311146179/Verifiable+Claim"}
-,{"id":"n_verification","label":"Verification","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/446988510/Verification"}
-,{"id":"n_virtual_directory","label":"Virtual Directory","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/834044330"}
-,{"id":"n_virtual_private_network","label":"Virtual Private Network","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/236748839"}
-,{"id":"n_virtual_risk_and_security_site_review","label":"Virtual Risk and Security Site Review","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/542146561"}
-,{"id":"n_voice_otp","label":"Voice OTP","url":""}
-,{"id":"n_unauthorized_access","label":"Unauthorized Access","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1231126540/Unauthorized+Access"}
-,{"id":"n_vpn","label":"VPN","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/234389605"}
-,{"id":"n_voice_recognition_authentication","label":"Voice Recognition Authentication","url":""}
-,{"id":"n_weak_tranquility_property","label":"Weak Tranquility Property","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1177845999"}
-,{"id":"n_web_based_single_sign_on","label":"Web-based Single Sign-On","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/75923587"}
-,{"id":"n_windows_(non_default)_local_user_account","label":"Windows (Non-Default) Local User Account","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140673566"}
-,{"id":"n_windows_default_local_system_account","label":"Windows Default Local System Account","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140739507"}
-,{"id":"n_windows_default_local_user_account","label":"Windows Default Local User Account","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140673594"}
-,{"id":"n_windows_defaultaccount_account","label":"Windows DefaultAccount Account","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140739482"}
-,{"id":"n_windows_guest_account","label":"Windows Guest Account","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140673653"}
-,{"id":"n_windows_helpassistant_account","label":"Windows HelpAssistant Account","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140771901"}
-,{"id":"n_windows_local_account","label":"Windows Local Account","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140772047"}
-,{"id":"n_windows_local_administrator_account","label":"Windows Local Administrator Account","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140739277"}
-,{"id":"n_windows_local_service_account","label":"Windows LOCAL SERVICE Account","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140673818"}
-,{"id":"n_windows_network_service_account","label":"Windows NETWORK SERVICE Account","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140772011"}
-,{"id":"n_windows_security_identifier","label":"Windows Security Identifier","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140706624"}
-,{"id":"n_windows_system_account","label":"Windows SYSTEM Account","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140706700"}
-,{"id":"n_worker","label":"Worker","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/855638141"}
-,{"id":"n_workflow_sensitive_access_control","label":"Workflow-Sensitive Access Control","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/814448722"}
-,{"id":"n_workforce","label":"Workforce","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/852492409"}
-,{"id":"n_xacml","label":"XACML","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1122631791"}
-,{"id":"n_zero_trust_access","label":"Zero-Trust Access","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/234356891/Zero-Trust+Access"}
-,{"id":"n_zombie_account","label":"Zombie Account","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/782893195/Zombie+Account"}
-,{"id":"n_zta","label":"ZTA","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/234389671/ZTA"}
-,{"id":"n_weak_authentication","label":"Weak Authentication","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/81068120"}
+{"id":"n_4_eyes_principle_(concept)","label":"4-Eyes Principle (Concept)","text":"4-Eyes Principle (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/805175450/4-Eyes+Principle","group":"Concept"}
+,{"id":"n_access_(concept)","label":"Access (Concept)","text":"Access (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/123962347/Access","group":"Concept"}
+,{"id":"n_access_audit_(concept)","label":"Access Audit (Concept)","text":"Access Audit (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1121878227","group":"Concept"}
+,{"id":"n_access_continuum_(concept)","label":"Access Continuum (Concept)","text":"Access Continuum (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1034223816/Access+Continuum","group":"Concept"}
+,{"id":"n_access_control_(concept)","label":"Access Control (Concept)","text":"Access Control (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/427163781","group":"Concept"}
+,{"id":"n_access_control_list_(concept)","label":"Access Control List (Concept)","text":"Access Control List (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/822345754","group":"Concept"}
+,{"id":"n_access_control_mechanism_(concept)","label":"Access Control Mechanism (Concept)","text":"Access Control Mechanism (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/67633606","group":"Concept"}
+,{"id":"n_access_control_model_(concept)","label":"Access Control Model (Concept)","text":"Access Control Model (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/67699193","group":"Concept"}
+,{"id":"n_access_control_policy_(concept)","label":"Access Control Policy (Concept)","text":"Access Control Policy (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/67633597","group":"Concept"}
+,{"id":"n_access_granularity_(concept)","label":"Access Granularity (Concept)","text":"Access Granularity (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1006632974","group":"Concept"}
+,{"id":"n_access_privilege_(concept)","label":"Access Privilege (Concept)","text":"Access Privilege (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1122631723","group":"Concept"}
+,{"id":"n_access_right_(concept)","label":"Access Right (Concept)","text":"Access Right (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1122599013","group":"Concept"}
+,{"id":"n_access_rights_management_(concept)","label":"Access Rights Management (Concept)","text":"Access Rights Management (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1704003","group":"Concept"}
+,{"id":"n_access_token_(concept)","label":"Access Token (Concept)","text":"Access Token (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1600684040/Access+Token","group":"Concept"}
+,{"id":"n_account_(concept)","label":"Account (Concept)","text":"Account (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/461308120/Account","group":"Concept"}
+,{"id":"n_account_lockout_policy_(concept)","label":"Account Lockout Policy (Concept)","text":"Account Lockout Policy (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/67699360","group":"Concept"}
+,{"id":"n_account_management_(concept)","label":"Account Management (Concept)","text":"Account Management (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1146847331","group":"Concept"}
+,{"id":"n_account_takeover_(concept)","label":"Account Takeover (Concept)","text":"Account Takeover (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1079050286/Account+Takeover","group":"Concept"}
+,{"id":"n_accountability_(concept)","label":"Accountability (Concept)","text":"Accountability (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/425623718","group":"Concept"}
+,{"id":"n_accreditation_(concept)","label":"Accreditation (Concept)","text":"Accreditation (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/446955580","group":"Concept"}
+,{"id":"n_active_impersonation_attack_(concept)","label":"Active Impersonation Attack (Concept)","text":"Active Impersonation Attack (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/974454812","group":"Concept"}
+,{"id":"n_ap_(acronym)","label":"AP (Acronym)","text":"AP (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/81101665/AP","group":"Acronym"}
+,{"id":"n_applicant_(concept)","label":"Applicant (Concept)","text":"Applicant (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/848625750","group":"Concept"}
+,{"id":"n_application_(concept)","label":"Application (Concept)","text":"Application (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/5965602/Application","group":"Concept"}
+,{"id":"n_application_administrator_(concept)","label":"Application Administrator (Concept)","text":"Application Administrator (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/274236090","group":"Concept"}
+,{"id":"n_application_instance_(concept)","label":"Application Instance (Concept)","text":"Application Instance (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/834044036","group":"Concept"}
+,{"id":"n_application_level_policy_(concept)","label":"Application-Level Policy (Concept)","text":"Application-Level Policy (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1122631854","group":"Concept"}
+,{"id":"n_application_multiplexing_(concept)","label":"Application Multiplexing (Concept)","text":"Application Multiplexing (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1658355721/Application+Multiplexing","group":"Concept"}
+,{"id":"n_application_package_(concept)","label":"Application Package (Concept)","text":"Application Package (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/5932704","group":"Concept"}
+,{"id":"n_application_program_(concept)","label":"Application Program (Concept)","text":"Application Program (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/6030793/Application+Program","group":"Concept"}
+,{"id":"n_archive_(concept)","label":"Archive (Concept)","text":"Archive (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/425197720","group":"Concept"}
+,{"id":"n_arm_(acronym)","label":"ARM (Acronym)","text":"ARM (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1703994/ARM","group":"Acronym"}
+,{"id":"n_asset_custody_(concept)","label":"Asset Custody (Concept)","text":"Asset Custody (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1094516867","group":"Concept"}
+,{"id":"n_attestation_(concept)","label":"Attestation (Concept)","text":"Attestation (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1323368851/Attestation","group":"Concept"}
+,{"id":"n_attribute_(concept)","label":"Attribute (Concept)","text":"Attribute (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/409174161","group":"Concept"}
+,{"id":"n_attribute_provider_(concept)","label":"Attribute Provider (Concept)","text":"Attribute Provider (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/81101655","group":"Concept"}
+,{"id":"n_authenticated_users_(concept)","label":"Authenticated Users (Concept)","text":"Authenticated Users (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/966492169","group":"Concept"}
+,{"id":"n_authentication_(concept)","label":"Authentication (Concept)","text":"Authentication (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/61177884","group":"Concept"}
+,{"id":"n_authentication_factor_(concept)","label":"Authentication Factor (Concept)","text":"Authentication Factor (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/81199158","group":"Concept"}
+,{"id":"n_authentication_method_(concept)","label":"Authentication Method (Concept)","text":"Authentication Method (Concept)","url":"","group":"Concept"}
+,{"id":"n_authenticator_(concept)","label":"Authenticator (Concept)","text":"Authenticator (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/848724060","group":"Concept"}
+,{"id":"n_authority_(concept)","label":"Authority (Concept)","text":"Authority (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998178905","group":"Concept"}
+,{"id":"n_authorization_(concept)","label":"Authorization (Concept)","text":"Authorization (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/60882993","group":"Concept"}
+,{"id":"n_awareness_(concept)","label":"Awareness (Concept)","text":"Awareness (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1311472","group":"Concept"}
+,{"id":"n_aws_account_root_user_(concept)","label":"AWS Account Root User (Concept)","text":"AWS Account Root User (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998277774","group":"Concept"}
+,{"id":"n_aws_acl_(acronym)","label":"AWS ACL (Acronym)","text":"AWS ACL (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998245198","group":"Acronym"}
+,{"id":"n_aws_iam_(acronym)","label":"AWS IAM (Acronym)","text":"AWS IAM (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998277876","group":"Acronym"}
+,{"id":"n_aws_iam_group_(acronym)","label":"AWS IAM Group (Acronym)","text":"AWS IAM Group (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998277805","group":"Acronym"}
+,{"id":"n_aws_iam_policy_(acronym)","label":"AWS IAM Policy (Acronym)","text":"AWS IAM Policy (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998277852","group":"Acronym"}
+,{"id":"n_aws_iam_principal_(acronym)","label":"AWS IAM Principal (Acronym)","text":"AWS IAM Principal (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1071251573","group":"Acronym"}
+,{"id":"n_aws_iam_role_(acronym)","label":"AWS IAM Role (Acronym)","text":"AWS IAM Role (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998245151","group":"Acronym"}
+,{"id":"n_aws_iam_temporary_security_credentials_(acronym)","label":"AWS IAM Temporary Security Credentials (Acronym)","text":"AWS IAM Temporary Security Credentials (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998277835","group":"Acronym"}
+,{"id":"n_aws_iam_user_(acronym)","label":"AWS IAM User (Acronym)","text":"AWS IAM User (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998245125","group":"Acronym"}
+,{"id":"n_authorization_externalization_(concept)","label":"Authorization Externalization (Concept)","text":"Authorization Externalization (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1137573936/Authorization+Externalization","group":"Concept"}
+,{"id":"n_bankid_(acronym)","label":"BankID (Acronym)","text":"BankID (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/797933843","group":"Acronym"}
+,{"id":"n_basic_z_rule_(concept)","label":"Basic Z Rule (Concept)","text":"Basic Z Rule (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1228079157","group":"Concept"}
+,{"id":"n_back_end_authentication_(concept)","label":"Back-end Authentication (Concept)","text":"Back-end Authentication (Concept)","url":"","group":"Concept"}
+,{"id":"n_bell_lapadula_model_(concept)","label":"Bell-LaPadula Model (Concept)","text":"Bell-LaPadula Model (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1237549087/Bell-LaPadula+Model","group":"Concept"}
+,{"id":"n_behavioral_authentication_(concept)","label":"Behavioral Authentication (Concept)","text":"Behavioral Authentication (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1673527501/Behavioral+Authentication","group":"Concept"}
+,{"id":"n_biometric_identification_(concept)","label":"Biometric Identification (Concept)","text":"Biometric Identification (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/409174210","group":"Concept"}
+,{"id":"n_biometrics_(concept)","label":"Biometrics (Concept)","text":"Biometrics (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/409010581","group":"Concept"}
+,{"id":"n_birth_certificate_(concept)","label":"Birth Certificate (Concept)","text":"Birth Certificate (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1031209441","group":"Concept"}
+,{"id":"n_blast_radius_(concept)","label":"Blast Radius (Concept)","text":"Blast Radius (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/794492970","group":"Concept"}
+,{"id":"n_boundary_control_(concept)","label":"Boundary Control (Concept)","text":"Boundary Control (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1571389777/Boundary+Control","group":"Concept"}
+,{"id":"n_biometric_authentication_(concept)","label":"Biometric Authentication (Concept)","text":"Biometric Authentication (Concept)","url":"","group":"Concept"}
+,{"id":"n_broker_(concept)","label":"Broker (Concept)","text":"Broker (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/81101750","group":"Concept"}
+,{"id":"n_brute_force_attack_(concept)","label":"Brute Force Attack (Concept)","text":"Brute Force Attack (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1348763687/Brute+Force+Attack","group":"Concept"}
+,{"id":"n_built_in_(concept)","label":"Built-in (Concept)","text":"Built-in (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140772106","group":"Concept"}
+,{"id":"n_bzr_(acronym)","label":"BZR (Acronym)","text":"BZR (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1228079170/BZR","group":"Acronym"}
+,{"id":"n_cached_credential_(concept)","label":"Cached Credential (Concept)","text":"Cached Credential (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1254588417/Cached+Credential","group":"Concept"}
+,{"id":"n_cdd_(acronym)","label":"CDD (Acronym)","text":"CDD (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/442466346/CDD","group":"Acronym"}
+,{"id":"n_centralized_identity_management_system_(concept)","label":"Centralized Identity Management System (Concept)","text":"Centralized Identity Management System (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1152483641","group":"Concept"}
+,{"id":"n_brainwaves_authentication_(concept)","label":"Brainwaves Authentication (Concept)","text":"Brainwaves Authentication (Concept)","url":"","group":"Concept"}
+,{"id":"n_certification_(concept)","label":"Certification (Concept)","text":"Certification (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/823459864","group":"Concept"}
+,{"id":"n_ciba_(acronym)","label":"CIBA (Acronym)","text":"CIBA (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1290076214/CIBA","group":"Acronym"}
+,{"id":"n_claim_(concept)","label":"Claim (Concept)","text":"Claim (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1323499650/Claim","group":"Concept"}
+,{"id":"n_claim_registry_model_(concept)","label":"Claim Registry Model (Concept)","text":"Claim Registry Model (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1309605928/Claim+Registry+Model","group":"Concept"}
+,{"id":"n_claimant_(concept)","label":"Claimant (Concept)","text":"Claimant (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/848363630","group":"Concept"}
+,{"id":"n_classification_(concept)","label":"Classification (Concept)","text":"Classification (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140771387","group":"Concept"}
+,{"id":"n_certificate_based_authentication_(concept)","label":"Certificate-based Authentication (Concept)","text":"Certificate-based Authentication (Concept)","url":"","group":"Concept"}
+,{"id":"n_cloud_identity_management_system_(concept)","label":"Cloud Identity Management System (Concept)","text":"Cloud Identity Management System (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1152516136","group":"Concept"}
+,{"id":"n_cloud_idms_(acronym)","label":"Cloud IdMS (Acronym)","text":"Cloud IdMS (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1152516118","group":"Acronym"}
+,{"id":"n_cloud_service_consumers_(concept)","label":"Cloud Service Consumers (Concept)","text":"Cloud Service Consumers (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1147043959","group":"Concept"}
+,{"id":"n_cloud_service_provider_(concept)","label":"Cloud Service Provider (Concept)","text":"Cloud Service Provider (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/206307528","group":"Concept"}
+,{"id":"n_cloud_service_user_(concept)","label":"Cloud Service User (Concept)","text":"Cloud Service User (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/206766142/Cloud+Service+User","group":"Concept"}
+,{"id":"n_commission_error_(concept)","label":"Commission Error (Concept)","text":"Commission Error (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998277125","group":"Concept"}
+,{"id":"n_compromised_identity_(concept)","label":"Compromised Identity (Concept)","text":"Compromised Identity (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/461307985","group":"Concept"}
+,{"id":"n_concurrent_impersonation_attack_(concept)","label":"Concurrent Impersonation Attack (Concept)","text":"Concurrent Impersonation Attack (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/974454827","group":"Concept"}
+,{"id":"n_client_initiated_backchannel_authentication_(concept)","label":"Client Initiated Backchannel Authentication (Concept)","text":"Client Initiated Backchannel Authentication (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1290076229/Client+Initiated+Backchannel+Authentication","group":"Concept"}
+,{"id":"n_control_party_(concept)","label":"Control Party (Concept)","text":"Control Party (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/82838169","group":"Concept"}
+,{"id":"n_core_identity_(concept)","label":"Core Identity (Concept)","text":"Core Identity (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/138346642","group":"Concept"}
+,{"id":"n_credential_(concept)","label":"Credential (Concept)","text":"Credential (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/67633343/Credential","group":"Concept"}
+,{"id":"n_credential_harvesting_(concept)","label":"Credential Harvesting (Concept)","text":"Credential Harvesting (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1254719498/Credential+Harvesting","group":"Concept"}
+,{"id":"n_credential_service_provider_(concept)","label":"Credential Service Provider (Concept)","text":"Credential Service Provider (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/82870977","group":"Concept"}
+,{"id":"n_credential_stuffing_(concept)","label":"Credential Stuffing (Concept)","text":"Credential Stuffing (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1348862053/Credential+Stuffing","group":"Concept"}
+,{"id":"n_credential_theft_(concept)","label":"Credential Theft (Concept)","text":"Credential Theft (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/461340725","group":"Concept"}
+,{"id":"n_cryptographic_key_(concept)","label":"Cryptographic Key (Concept)","text":"Cryptographic Key (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/427130918","group":"Concept"}
+,{"id":"n_csc_(acronym)","label":"CSC (Acronym)","text":"CSC (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1152516162/CSC","group":"Acronym"}
+,{"id":"n_csp_(acronym)","label":"CSP (Acronym)","text":"CSP (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/82903984/CSP","group":"Acronym"}
+,{"id":"n_csu_(acronym)","label":"CSU (Acronym)","text":"CSU (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/206667867/CSU","group":"Acronym"}
+,{"id":"n_customer_due_diligence_(concept)","label":"Customer Due Diligence (Concept)","text":"Customer Due Diligence (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/414482448","group":"Concept"}
+,{"id":"n_customer_identification_(concept)","label":"Customer Identification (Concept)","text":"Customer Identification (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/414548006","group":"Concept"}
+,{"id":"n_customer_identity_(concept)","label":"Customer Identity (Concept)","text":"Customer Identity (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/138444875","group":"Concept"}
+,{"id":"n_customer_identity_verification_(concept)","label":"Customer Identity Verification (Concept)","text":"Customer Identity Verification (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/409010717","group":"Concept"}
+,{"id":"n_customer_on_boarding_(concept)","label":"Customer On-Boarding (Concept)","text":"Customer On-Boarding (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/408944928","group":"Concept"}
+,{"id":"n_customer_privacy_and_consent_management_(concept)","label":"Customer Privacy and Consent Management (Concept)","text":"Customer Privacy and Consent Management (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/797900801","group":"Concept"}
+,{"id":"n_cyber_sabotage_(concept)","label":"Cyber-sabotage (Concept)","text":"Cyber-sabotage (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1451982933/Cyber-sabotage","group":"Concept"}
+,{"id":"n_dac_(acronym)","label":"DAC (Acronym)","text":"DAC (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1177845938/DAC","group":"Acronym"}
+,{"id":"n_data_anonymization_(concept)","label":"Data Anonymization (Concept)","text":"Data Anonymization (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1267400850/Data+Anonymization","group":"Concept"}
+,{"id":"n_data_custodian_(concept)","label":"Data Custodian (Concept)","text":"Data Custodian (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998244454","group":"Concept"}
+,{"id":"n_data_level_policy_(concept)","label":"Data-Level Policy (Concept)","text":"Data-Level Policy (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1132331029","group":"Concept"}
+,{"id":"n_data_lineage_(concept)","label":"Data Lineage (Concept)","text":"Data Lineage (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/508330028","group":"Concept"}
+,{"id":"n_data_obfuscation_(concept)","label":"Data Obfuscation (Concept)","text":"Data Obfuscation (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1027048097","group":"Concept"}
+,{"id":"n_data_owner_(concept)","label":"Data Owner (Concept)","text":"Data Owner (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998179040","group":"Concept"}
+,{"id":"n_de_duplication_(concept)","label":"De-duplication (Concept)","text":"De-duplication (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/408977837","group":"Concept"}
+,{"id":"n_death_certificate_(concept)","label":"Death Certificate (Concept)","text":"Death Certificate (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1031242134","group":"Concept"}
+,{"id":"n_decentralized_identifier_(concept)","label":"Decentralized Identifier (Concept)","text":"Decentralized Identifier (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/782893122","group":"Concept"}
+,{"id":"n_deprovisioning_(concept)","label":"Deprovisioning (Concept)","text":"Deprovisioning (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/62193665","group":"Concept"}
+,{"id":"n_did_(acronym)","label":"DID (Acronym)","text":"DID (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/782925889/DID","group":"Acronym"}
+,{"id":"n_digital_continuity_(concept)","label":"Digital Continuity (Concept)","text":"Digital Continuity (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/458326308","group":"Concept"}
+,{"id":"n_digital_identification_system_(concept)","label":"Digital Identification System (Concept)","text":"Digital Identification System (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/419561482/Digital+Identification+System","group":"Concept"}
+,{"id":"n_digital_identity_(concept)","label":"Digital Identity (Concept)","text":"Digital Identity (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/419528705/Digital+Identity","group":"Concept"}
+,{"id":"n_continuous_authentication_(concept)","label":"Continuous Authentication (Concept)","text":"Continuous Authentication (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/877297665","group":"Concept"}
+,{"id":"n_digital_triangulation_(concept)","label":"Digital Triangulation (Concept)","text":"Digital Triangulation (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/796983391","group":"Concept"}
+,{"id":"n_discretionary_access_control_(concept)","label":"Discretionary Access Control (Concept)","text":"Discretionary Access Control (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1181876315","group":"Concept"}
+,{"id":"n_distributed_identity_(concept)","label":"Distributed Identity (Concept)","text":"Distributed Identity (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/810287202","group":"Concept"}
+,{"id":"n_distributed_ledger_technology_(concept)","label":"Distributed Ledger Technology (Concept)","text":"Distributed Ledger Technology (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/419594251","group":"Concept"}
+,{"id":"n_digital_identity_authenticity_(concept)","label":"Digital Identity Authenticity (Concept)","text":"Digital Identity Authenticity (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1270153304/Digital+Identity+Authenticity","group":"Concept"}
+,{"id":"n_e_identity_(acronym)","label":"e-Identity (Acronym)","text":"e-Identity (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/82903896","group":"Acronym"}
+,{"id":"n_ecs_(acronym)","label":"ECS (Acronym)","text":"ECS (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/206766113","group":"Acronym"}
+,{"id":"n_eidm_(acronym)","label":"EIdM (Acronym)","text":"EIdM (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/61964467","group":"Acronym"}
+,{"id":"n_email_otp_(concept)","label":"Email OTP (Concept)","text":"Email OTP (Concept)","url":"","group":"Concept"}
+,{"id":"n_employee_(concept)","label":"Employee (Concept)","text":"Employee (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1031209232","group":"Concept"}
+,{"id":"n_enterprise_cloud_subscriber_(concept)","label":"Enterprise Cloud Subscriber (Concept)","text":"Enterprise Cloud Subscriber (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/206766092","group":"Concept"}
+,{"id":"n_enterprise_identity_management_(concept)","label":"Enterprise Identity Management (Concept)","text":"Enterprise Identity Management (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/62455952","group":"Concept"}
+,{"id":"n_enterprise_single_sign_on_(concept)","label":"Enterprise Single Sign-On (Concept)","text":"Enterprise Single Sign-On (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/76021801","group":"Concept"}
+,{"id":"n_entitlement_(concept)","label":"Entitlement (Concept)","text":"Entitlement (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1121878049","group":"Concept"}
+,{"id":"n_entitlement_based_access_control_(concept)","label":"Entitlement-Based Access Control (Concept)","text":"Entitlement-Based Access Control (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1122566173","group":"Concept"}
+,{"id":"n_entitlement_management_(concept)","label":"Entitlement Management (Concept)","text":"Entitlement Management (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1122566465","group":"Concept"}
+,{"id":"n_entitlement_management_process_(concept)","label":"Entitlement Management Process (Concept)","text":"Entitlement Management Process (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1121910973","group":"Concept"}
+,{"id":"n_entitlement_management_solution_(concept)","label":"Entitlement Management Solution (Concept)","text":"Entitlement Management Solution (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1122631800","group":"Concept"}
+,{"id":"n_entity_(concept)","label":"Entity (Concept)","text":"Entity (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/123830932","group":"Concept"}
+,{"id":"n_esso_(acronym)","label":"ESSO (Acronym)","text":"ESSO (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/75956266","group":"Acronym"}
+,{"id":"n_excessive_privilege_abuse_(concept)","label":"Excessive Privilege Abuse (Concept)","text":"Excessive Privilege Abuse (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1104904275","group":"Concept"}
+,{"id":"n_expanded_password_system_(concept)","label":"Expanded Password System (Concept)","text":"Expanded Password System (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/446824885","group":"Concept"}
+,{"id":"n_exploited_identity_(concept)","label":"Exploited Identity (Concept)","text":"Exploited Identity (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/461275380","group":"Concept"}
+,{"id":"n_extended_enterprise_(concept)","label":"Extended Enterprise (Concept)","text":"Extended Enterprise (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/82870848","group":"Concept"}
+,{"id":"n_extensible_access_control_markup_language_(concept)","label":"Extensible Access Control Markup Language (Concept)","text":"Extensible Access Control Markup Language (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1121878505","group":"Concept"}
+,{"id":"n_dual_authorization_(concept)","label":"Dual Authorization (Concept)","text":"Dual Authorization (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/806584322","group":"Concept"}
+,{"id":"n_fake_digital_identity_(concept)","label":"Fake Digital Identity (Concept)","text":"Fake Digital Identity (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1267433567/Fake+Digital+Identity","group":"Concept"}
+,{"id":"n_fapi_(acronym)","label":"FAPI (Acronym)","text":"FAPI (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1290141697/FAPI","group":"Acronym"}
+,{"id":"n_federated_identity_management_(concept)","label":"Federated Identity Management (Concept)","text":"Federated Identity Management (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/331579598","group":"Concept"}
+,{"id":"n_federated_identity_management_system_(concept)","label":"Federated Identity Management System (Concept)","text":"Federated Identity Management System (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1152483703","group":"Concept"}
+,{"id":"n_federated_sso_(concept)","label":"Federated SSO (Concept)","text":"Federated SSO (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/75890786","group":"Concept"}
+,{"id":"n_federation_bridge_(concept)","label":"Federation Bridge (Concept)","text":"Federation Bridge (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/763035693","group":"Concept"}
+,{"id":"n_fim_(acronym)","label":"FIM (Acronym)","text":"FIM (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/331579618","group":"Acronym"}
+,{"id":"n_financial_grade_api_(concept)","label":"Financial-grade API (Concept)","text":"Financial-grade API (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1290207237/Financial-grade+API","group":"Concept"}
+,{"id":"n_facial_recognition_authentication_(concept)","label":"Facial Recognition Authentication (Concept)","text":"Facial Recognition Authentication (Concept)","url":"","group":"Concept"}
+,{"id":"n_fintech_(acronym)","label":"FinTech (Acronym)","text":"FinTech (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1378091043/FinTech","group":"Acronym"}
+,{"id":"n_flexibility_(concept)","label":"Flexibility (Concept)","text":"Flexibility (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/438698048","group":"Concept"}
+,{"id":"n_flow_analysis_(concept)","label":"Flow Analysis (Concept)","text":"Flow Analysis (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1223884872","group":"Concept"}
+,{"id":"n_forged_identity_(concept)","label":"Forged Identity (Concept)","text":"Forged Identity (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1173585921","group":"Concept"}
+,{"id":"n_formal_verification_(concept)","label":"Formal Verification (Concept)","text":"Formal Verification (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1226833964","group":"Concept"}
+,{"id":"n_foundational_identification_system_(concept)","label":"Foundational Identification System (Concept)","text":"Foundational Identification System (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/419561522/Foundational+Identification+System","group":"Concept"}
+,{"id":"n_fingerprint_recognition_authentication_(concept)","label":"Fingerprint Recognition Authentication (Concept)","text":"Fingerprint Recognition Authentication (Concept)","url":"","group":"Concept"}
+,{"id":"n_functional_identification_system_(concept)","label":"Functional Identification System (Concept)","text":"Functional Identification System (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/419528747","group":"Concept"}
+,{"id":"n_functional_system_(concept)","label":"Functional System (Concept)","text":"Functional System (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1229619254","group":"Concept"}
+,{"id":"n_front_end_authentication_(concept)","label":"Front-end Authentication (Concept)","text":"Front-end Authentication (Concept)","url":"","group":"Concept"}
+,{"id":"n_gait_recognition_authentication_(concept)","label":"Gait Recognition Authentication (Concept)","text":"Gait Recognition Authentication (Concept)","url":"","group":"Concept"}
+,{"id":"n_geo_localization_authentication_(concept)","label":"Geo-localization Authentication (Concept)","text":"Geo-localization Authentication (Concept)","url":"","group":"Concept"}
+,{"id":"n_guest_account_(concept)","label":"Guest Account (Concept)","text":"Guest Account (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/966557699","group":"Concept"}
+,{"id":"n_graphical_password_based_authentication_(concept)","label":"Graphical Password-Based Authentication (Concept)","text":"Graphical Password-Based Authentication (Concept)","url":"","group":"Concept"}
+,{"id":"n_hand_gestures_recognition_authentication_(concept)","label":"Hand Gestures Recognition Authentication (Concept)","text":"Hand Gestures Recognition Authentication (Concept)","url":"","group":"Concept"}
+,{"id":"n_high_water_mark_principle_(concept)","label":"High Water Mark Principle (Concept)","text":"High Water Mark Principle (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1177846011","group":"Concept"}
+,{"id":"n_human_error_(concept)","label":"Human Error (Concept)","text":"Human Error (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998047786","group":"Concept"}
+,{"id":"n_human_reliability_(concept)","label":"Human Reliability (Concept)","text":"Human Reliability (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998277156","group":"Concept"}
+,{"id":"n_iag_(acronym)","label":"IAG (Acronym)","text":"IAG (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1572865/IAG","group":"Acronym"}
+,{"id":"n_iam_(acronym)","label":"IAM (Acronym)","text":"IAM (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1081356/IAM","group":"Acronym"}
+,{"id":"n_iam_arn_(acronym)","label":"IAM ARN (Acronym)","text":"IAM ARN (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1037926677","group":"Acronym"}
+,{"id":"n_iam_management_(concept)","label":"IAM Management (Concept)","text":"IAM Management (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/82838735","group":"Concept"}
+,{"id":"n_iap_(acronym)","label":"IAP (Acronym)","text":"IAP (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/234487971","group":"Acronym"}
+,{"id":"n_idaas_(acronym)","label":"IDaaS (Acronym)","text":"IDaaS (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1149468857","group":"Acronym"}
+,{"id":"n_ideal_type_(concept)","label":"Ideal Type (Concept)","text":"Ideal Type (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/149356545","group":"Concept"}
+,{"id":"n_identification_(concept)","label":"Identification (Concept)","text":"Identification (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/419659837","group":"Concept"}
+,{"id":"n_identification_system_(concept)","label":"Identification System (Concept)","text":"Identification System (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/419758113","group":"Concept"}
+,{"id":"n_identifier_(concept)","label":"Identifier (Concept)","text":"Identifier (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/435322922","group":"Concept"}
+,{"id":"n_identifier_registry_model_(concept)","label":"Identifier Registry Model (Concept)","text":"Identifier Registry Model (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1311113273/Identifier+Registry+Model","group":"Concept"}
+,{"id":"n_identity_(concept)","label":"Identity (Concept)","text":"Identity (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/67600948","group":"Concept"}
+,{"id":"n_identity_aggregation_(concept)","label":"Identity Aggregation (Concept)","text":"Identity Aggregation (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1600618542/Identity+Aggregation","group":"Concept"}
+,{"id":"n_identity_and_access_governance_(concept)","label":"Identity and Access Governance (Concept)","text":"Identity and Access Governance (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1458176007/Identity+and+Access+Governance","group":"Concept"}
+,{"id":"n_identity_and_access_management_(concept)","label":"Identity and Access Management (Concept)","text":"Identity and Access Management (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1409143/Identity+and+Access+Management","group":"Concept"}
+,{"id":"n_identity_as_a_service_(concept)","label":"Identity-as-a-Service (Concept)","text":"Identity-as-a-Service (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1152516217","group":"Concept"}
+,{"id":"n_identity_assurance_(concept)","label":"Identity Assurance (Concept)","text":"Identity Assurance (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1600749655/Identity+Assurance","group":"Concept"}
+,{"id":"n_identity_attribute_(concept)","label":"Identity Attribute (Concept)","text":"Identity Attribute (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/82903275","group":"Concept"}
+,{"id":"n_identity_aware_proxy_(concept)","label":"Identity-Aware Proxy (Concept)","text":"Identity-Aware Proxy (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/236748873","group":"Concept"}
+,{"id":"n_identity_establishment_(concept)","label":"Identity Establishment (Concept)","text":"Identity Establishment (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/123896632/Identity+Establishment","group":"Concept"}
+,{"id":"n_identity_federation_(concept)","label":"Identity Federation (Concept)","text":"Identity Federation (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/336035929/Identity+Federation","group":"Concept"}
+,{"id":"n_identity_guardian_(concept)","label":"Identity Guardian (Concept)","text":"Identity Guardian (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1323597918/Identity+Guardian","group":"Concept"}
+,{"id":"n_identity_lifecycle_(concept)","label":"Identity Lifecycle (Concept)","text":"Identity Lifecycle (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/67600436","group":"Concept"}
+,{"id":"n_identity_management_(concept)","label":"Identity Management (Concept)","text":"Identity Management (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1122533530","group":"Concept"}
+,{"id":"n_identity_management_system_(concept)","label":"Identity Management System (Concept)","text":"Identity Management System (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1146847286","group":"Concept"}
+,{"id":"n_identity_portability_(concept)","label":"Identity Portability (Concept)","text":"Identity Portability (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1323434004/Identity+Portability","group":"Concept"}
+,{"id":"n_identity_proofing_(concept)","label":"Identity Proofing (Concept)","text":"Identity Proofing (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/858522094","group":"Concept"}
+,{"id":"n_identity_propagation_(concept)","label":"Identity Propagation (Concept)","text":"Identity Propagation (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/810254353","group":"Concept"}
+,{"id":"n_identity_provider_(concept)","label":"Identity Provider (Concept)","text":"Identity Provider (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/82838020","group":"Concept"}
+,{"id":"n_identity_repository_(concept)","label":"Identity Repository (Concept)","text":"Identity Repository (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1117913089","group":"Concept"}
+,{"id":"n_idms_(acronym)","label":"IdMS (Acronym)","text":"IdMS (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1147043904","group":"Acronym"}
+,{"id":"n_idp_(acronym)","label":"IdP (Acronym)","text":"IdP (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/81101362","group":"Acronym"}
+,{"id":"n_img_(acronym)","label":"IMG (Acronym)","text":"IMG (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/107708597","group":"Acronym"}
+,{"id":"n_impersonation_(concept)","label":"Impersonation (Concept)","text":"Impersonation (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/974323719","group":"Concept"}
+,{"id":"n_heartbeats_recognition_authentication_(concept)","label":"Heartbeats Recognition Authentication (Concept)","text":"Heartbeats Recognition Authentication (Concept)","url":"","group":"Concept"}
+,{"id":"n_information_(concept)","label":"Information (Concept)","text":"Information (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1027342618","group":"Concept"}
+,{"id":"n_information_asset_(concept)","label":"Information Asset (Concept)","text":"Information Asset (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/455508212","group":"Concept"}
+,{"id":"n_information_custodian_(concept)","label":"Information Custodian (Concept)","text":"Information Custodian (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1004896257","group":"Concept"}
+,{"id":"n_information_flow_policy_(concept)","label":"Information Flow Policy (Concept)","text":"Information Flow Policy (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1177714758","group":"Concept"}
+,{"id":"n_information_owner_(concept)","label":"Information Owner (Concept)","text":"Information Owner (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998113409","group":"Concept"}
+,{"id":"n_information_security_domain_(concept)","label":"Information Security Domain (Concept)","text":"Information Security Domain (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/438698009/Information+Security+Domain","group":"Concept"}
+,{"id":"n_information_system_(concept)","label":"Information System (Concept)","text":"Information System (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1031241830/Information+System","group":"Concept"}
+,{"id":"n_inherence_factor","label":"Inherence Factor (Concept)","text":"Inherence Factor (Concept)","url":"","group":"Concept"}
+,{"id":"n_inside_attacker_(concept)","label":"Inside Attacker (Concept)","text":"Inside Attacker (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1477869651/Inside+Attacker","group":"Concept"}
+,{"id":"n_insider_(concept)","label":"Insider (Concept)","text":"Insider (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1451884782/Insider","group":"Concept"}
+,{"id":"n_insider_attack_(concept)","label":"Insider Attack (Concept)","text":"Insider Attack (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1478459402/Insider+Attack","group":"Concept"}
+,{"id":"n_insider_threat_(concept)","label":"Insider Threat (Concept)","text":"Insider Threat (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1451098397/Insider+Threat","group":"Concept"}
+,{"id":"n_insufficient_granularity_of_access_control_(concept)","label":"Insufficient Granularity of Access Control (Concept)","text":"Insufficient Granularity of Access Control (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/822476843","group":"Concept"}
+,{"id":"n_intentional_error_(concept)","label":"Intentional Error (Concept)","text":"Intentional Error (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998277141","group":"Concept"}
+,{"id":"n_interested_party_(concept)","label":"Interested Party (Concept)","text":"Interested Party (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1311417","group":"Concept"}
+,{"id":"n_interoperability_(concept)","label":"Interoperability (Concept)","text":"Interoperability (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/442466314","group":"Concept"}
+,{"id":"n_interval_scale_(concept)","label":"Interval Scale (Concept)","text":"Interval Scale (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/11567191","group":"Concept"}
+,{"id":"n_in_band_authentication_(concept)","label":"In-band Authentication (Concept)","text":"In-band Authentication (Concept)","url":"","group":"Concept"}
+,{"id":"n_isolated_identity_management_system_(concept)","label":"Isolated Identity Management System (Concept)","text":"Isolated Identity Management System (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1152483625","group":"Concept"}
+,{"id":"n_it_asset_scope_(concept)","label":"IT Asset Scope (Concept)","text":"IT Asset Scope (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/720902","group":"Concept"}
+,{"id":"n_it_system_(concept)","label":"IT System (Concept)","text":"IT System (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1569095803/IT+System","group":"Concept"}
+,{"id":"n_jml_(acronym)","label":"JML (Acronym)","text":"JML (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/858488984","group":"Acronym"}
+,{"id":"n_joiner_(concept)","label":"Joiner (Concept)","text":"Joiner (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/855506953","group":"Concept"}
+,{"id":"n_joiner_hire_date_(concept)","label":"Joiner Hire Date (Concept)","text":"Joiner Hire Date (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/858456203","group":"Concept"}
+,{"id":"n_joiner_lead_time_(concept)","label":"Joiner Lead Time (Concept)","text":"Joiner Lead Time (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/852492379","group":"Concept"}
+,{"id":"n_joiner_process_(concept)","label":"Joiner Process (Concept)","text":"Joiner Process (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/858521641","group":"Concept"}
+,{"id":"n_joiner_start_date_(concept)","label":"Joiner Start Date (Concept)","text":"Joiner Start Date (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/852492338","group":"Concept"}
+,{"id":"n_key_criteria_type_(concept)","label":"Key Criteria Type (Concept)","text":"Key Criteria Type (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140706011","group":"Concept"}
+,{"id":"n_key_information_(concept)","label":"Key Information (Concept)","text":"Key Information (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/425623701","group":"Concept"}
+,{"id":"n_keying_material_(concept)","label":"Keying Material (Concept)","text":"Keying Material (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/427163745","group":"Concept"}
+,{"id":"n_iris_recognition_authentication_(concept)","label":"Iris Recognition Authentication (Concept)","text":"Iris Recognition Authentication (Concept)","url":"","group":"Concept"}
+,{"id":"n_knowledge_factor","label":"Knowledge Factor (Concept)","text":"Knowledge Factor (Concept)","url":"","group":"Concept"}
+,{"id":"n_keystroke_recognition_authentication_(concept)","label":"Keystroke Recognition Authentication (Concept)","text":"Keystroke Recognition Authentication (Concept)","url":"","group":"Concept"}
+,{"id":"n_kyc_(acronym)","label":"KYC (Acronym)","text":"KYC (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/442499114","group":"Acronym"}
+,{"id":"n_kyc_registry_(concept)","label":"KYC Registry (Concept)","text":"KYC Registry (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/442400811","group":"Concept"}
+,{"id":"n_lattice_based_access_control_(concept)","label":"Lattice-Based Access Control (Concept)","text":"Lattice-Based Access Control (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1177681925","group":"Concept"}
+,{"id":"n_layers_architectural_pattern_(concept)","label":"Layers Architectural Pattern (Concept)","text":"Layers Architectural Pattern (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1181843548","group":"Concept"}
+,{"id":"n_lbac_(acronym)","label":"LBAC (Acronym)","text":"LBAC (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1177780225","group":"Acronym"}
+,{"id":"n_leading_indicator_(concept)","label":"Leading Indicator (Concept)","text":"Leading Indicator (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/49250375","group":"Concept"}
+,{"id":"n_least_privilege_(concept)","label":"Least Privilege (Concept)","text":"Least Privilege (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1006698533","group":"Concept"}
+,{"id":"n_legal_entity_identifier_(concept)","label":"Legal Entity Identifier (Concept)","text":"Legal Entity Identifier (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/442466361","group":"Concept"}
+,{"id":"n_legitimate_privilege_abuse_(concept)","label":"Legitimate Privilege Abuse (Concept)","text":"Legitimate Privilege Abuse (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1104936974","group":"Concept"}
+,{"id":"n_lei_(acronym)","label":"LEI (Acronym)","text":"LEI (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/442368033","group":"Acronym"}
+,{"id":"n_levels_of_assurance_(concept)","label":"Levels of Assurance (Concept)","text":"Levels of Assurance (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/442466381","group":"Concept"}
+,{"id":"n_liberal_discretionary_access_control_(concept)","label":"Liberal Discretionary Access Control (Concept)","text":"Liberal Discretionary Access Control (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1177845957","group":"Concept"}
+,{"id":"n_loa_(acronym)","label":"LOA (Acronym)","text":"LOA (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/442400912","group":"Acronym"}
+,{"id":"n_location_factor","label":"Location Factor (Concept)","text":"Location Factor (Concept)","url":"","group":"Concept"}
+,{"id":"n_logic_bomb_(concept)","label":"Logic Bomb (Concept)","text":"Logic Bomb (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1452048577/Logic+Bomb","group":"Concept"}
+,{"id":"n_login_(concept)","label":"Login (Concept)","text":"Login (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1440153606/Login","group":"Concept"}
+,{"id":"n_login_id_(acronym)","label":"Login ID (Acronym)","text":"Login ID (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1428685307/Login+ID","group":"Acronym"}
+,{"id":"n_login_name_(concept)","label":"Login Name (Concept)","text":"Login Name (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1428685365/Login+Name","group":"Concept"}
+,{"id":"n_mechanism_(concept)","label":"Mechanism (Concept)","text":"Mechanism (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/67699227","group":"Concept"}
+,{"id":"n_metadirectory_(concept)","label":"Metadirectory (Concept)","text":"Metadirectory (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/834044288","group":"Concept"}
+,{"id":"n_knuckleprint_recognition_authentication_(concept)","label":"Knuckleprint Recognition Authentication (Concept)","text":"Knuckleprint Recognition Authentication (Concept)","url":"","group":"Concept"}
+,{"id":"n_multidomain_single_sign_on_(concept)","label":"Multidomain Single Sign-On (Concept)","text":"Multidomain Single Sign-On (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/75890760","group":"Concept"}
+,{"id":"n_multilevel_security_(concept)","label":"Multilevel Security (Concept)","text":"Multilevel Security (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1031241799","group":"Concept"}
+,{"id":"n_multiple_accounts_(concept)","label":"Multiple Accounts (Concept)","text":"Multiple Accounts (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1600684160/Multiple+Accounts","group":"Concept"}
+,{"id":"n_multi_model_biometric_authentication_(concept)","label":"Multi-Model Biometric Authentication (Concept)","text":"Multi-Model Biometric Authentication (Concept)","url":"","group":"Concept"}
+,{"id":"n_need_to_know_(concept)","label":"Need-to-Know (Concept)","text":"Need-to-Know (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1474592794/Need-to-Know","group":"Concept"}
+,{"id":"n_new_joiner_(concept)","label":"New Joiner (Concept)","text":"New Joiner (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/858456124","group":"Concept"}
+,{"id":"n_no_tranquility_property_(concept)","label":"No Tranquility Property (Concept)","text":"No Tranquility Property (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1237483723","group":"Concept"}
+,{"id":"n_nonworker_(concept)","label":"Nonworker (Concept)","text":"Nonworker (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/858554692","group":"Concept"}
+,{"id":"n_numerical_identity_(concept)","label":"Numerical Identity (Concept)","text":"Numerical Identity (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1323336029/Numerical+Identity","group":"Concept"}
+,{"id":"n_mutual_authentication_(concept)","label":"Mutual Authentication (Concept)","text":"Mutual Authentication (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998244664","group":"Concept"}
+,{"id":"n_object_(concept)","label":"Object (Concept)","text":"Object (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/67568133","group":"Concept"}
+,{"id":"n_omission_error_(concept)","label":"Omission Error (Concept)","text":"Omission Error (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998244357","group":"Concept"}
+,{"id":"n_oauth_(acronym)","label":"OAuth (Acronym)","text":"OAuth (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/446825168","group":"Acronym"}
+,{"id":"n_opa_(acronym)","label":"OPA (Acronym)","text":"OPA (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1142358051","group":"Acronym"}
+,{"id":"n_open_policy_agent_(concept)","label":"Open Policy Agent (Concept)","text":"Open Policy Agent (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1142259761","group":"Concept"}
+,{"id":"n_operational_definition_(concept)","label":"Operational Definition (Concept)","text":"Operational Definition (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/3211353","group":"Concept"}
+,{"id":"n_operational_taxonomic_unit_(concept)","label":"Operational Taxonomic Unit (Concept)","text":"Operational Taxonomic Unit (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/148439181","group":"Concept"}
+,{"id":"n_ordinal_scale_(concept)","label":"Ordinal Scale (Concept)","text":"Ordinal Scale (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/5932838","group":"Concept"}
+,{"id":"n_organization_context_(concept)","label":"Organization Context (Concept)","text":"Organization Context (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1311403","group":"Concept"}
+,{"id":"n_organization_scope_(concept)","label":"Organization Scope (Concept)","text":"Organization Scope (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/557057","group":"Concept"}
+,{"id":"n_orphan_(concept)","label":"Orphan (Concept)","text":"Orphan (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1061650550","group":"Concept"}
+,{"id":"n_orphan_account_(concept)","label":"Orphan Account (Concept)","text":"Orphan Account (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1062207530/Orphan+Account","group":"Concept"}
+,{"id":"n_orphan_file_(concept)","label":"Orphan File (Concept)","text":"Orphan File (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1061748965","group":"Concept"}
+,{"id":"n_orphan_object_(concept)","label":"Orphan Object (Concept)","text":"Orphan Object (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1061650653","group":"Concept"}
+,{"id":"n_orphan_process_(concept)","label":"Orphan Process (Concept)","text":"Orphan Process (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1061748925","group":"Concept"}
+,{"id":"n_orphan_product_(concept)","label":"Orphan Product (Concept)","text":"Orphan Product (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1061749016","group":"Concept"}
+,{"id":"n_orphan_role_(concept)","label":"Orphan Role (Concept)","text":"Orphan Role (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1063845889","group":"Concept"}
+,{"id":"n_orphan_routes_apis_(concept)","label":"Orphan Routes / APIs (Concept)","text":"Orphan Routes / APIs (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1061650689","group":"Concept"}
+,{"id":"n_orphan_system_(concept)","label":"Orphan System (Concept)","text":"Orphan System (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1061748885","group":"Concept"}
+,{"id":"n_one_time_passcode_authentication_(concept)","label":"One-Time Passcode Authentication (Concept)","text":"One-Time Passcode Authentication (Concept)","url":"","group":"Concept"}
+,{"id":"n_outsider_(concept)","label":"Outsider (Concept)","text":"Outsider (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1472692289/Outsider","group":"Concept"}
+,{"id":"n_out_of_band_authentication_(concept)","label":"Out-of-band Authentication (Concept)","text":"Out-of-band Authentication (Concept)","url":"","group":"Concept"}
+,{"id":"n_passive_impersonation_attack_(concept)","label":"Passive Impersonation Attack (Concept)","text":"Passive Impersonation Attack (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/974323764","group":"Concept"}
+,{"id":"n_palmprint_recognition_authentication_(concept)","label":"Palmprint Recognition Authentication (Concept)","text":"Palmprint Recognition Authentication (Concept)","url":"","group":"Concept"}
+,{"id":"n_passphrase_authentication_(concept)","label":"Passphrase Authentication (Concept)","text":"Passphrase Authentication (Concept)","url":"","group":"Concept"}
+,{"id":"n_password_guessing_attack_(concept)","label":"Password Guessing Attack (Concept)","text":"Password Guessing Attack (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1428652394/Password+Guessing+Attack","group":"Concept"}
+,{"id":"n_password_rotation_(concept)","label":"Password Rotation (Concept)","text":"Password Rotation (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1027048058","group":"Concept"}
+,{"id":"n_password_spraying_attack_(concept)","label":"Password Spraying Attack (Concept)","text":"Password Spraying Attack (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1348730921/Password+Spraying+Attack","group":"Concept"}
+,{"id":"n_password_based_authentication_(concept)","label":"Password-Based Authentication (Concept)","text":"Password-Based Authentication (Concept)","url":"","group":"Concept"}
+,{"id":"n_people_(concept)","label":"People (Concept)","text":"People (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1409753","group":"Concept"}
+,{"id":"n_permission_(concept)","label":"Permission (Concept)","text":"Permission (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/67699129","group":"Concept"}
+,{"id":"n_persona_(concept)","label":"Persona (Concept)","text":"Persona (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1323499709/Persona","group":"Concept"}
+,{"id":"n_passwordless_authentication_(concept)","label":"Passwordless Authentication (Concept)","text":"Passwordless Authentication (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1677164566/Passwordless+Authentication","group":"Concept"}
+,{"id":"n_physical_token_otp_(concept)","label":"Physical Token OTP (Concept)","text":"Physical Token OTP (Concept)","url":"","group":"Concept"}
+,{"id":"n_pms_(acronym)","label":"PMS (Acronym)","text":"PMS (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1572948","group":"Acronym"}
+,{"id":"n_policy_(concept)","label":"Policy (Concept)","text":"Policy (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/67568272","group":"Concept"}
+,{"id":"n_policy_analysis_(concept)","label":"Policy Analysis (Concept)","text":"Policy Analysis (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1104904334","group":"Concept"}
+,{"id":"n_policy_centralization_(concept)","label":"Policy Centralization (Concept)","text":"Policy Centralization (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1132331103","group":"Concept"}
+,{"id":"n_policy_interoperability_(concept)","label":"Policy Interoperability (Concept)","text":"Policy Interoperability (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1132331086","group":"Concept"}
+,{"id":"n_policy_manageability_(concept)","label":"Policy Manageability (Concept)","text":"Policy Manageability (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1122631903","group":"Concept"}
+,{"id":"n_policy_mining_(concept)","label":"Policy Mining (Concept)","text":"Policy Mining (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1105068063","group":"Concept"}
+,{"id":"n_policy_modeling_(concept)","label":"Policy Modeling (Concept)","text":"Policy Modeling (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1130987523","group":"Concept"}
+,{"id":"n_possession_factor","label":"Possession Factor (Concept)","text":"Possession Factor (Concept)","url":"","group":"Concept"}
+,{"id":"n_pre_approval_(concept)","label":"Pre-approval (Concept)","text":"Pre-approval (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1094549649","group":"Concept"}
+,{"id":"n_principal_(concept)","label":"Principal (Concept)","text":"Principal (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/67699046","group":"Concept"}
+,{"id":"n_private_key_loss_(concept)","label":"Private Key Loss (Concept)","text":"Private Key Loss (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1323434264/Private+Key+Loss","group":"Concept"}
+,{"id":"n_privilege_(concept)","label":"Privilege (Concept)","text":"Privilege (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/67568310","group":"Concept"}
+,{"id":"n_privilege_abuse_(concept)","label":"Privilege Abuse (Concept)","text":"Privilege Abuse (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/814449037/Privilege+Abuse","group":"Concept"}
+,{"id":"n_privilege_chaining_(concept)","label":"Privilege Chaining (Concept)","text":"Privilege Chaining (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/473890861","group":"Concept"}
+,{"id":"n_privilege_escalation_(concept)","label":"Privilege Escalation (Concept)","text":"Privilege Escalation (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/810320380","group":"Concept"}
+,{"id":"n_privileged_identity_(concept)","label":"Privileged Identity (Concept)","text":"Privileged Identity (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/138346661","group":"Concept"}
+,{"id":"n_privileged_insider_(concept)","label":"Privileged Insider (Concept)","text":"Privileged Insider (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1477902403/Privileged+Insider","group":"Concept"}
+,{"id":"n_provisioning_(concept)","label":"Provisioning (Concept)","text":"Provisioning (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/61964289","group":"Concept"}
+,{"id":"n_personal_identification_number_authentication_(concept)","label":"Personal Identification Number Authentication (Concept)","text":"Personal Identification Number Authentication (Concept)","url":"","group":"Concept"}
+,{"id":"n_qualitative_identity_(concept)","label":"Qualitative Identity (Concept)","text":"Qualitative Identity (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1323598109/Qualitative+Identity","group":"Concept"}
+,{"id":"n_ra_(acronym)","label":"RA (Acronym)","text":"RA (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/82903928","group":"Acronym"}
+,{"id":"n_ratio_scale_(concept)","label":"Ratio Scale (Concept)","text":"Ratio Scale (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/11567198","group":"Concept"}
+,{"id":"n_rba_(acronym)","label":"RBA (Acronym)","text":"RBA (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/408944908","group":"Acronym"}
+,{"id":"n_qr_code_authentication_(concept)","label":"QR Code Authentication (Concept)","text":"QR Code Authentication (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1677164768/QR+Code+Authentication","group":"Concept"}
+,{"id":"n_recertification_(concept)","label":"Recertification (Concept)","text":"Recertification (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/107840129","group":"Concept"}
+,{"id":"n_reference_monitor_(concept)","label":"Reference Monitor (Concept)","text":"Reference Monitor (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/123962234","group":"Concept"}
+,{"id":"n_re_authentication_(concept)","label":"Re-authentication (Concept)","text":"Re-authentication (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/873201665","group":"Concept"}
+,{"id":"n_rejoiner_(concept)","label":"Rejoiner (Concept)","text":"Rejoiner (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/858521682","group":"Concept"}
+,{"id":"n_relying_party_(concept)","label":"Relying Party (Concept)","text":"Relying Party (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/67699423","group":"Concept"}
+,{"id":"n_remote_identity_proofing_(concept)","label":"Remote Identity Proofing (Concept)","text":"Remote Identity Proofing (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/427130881","group":"Concept"}
+,{"id":"n_repeatability_(concept)","label":"Repeatability (Concept)","text":"Repeatability (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/2589003","group":"Concept"}
+,{"id":"n_representation_target_(concept)","label":"Representation Target (Concept)","text":"Representation Target (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/11141464","group":"Concept"}
+,{"id":"n_reproducibility_(concept)","label":"Reproducibility (Concept)","text":"Reproducibility (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/2588994","group":"Concept"}
+,{"id":"n_revocation_(concept)","label":"Revocation (Concept)","text":"Revocation (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/67698769","group":"Concept"}
+,{"id":"n_ridp_(acronym)","label":"RIDP (Acronym)","text":"RIDP (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/425623561","group":"Acronym"}
+,{"id":"n_registration_authority_(concept)","label":"Registration Authority (Concept)","text":"Registration Authority (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/82870985","group":"Concept"}
+,{"id":"n_role_(concept)","label":"Role (Concept)","text":"Role (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/86442069","group":"Concept"}
+,{"id":"n_role_based_access_control_(concept)","label":"Role-Based Access Control (Concept)","text":"Role-Based Access Control (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1122566198","group":"Concept"}
+,{"id":"n_role_bloating_(concept)","label":"Role Bloating (Concept)","text":"Role Bloating (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/814514401","group":"Concept"}
+,{"id":"n_role_capacity_(concept)","label":"Role Capacity (Concept)","text":"Role Capacity (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1164902443","group":"Concept"}
+,{"id":"n_role_cardinality_(concept)","label":"Role Cardinality (Concept)","text":"Role Cardinality (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1164869655","group":"Concept"}
+,{"id":"n_role_cardinality_activation_control_(concept)","label":"Role Cardinality Activation Control (Concept)","text":"Role Cardinality Activation Control (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1164902498","group":"Concept"}
+,{"id":"n_role_explosion_(concept)","label":"Role Explosion (Concept)","text":"Role Explosion (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1152483772","group":"Concept"}
+,{"id":"n_role_management_(concept)","label":"Role Management (Concept)","text":"Role Management (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1130921985","group":"Concept"}
+,{"id":"n_rp_(acronym)","label":"RP (Acronym)","text":"RP (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/82903488","group":"Acronym"}
+,{"id":"n_sam_database_(concept)","label":"SAM Database (Concept)","text":"SAM Database (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140739068/SAM+Database","group":"Concept"}
+,{"id":"n_saml_(acronym)","label":"SAML (Acronym)","text":"SAML (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1428586729/SAML","group":"Acronym"}
+,{"id":"n_scim_(acronym)","label":"SCIM (Acronym)","text":"SCIM (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/206307343","group":"Acronym"}
+,{"id":"n_scim_1.0_(acronym)","label":"SCIM 1.0 (Acronym)","text":"SCIM 1.0 (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/206372879","group":"Acronym"}
+,{"id":"n_scim_1.1_(acronym)","label":"SCIM 1.1 (Acronym)","text":"SCIM 1.1 (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/206307350","group":"Acronym"}
+,{"id":"n_scim_2.0_(acronym)","label":"SCIM 2.0 (Acronym)","text":"SCIM 2.0 (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/206307373","group":"Acronym"}
+,{"id":"n_scoping_(concept)","label":"Scoping (Concept)","text":"Scoping (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1376383","group":"Concept"}
+,{"id":"n_sd_(acronym)","label":"SD (Acronym)","text":"SD (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/5931115","group":"Acronym"}
+,{"id":"n_sdp_(acronym)","label":"SDP (Acronym)","text":"SDP (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/234356901","group":"Acronym"}
+,{"id":"n_secure_production_identity_framework_for_everyone_(concept)","label":"Secure Production Identity Framework for Everyone (Concept)","text":"Secure Production Identity Framework for Everyone (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1142390785","group":"Concept"}
+,{"id":"n_secure_system_(concept)","label":"Secure System (Concept)","text":"Secure System (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1230831633","group":"Concept"}
+,{"id":"n_security_(concept)","label":"Security (Concept)","text":"Security (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1231159321","group":"Concept"}
+,{"id":"n_security_accounts_manager_(concept)","label":"Security Accounts Manager (Concept)","text":"Security Accounts Manager (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140673497","group":"Concept"}
+,{"id":"n_security_assertion_markup_language_(concept)","label":"Security Assertion Markup Language (Concept)","text":"Security Assertion Markup Language (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1428619445/Security+Assertion+Markup+Language","group":"Concept"}
+,{"id":"n_security_clearance_level_(concept)","label":"Security Clearance Level (Concept)","text":"Security Clearance Level (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1177747653","group":"Concept"}
+,{"id":"n_security_compartment_(concept)","label":"Security Compartment (Concept)","text":"Security Compartment (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1181843719","group":"Concept"}
+,{"id":"n_security_label_(concept)","label":"Security Label (Concept)","text":"Security Label (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1177747630","group":"Concept"}
+,{"id":"n_risk_based_authentication_(concept)","label":"Risk-Based Authentication (Concept)","text":"Risk-Based Authentication (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/795836567","group":"Concept"}
+,{"id":"n_segregation_of_duties_(concept)","label":"Segregation of Duties (Concept)","text":"Segregation of Duties (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1071185955","group":"Concept"}
+,{"id":"n_self_sovereign_identity_(concept)","label":"Self-Sovereign Identity (Concept)","text":"Self-Sovereign Identity (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/446955653/Self-Sovereign+Identity","group":"Concept"}
+,{"id":"n_semantic_differential_(concept)","label":"Semantic Differential (Concept)","text":"Semantic Differential (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/6029526","group":"Concept"}
+,{"id":"n_service_account_(concept)","label":"Service Account (Concept)","text":"Service Account (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/805142555","group":"Concept"}
+,{"id":"n_service_centric_identity_management_system_(concept)","label":"Service-Centric Identity Management System (Concept)","text":"Service-Centric Identity Management System (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1313538143/Service-Centric+Identity+Management+System","group":"Concept"}
+,{"id":"n_session_(concept)","label":"Session (Concept)","text":"Session (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/881197061","group":"Concept"}
+,{"id":"n_security_question_authentication_(concept)","label":"Security Question Authentication (Concept)","text":"Security Question Authentication (Concept)","url":"","group":"Concept"}
+,{"id":"n_single_login_(concept)","label":"Single Login (Concept)","text":"Single Login (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/78741548","group":"Concept"}
+,{"id":"n_single_sign_on_(concept)","label":"Single Sign-On (Concept)","text":"Single Sign-On (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/75956255","group":"Concept"}
+,{"id":"n_single_sign_on_(concept)","label":"Single Sign-On (Concept)","text":"Single Sign-On (Concept)","url":"","group":"Concept"}
+,{"id":"n_sms_otp_(concept)","label":"SMS OTP (Concept)","text":"SMS OTP (Concept)","url":"","group":"Concept"}
+,{"id":"n_session_authentication_(concept)","label":"Session Authentication (Concept)","text":"Session Authentication (Concept)","url":"","group":"Concept"}
+,{"id":"n_social_honeypot_(concept)","label":"Social Honeypot (Concept)","text":"Social Honeypot (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1270055026/Social+Honeypot","group":"Concept"}
+,{"id":"n_sod_(acronym)","label":"SoD (Acronym)","text":"SoD (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1071317018","group":"Acronym"}
+,{"id":"n_software_app_otp_(concept)","label":"Software / App OTP (Concept)","text":"Software / App OTP (Concept)","url":"","group":"Concept"}
+,{"id":"n_software_defined_perimeter_(concept)","label":"Software-Defined Perimeter (Concept)","text":"Software-Defined Perimeter (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/234487981","group":"Concept"}
+,{"id":"n_spiffe_(acronym)","label":"SPIFFE (Acronym)","text":"SPIFFE (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1142292486","group":"Acronym"}
+,{"id":"n_spms_(acronym)","label":"SPMS (Acronym)","text":"SPMS (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1605648","group":"Acronym"}
+,{"id":"n_ssh_key_(acronym)","label":"SSH Key (Acronym)","text":"SSH Key (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1027342899","group":"Acronym"}
+,{"id":"n_ssi_(acronym)","label":"SSI (Acronym)","text":"SSI (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1311113221/SSI","group":"Acronym"}
+,{"id":"n_sso_(acronym)","label":"SSO (Acronym)","text":"SSO (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/75956237","group":"Acronym"}
+,{"id":"n_sso_(concept)","label":"SSO (Concept)","text":"SSO (Concept)","url":"","group":"Concept"}
+,{"id":"n_stability_of_access_decision_factors_(concept)","label":"Stability of Access Decision Factors (Concept)","text":"Stability of Access Decision Factors (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998244645","group":"Concept"}
+,{"id":"n_stakeholder_(concept)","label":"Stakeholder (Concept)","text":"Stakeholder (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1311763","group":"Concept"}
+,{"id":"n_social_authentication_(concept)","label":"Social Authentication (Concept)","text":"Social Authentication (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1600684200/Social+Authentication","group":"Concept"}
+,{"id":"n_strategic_performance_measurement_system_(concept)","label":"Strategic Performance Measurement System (Concept)","text":"Strategic Performance Measurement System (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1540175","group":"Concept"}
+,{"id":"n_strict_discretionary_access_control_(concept)","label":"Strict Discretionary Access Control (Concept)","text":"Strict Discretionary Access Control (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1181909085","group":"Concept"}
+,{"id":"n_step_up_authentication_(concept)","label":"Step-Up Authentication (Concept)","text":"Step-Up Authentication (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/663257097/Step-Up+Authentication","group":"Concept"}
+,{"id":"n_strong_tranquility_property_(concept)","label":"Strong Tranquility Property (Concept)","text":"Strong Tranquility Property (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1177747756","group":"Concept"}
+,{"id":"n_subject_(concept)","label":"Subject (Concept)","text":"Subject (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/67600697","group":"Concept"}
+,{"id":"n_subjective_indicator_(concept)","label":"Subjective Indicator (Concept)","text":"Subjective Indicator (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/2981920","group":"Concept"}
+,{"id":"n_supply_chain_attack_(concept)","label":"Supply Chain Attack (Concept)","text":"Supply Chain Attack (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1477869640/Supply+Chain+Attack","group":"Concept"}
+,{"id":"n_sybil_attack_(concept)","label":"Sybil Attack (Concept)","text":"Sybil Attack (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1254588545/Sybil+Attack","group":"Concept"}
+,{"id":"n_synthetic_identity_fraud_(concept)","label":"Synthetic Identity Fraud (Concept)","text":"Synthetic Identity Fraud (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/794296433","group":"Concept"}
+,{"id":"n_system_(concept)","label":"System (Concept)","text":"System (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/5965562/System","group":"Concept"}
+,{"id":"n_system_boundaries_(concept)","label":"System Boundaries (Concept)","text":"System Boundaries (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/446824644/System+Boundaries","group":"Concept"}
+,{"id":"n_system_for_cross_domain_identity_management_(concept)","label":"System for Cross-domain Identity Management (Concept)","text":"System for Cross-domain Identity Management (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/206372869","group":"Concept"}
+,{"id":"n_system_owner_(concept)","label":"System Owner (Concept)","text":"System Owner (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1004961963","group":"Concept"}
+,{"id":"n_system_z_(concept)","label":"System Z (Concept)","text":"System Z (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1226571890","group":"Concept"}
+,{"id":"n_tan_list_otp_(concept)","label":"TAN List OTP (Concept)","text":"TAN List OTP (Concept)","url":"","group":"Concept"}
+,{"id":"n_task_based_access_control_(concept)","label":"Task-Based Access Control (Concept)","text":"Task-Based Access Control (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1122631693","group":"Concept"}
+,{"id":"n_strong_authentication_(concept)","label":"Strong Authentication (Concept)","text":"Strong Authentication (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/81199126","group":"Concept"}
+,{"id":"n_time_factor_(concept)","label":"Time Factor (Concept)","text":"Time Factor (Concept)","url":"","group":"Concept"}
+,{"id":"n_text_password_authentication_(concept)","label":"Text Password Authentication (Concept)","text":"Text Password Authentication (Concept)","url":"","group":"Concept"}
+,{"id":"n_token_based_authentication_(concept)","label":"Token-Based Authentication (Concept)","text":"Token-Based Authentication (Concept)","url":"","group":"Concept"}
+,{"id":"n_toxic_combinations_(concept)","label":"Toxic Combinations (Concept)","text":"Toxic Combinations (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1130954862","group":"Concept"}
+,{"id":"n_toxic_right_rule_(definition)_(concept)","label":"Toxic Right Rule (Definition) (Concept)","text":"Toxic Right Rule (Definition) (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/360467","group":"Concept"}
+,{"id":"n_tranquil_(concept)","label":"Tranquil (Concept)","text":"Tranquil (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1237582070/Tranquil","group":"Concept"}
+,{"id":"n_tranquility_principle_(concept)","label":"Tranquility Principle (Concept)","text":"Tranquility Principle (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1237483759","group":"Concept"}
+,{"id":"n_tranquility_property_(concept)","label":"Tranquility Property (Concept)","text":"Tranquility Property (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1181876587","group":"Concept"}
+,{"id":"n_trust_(concept)","label":"Trust (Concept)","text":"Trust (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1037926452/Trust","group":"Concept"}
+,{"id":"n_trust_asymmetry_(concept)","label":"Trust Asymmetry (Concept)","text":"Trust Asymmetry (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1027048185","group":"Concept"}
+,{"id":"n_trust_composability_(concept)","label":"Trust Composability (Concept)","text":"Trust Composability (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1027048128","group":"Concept"}
+,{"id":"n_trust_personalization_(concept)","label":"Trust Personalization (Concept)","text":"Trust Personalization (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1027048209","group":"Concept"}
+,{"id":"n_trust_transitivity_(concept)","label":"Trust Transitivity (Concept)","text":"Trust Transitivity (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1031242345","group":"Concept"}
+,{"id":"n_typing_biometrics_(concept)","label":"Typing Biometrics (Concept)","text":"Typing Biometrics (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1417084929/Typing+Biometrics","group":"Concept"}
+,{"id":"n_typology_(concept)","label":"Typology (Concept)","text":"Typology (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140673267","group":"Concept"}
+,{"id":"n_unanticipated_user_(concept)","label":"Unanticipated User (Concept)","text":"Unanticipated User (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1027080193/Unanticipated+User","group":"Concept"}
+,{"id":"n_touchstroke_recognition_authentication_(concept)","label":"Touchstroke Recognition Authentication (Concept)","text":"Touchstroke Recognition Authentication (Concept)","url":"","group":"Concept"}
+,{"id":"n_unique_id_number_(concept)","label":"Unique ID Number (Concept)","text":"Unique ID Number (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/446955662/Unique+ID+Number","group":"Concept"}
+,{"id":"n_unprivileged_insider_(concept)","label":"Unprivileged Insider (Concept)","text":"Unprivileged Insider (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1477902414/Unprivileged+Insider","group":"Concept"}
+,{"id":"n_user_(concept)","label":"User (Concept)","text":"User (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/82839586/User","group":"Concept"}
+,{"id":"n_user_account_(concept)","label":"User Account (Concept)","text":"User Account (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1428587273/User+Account","group":"Concept"}
+,{"id":"n_user_centric_identity_management_system_(concept)","label":"User-Centric Identity Management System (Concept)","text":"User-Centric Identity Management System (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1323597878/User-Centric+Identity+Management+System","group":"Concept"}
+,{"id":"n_user_de_provisioning_(concept)","label":"User De-Provisioning (Concept)","text":"User De-Provisioning (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1146847344/User+De-Provisioning","group":"Concept"}
+,{"id":"n_user_entitlement_reviews_(concept)","label":"User Entitlement Reviews (Concept)","text":"User Entitlement Reviews (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1121878257","group":"Concept"}
+,{"id":"n_user_id_(acronym)","label":"User ID (Acronym)","text":"User ID (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1428652448/User+ID","group":"Acronym"}
+,{"id":"n_user_provisioning_(concept)","label":"User Provisioning (Concept)","text":"User Provisioning (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1147043973/User+Provisioning","group":"Concept"}
+,{"id":"n_username_(concept)","label":"Username (Concept)","text":"Username (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1428652183/Username","group":"Concept"}
+,{"id":"n_verifiable_claim_(concept)","label":"Verifiable Claim (Concept)","text":"Verifiable Claim (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1311146179/Verifiable+Claim","group":"Concept"}
+,{"id":"n_verification_(concept)","label":"Verification (Concept)","text":"Verification (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/446988510/Verification","group":"Concept"}
+,{"id":"n_virtual_directory_(concept)","label":"Virtual Directory (Concept)","text":"Virtual Directory (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/834044330","group":"Concept"}
+,{"id":"n_virtual_private_network_(concept)","label":"Virtual Private Network (Concept)","text":"Virtual Private Network (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/236748839","group":"Concept"}
+,{"id":"n_virtual_risk_and_security_site_review_(concept)","label":"Virtual Risk and Security Site Review (Concept)","text":"Virtual Risk and Security Site Review (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/542146561","group":"Concept"}
+,{"id":"n_voice_otp_(concept)","label":"Voice OTP (Concept)","text":"Voice OTP (Concept)","url":"","group":"Concept"}
+,{"id":"n_unauthorized_access_(concept)","label":"Unauthorized Access (Concept)","text":"Unauthorized Access (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1231126540/Unauthorized+Access","group":"Concept"}
+,{"id":"n_vpn_(acronym)","label":"VPN (Acronym)","text":"VPN (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/234389605","group":"Acronym"}
+,{"id":"n_voice_recognition_authentication_(concept)","label":"Voice Recognition Authentication (Concept)","text":"Voice Recognition Authentication (Concept)","url":"","group":"Concept"}
+,{"id":"n_weak_tranquility_property_(concept)","label":"Weak Tranquility Property (Concept)","text":"Weak Tranquility Property (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1177845999","group":"Concept"}
+,{"id":"n_web_based_single_sign_on_(concept)","label":"Web-based Single Sign-On (Concept)","text":"Web-based Single Sign-On (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/75923587","group":"Concept"}
+,{"id":"n_windows_(non_default)_local_user_account_(concept)","label":"Windows (Non-Default) Local User Account (Concept)","text":"Windows (Non-Default) Local User Account (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140673566","group":"Concept"}
+,{"id":"n_windows_default_local_system_account_(concept)","label":"Windows Default Local System Account (Concept)","text":"Windows Default Local System Account (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140739507","group":"Concept"}
+,{"id":"n_windows_default_local_user_account_(concept)","label":"Windows Default Local User Account (Concept)","text":"Windows Default Local User Account (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140673594","group":"Concept"}
+,{"id":"n_windows_defaultaccount_account_(concept)","label":"Windows DefaultAccount Account (Concept)","text":"Windows DefaultAccount Account (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140739482","group":"Concept"}
+,{"id":"n_windows_guest_account_(concept)","label":"Windows Guest Account (Concept)","text":"Windows Guest Account (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140673653","group":"Concept"}
+,{"id":"n_windows_helpassistant_account_(concept)","label":"Windows HelpAssistant Account (Concept)","text":"Windows HelpAssistant Account (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140771901","group":"Concept"}
+,{"id":"n_windows_local_account_(concept)","label":"Windows Local Account (Concept)","text":"Windows Local Account (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140772047","group":"Concept"}
+,{"id":"n_windows_local_administrator_account_(concept)","label":"Windows Local Administrator Account (Concept)","text":"Windows Local Administrator Account (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140739277","group":"Concept"}
+,{"id":"n_windows_local_service_account_(concept)","label":"Windows LOCAL SERVICE Account (Concept)","text":"Windows LOCAL SERVICE Account (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140673818","group":"Concept"}
+,{"id":"n_windows_network_service_account_(concept)","label":"Windows NETWORK SERVICE Account (Concept)","text":"Windows NETWORK SERVICE Account (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140772011","group":"Concept"}
+,{"id":"n_windows_security_identifier_(concept)","label":"Windows Security Identifier (Concept)","text":"Windows Security Identifier (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140706624","group":"Concept"}
+,{"id":"n_windows_system_account_(concept)","label":"Windows SYSTEM Account (Concept)","text":"Windows SYSTEM Account (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140706700","group":"Concept"}
+,{"id":"n_worker_(concept)","label":"Worker (Concept)","text":"Worker (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/855638141","group":"Concept"}
+,{"id":"n_workflow_sensitive_access_control_(concept)","label":"Workflow-Sensitive Access Control (Concept)","text":"Workflow-Sensitive Access Control (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/814448722","group":"Concept"}
+,{"id":"n_workforce_(concept)","label":"Workforce (Concept)","text":"Workforce (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/852492409","group":"Concept"}
+,{"id":"n_xacml_(acronym)","label":"XACML (Acronym)","text":"XACML (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1122631791","group":"Acronym"}
+,{"id":"n_zero_trust_access_(concept)","label":"Zero-Trust Access (Concept)","text":"Zero-Trust Access (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/234356891/Zero-Trust+Access","group":"Concept"}
+,{"id":"n_zombie_account_(concept)","label":"Zombie Account (Concept)","text":"Zombie Account (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/782893195/Zombie+Account","group":"Concept"}
+,{"id":"n_zta_(acronym)","label":"ZTA (Acronym)","text":"ZTA (Acronym)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/234389671/ZTA","group":"Acronym"}
+,{"id":"n_weak_authentication_(concept)","label":"Weak Authentication (Concept)","text":"Weak Authentication (Concept)","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/81068120","group":"Concept"}
 ]
