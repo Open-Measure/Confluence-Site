@@ -115,6 +115,27 @@ div.vis-network div.vis-navigation div.vis-button:hover {
 }
 </style>
 <script type="text/javascript">
+
+// Global variables
+var nodes = null;
+var edges = null;
+var network = null;
+
+function unloadNode(nodeId){
+  nodes.remove(nodeId);
+  noSelection();
+  }
+
+function noSelection(){
+  document.getElementById("selectedItemDiv").innerHTML = "<i>No item selected</i>";
+  }
+
+function resetAll() {
+  $('#mySelect2').val(null).trigger('change');
+  nodes.clear();
+  edges.clear();
+  }
+
 $(document).ready(function() {
 
     fetch('https://raw.githubusercontent.com/Open-Measure/Confluence-Site/master/KnowledgeGraph/nodes-data.json')
@@ -129,12 +150,6 @@ $(document).ready(function() {
                 { id: "e3", from: "n3", to: "n4", label:"is a", arrows:"to" },
                 { id: "e4", from: "n4", to: "n5", label:"is a", arrows:"to" }
               ];
-
-      function resetAll() {
-        $('#mySelect2').val(null).trigger('change');
-        nodes.clear();
-        edges.clear();
-      }
 
       function getEdge(edgeId){
         var result = edgesDatabase.filter(obj => {
@@ -172,15 +187,6 @@ $(document).ready(function() {
         window.open(targetNode.url, "_blank");
       }
 
-      function noSelection(){
-        document.getElementById("selectedItemDiv").innerHTML = "<i>No item selected</i>";
-      }
-
-      function unloadNode(nodeId){
-        nodes.remove(nodeId);
-        noSelection();
-      }
-
       // Prepare SELECT2 options in the desired format
       var selectOptions = [];
       for(i = 0; i < data.length; i++){
@@ -214,9 +220,9 @@ $(document).ready(function() {
       // Start with a clean SELECT2
       noSelection();
 
-      var nodes = new vis.DataSet();
-      var edges = new vis.DataSet();
-      var network = {};
+      nodes = new vis.DataSet();
+      edges = new vis.DataSet();
+      network = {};
 
       function startNetwork(){
 
