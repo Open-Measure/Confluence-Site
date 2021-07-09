@@ -1,39 +1,25 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
+<meta charset="utf-8" />
+<title>The Open-Measure Interactive Knowledge Graph | <i>Version Beta 0.1</i></title>
 <!--
 Big hugs to:
-https://select2.org/
 https://visjs.org/
+https://select2.org/
 https://jquery.com/
+...and probably many others.
 -->
-</head>
-<body>
-  <h1>The Open-Measure Knowledge Graph - <i>Beta Version 0.1</i></h1>
-  <label for="mySelect2">
-    Search and select items:
-    <select class="js-example-basic-multiple js-states form-control" id="mySelect2" multiple="multiple"  style="width: 75%">
-    </select>
-  </label>
-  <div>
-  <span id="selectedItemDiv"></span>
-  <input
-         type="button"
-         onclick="resetAll()"
-         value="Clear All">
-
-  </div>
 <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js"></script>
 <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
 <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
-<div id="mynetwork"></div>
 <script type="text/javascript" src="https://unpkg.com/vis-data@latest/peer/umd/vis-data.min.js"></script>
 <script type="text/javascript" src="https://unpkg.com/vis-network@latest/peer/umd/vis-network.min.js"></script>
 <link rel="stylesheet" type="text/css" href="https://unpkg.com/vis-network/styles/vis-network.min.css" />
 <style>
-
   * { font-family: helvetica }
 
-    input[type=button] {
+  input[type=button] {
     border: 2px solid #999999;
     border-radius: 10px;
     font-size: 1em;
@@ -44,7 +30,7 @@ https://jquery.com/
     background-color: #efefef;
   }
 
-    #nodeHeaderTitle {
+  #nodeHeaderTitle {
     color: black;
     font-weight: bold;
     width: 80%;
@@ -58,16 +44,15 @@ https://jquery.com/
 
   #mynetwork {
     width: 90%;
-    height: 75%;
     border: 2px solid #999999;
     border-radius: 10px;
+    height: 550px; /* BUG: This is a bug, I rather want the DIV element to take all the window available height */
     padding: 2px;
     margin: 4px;
     text-align: center;
     vertical-align: middle;
     background-color: #ffffff;
   }
-
 
 div.vis-network div.vis-navigation div.vis-button.vis-up,
 div.vis-network div.vis-navigation div.vis-button.vis-down,
@@ -130,27 +115,7 @@ div.vis-network div.vis-navigation div.vis-button:hover {
 }
 </style>
 <script type="text/javascript">
-
-
-/*
-var nodesDatabase = [
-          { id: "n1", label: "Authentication Factors", group:"Concept", url:"https://open"},
-          { id: "n2", label: "Inherence Factor", group:"Concept", url:"https://open"},
-          { id: "n3", label: "Possession Factor", group:"Concept", url:"https://open"},
-          { id: "n4", label: "Application Onboarding", group:"Process", url:"https://open"},
-          { id: "n5", label: "Provisioning", group:"Process", url:"https://open"},
-          { id: "n6", label: "Provisioning", group:"Process", url:"https://open"},
-          { id: "n7", label: "Provisioning", group:"Process", url:"https://open"},
-          { id: "n8", label: "Provisioning", group:"Process", url:"https://open"},
-          { id: "n9", label: "Provisioning", group:"Process", url:"https://open"},
-          { id: "n10", label: "Provisioning", group:"Process", url:"https://open"},
-          { id: "n11", label: "Provisioning", group:"Process", url:"https://open"}
-        ];
-*/
-
-
 $(document).ready(function() {
-
 
     fetch('https://raw.githubusercontent.com/Open-Measure/Confluence-Site/master/KnowledgeGraph/nodes-data.json')
       .then(response => response.json())
@@ -216,39 +181,37 @@ $(document).ready(function() {
         noSelection();
       }
 
+      // Prepare SELECT2 options in the desired format
       var selectOptions = [];
       for(i = 0; i < data.length; i++){
         selectOptions.push({id: data[i].id, text: data[i].label});
       };
 
-      /*
-        var data = $.map(data, function (obj) {
-            obj.text = obj.text || obj.label; // replace name with the property used for the text
-            return obj;
-          });
-      */
-
+      // Make SELECT2 alive
       $('.js-example-basic-multiple').select2({
         tags: true,
         tokenSeparators: [',', ' '],
         data: selectOptions,
         createTag: function(params) {
-          /*Disable nodes creation*/
+          // Disable nodes creation by the user
           return undefined;
         }
       });
 
+      // Attach to the "When a SELECT2 single item is selected" event
       $('#mySelect2').on('select2:select', function (e) {
         var nodeId = e.params.data.id;
         loadNode(nodeId);
         network.selectNodes([nodeId]);
       });
 
+      // Attach to the "When a SELECT2 item is deselected" event
       $('#mySelect2').on('select2:unselect', function (e) {
         var nodeId = e.params.data.id;
         unloadNode(nodeId);
       });
 
+      // Start with a clean SELECT2
       noSelection();
 
       var nodes = new vis.DataSet();
@@ -350,16 +313,28 @@ $(document).ready(function() {
 
     }
 
-startNetwork();
+    startNetwork();
 
-        }); /*End of data fetching*/
-
-    /*
-
-    //*/
+    }); /*End of data fetching*/
 
   });
-
 </script>
+</head>
+<body>
+<h1>The Open-Measure Interactive Knowledge Graph | <i>Version Beta 0.1</i></h1>
+  <label for="mySelect2">
+    Search and select items:
+    <select class="js-example-basic-multiple js-states form-control" id="mySelect2" multiple="multiple"  style="width: 75%">
+    </select>
+  </label>
+  <div>
+  <span id="selectedItemDiv"></span>
+  <input
+         type="button"
+         onclick="resetAll()"
+         value="Clear All">
+
+  </div>
+<div id="mynetwork"></div>
 </body>
 </html>
