@@ -131,18 +131,6 @@ div.vis-network div.vis-navigation div.vis-button:hover {
 </style>
 <script type="text/javascript">
 
-var edgesDatabase = [
-          { id: "e1", from: "n2", to: "n1", label:"is a", arrows:"to" },
-          { id: "e2", from: "n3", to: "n1", label:"is a", arrows:"to" },
-          { id: "e3", from: "n3", to: "n4", label:"is a", arrows:"to" },
-          { id: "e4", from: "n4", to: "n5", label:"is a", arrows:"to" }
-        ];
-
-var nodesDatabase = null;
-
-fetch('https://raw.githubusercontent.com/Open-Measure/Confluence-Site/master/KnowledgeGraph/nodes-data.json')
-  .then(response => response.json())
-  .then(data => nodesDatabase = data);
 
 /*
 var nodesDatabase = [
@@ -160,118 +148,177 @@ var nodesDatabase = [
         ];
 */
 
-for(node in nodesDatabase){
-  ***** TODO ******
-    TRANSFORM THE NODES DATABASE IN SELECTABLE ITEMS FORMAT
-}
-
-var selectableItems = [
-    {
-      text: "Concepts",
-      children: [
-        {id: "n1", text: "Authentication Factors"},
-        {id: "n2", text: "Inherence Factor"},
-        {id: "n3", text: "Possession Factor"}
-      ]
-    },
-    {
-      text: "Processes",
-      children: [
-        {id: "n4", text: "Application Onboarding"},
-        {id: "n5", text: "Provisioning"}
-      ]
-    }
-  ];
 
 $(document).ready(function() {
 
-    $('.js-example-basic-multiple').select2({
-      tags: true,
-      tokenSeparators: [',', ' '],
-      data: selectableItems,
-      createTag: function(params) {
-                return undefined;
-           }
-    });
 
-    $('#mySelect2').on('select2:select', function (e) {
-      var nodeId = e.params.data.id;
-      loadNode(nodeId);
-      network.selectNodes([nodeId]);
-    });
+    fetch('https://raw.githubusercontent.com/Open-Measure/Confluence-Site/master/KnowledgeGraph/nodes-data.json')
+      .then(response => response.json())
+      .then(function(data){
 
-    $('#mySelect2').on('select2:unselect', function (e) {
-      var nodeId = e.params.data.id;
-      unloadNode(nodeId);
-    });
-  });
+      var nodesDatabase = data;
 
-var nodes = new vis.DataSet();
-var edges = new vis.DataSet();
-var network = {};
+      var edgesDatabase = [
+                { id: "e1", from: "n2", to: "n1", label:"is a", arrows:"to" },
+                { id: "e2", from: "n3", to: "n1", label:"is a", arrows:"to" },
+                { id: "e3", from: "n3", to: "n4", label:"is a", arrows:"to" },
+                { id: "e4", from: "n4", to: "n5", label:"is a", arrows:"to" }
+              ];
 
-function startNetwork(){
-  var container = document.getElementById("mynetwork");
-        var data = {
-          nodes: nodes,
-          edges: edges,
-        };
+      function resetAll() {
+        $('#mySelect2').val(null).trigger('change');
+        nodes.clear();
+        edges.clear();
+      }
 
-  var networkOptions = {
-    interaction: {
-      navigationButtons: true,
-      keyboard: true,
-      multiselect: false
-    },
-    physics: {
-      enabled: true,
-      barnesHut: {
-            theta: 0.5,
-            gravitationalConstant: -1500,
-            centralGravity: 0.5,
-            springLength: 50,
-            springConstant: 0.04,
-            damping: 0.09,
-            avoidOverlap: 0.2
-          },
-      maxVelocity: 5,
-      minVelocity: 1,
-    solver: 'barnesHut',
-    stabilization: {
-      enabled: true,
-      iterations: 500,
-      updateInterval: 100,
-      onlyDynamicEdges: false,
-      fit: true
-      },
-    timestep: 0.5
-    },
-    nodes:{
-      borderWidth: 1,
-      borderWidthSelected: 2,
-      chosen: true,
-      color: {
-        border: '#b3b3b3',
-        background: '#aaccff',
-        highlight: {
-          border: '#999999',
-          background: '#5599ff'
-        },
-        hover: {
-          border: '#2B7CE9',
-          background: '#D2E5FF'
+      function getEdge(edgeId){
+        var result = edgesDatabase.filter(obj => {
+          return obj.id === nodeId
+        });
+        return result[0];
+      }
+
+      function getNode(nodeId){
+        var result = nodesDatabase.filter(obj => {
+          return obj.id === nodeId
+        });
+        return result[0];
+      }
+
+      function loadAdjacent(nodeId){
+        for (i = 0; i < edgesDatabase.length; i++) {
+          myEdge = edgesDatabase[i];
+          if(myEdge.from == nodeId || myEdge.to == nodeId){
+            edges.update(myEdge);
+            nodes.update(getNode(myEdge.from));
+            nodes.update(getNode(myEdge.to));
+          }
         }
-      },
-      size: 30,
-      shape: 'ellipse' //box is a good option as well.
-    }
-  };
+      }
+
+      function loadNode(nodeId){
+        var targetNode = getNode(nodeId);
+        nodes.update(targetNode);
+        loadAdjacent(nodeId);
+      }
+
+      function getMoreInformation(nodeId){
+        var targetNode = getNode(nodeId);
+        window.open(targetNode.url, "_blank");
+      }
+
+      function noSelection(){
+        document.getElementById("selectedItemDiv").innerHTML = "<i>No item selected</i>";
+      }
+
+      function unloadNode(nodeId){
+        nodes.remove(nodeId);
+        noSelection();
+      }
+
+      var selectOptions = [];
+      for(i = 0; i < data.length; i++){
+        selectOptions.push({id: data[i].id, text: data[i].label});
+      };
+
+      /*
+        var data = $.map(data, function (obj) {
+            obj.text = obj.text || obj.label; // replace name with the property used for the text
+            return obj;
+          });
+      */
+
+      $('.js-example-basic-multiple').select2({
+        tags: true,
+        tokenSeparators: [',', ' '],
+        data: selectOptions,
+        createTag: function(params) {
+          /*Disable nodes creation*/
+          return undefined;
+        }
+      });
+
+      $('#mySelect2').on('select2:select', function (e) {
+        var nodeId = e.params.data.id;
+        loadNode(nodeId);
+        network.selectNodes([nodeId]);
+      });
+
+      $('#mySelect2').on('select2:unselect', function (e) {
+        var nodeId = e.params.data.id;
+        unloadNode(nodeId);
+      });
+
+      noSelection();
+
+      var nodes = new vis.DataSet();
+      var edges = new vis.DataSet();
+      var network = {};
+
+      function startNetwork(){
+
+        var container = document.getElementById("mynetwork");
+              var data = {
+                nodes: nodes,
+                edges: edges,
+              };
+
+        var networkOptions = {
+          interaction: {
+            navigationButtons: true,
+            keyboard: true,
+            multiselect: false
+          },
+          physics: {
+            enabled: true,
+            barnesHut: {
+                  theta: 0.5,
+                  gravitationalConstant: -1500,
+                  centralGravity: 0.5,
+                  springLength: 50,
+                  springConstant: 0.04,
+                  damping: 0.09,
+                  avoidOverlap: 0.2
+                },
+            maxVelocity: 5,
+            minVelocity: 1,
+          solver: 'barnesHut',
+          stabilization: {
+            enabled: true,
+            iterations: 500,
+            updateInterval: 100,
+            onlyDynamicEdges: false,
+            fit: true
+            },
+          timestep: 0.5
+          },
+          nodes:{
+            borderWidth: 1,
+            borderWidthSelected: 2,
+            chosen: true,
+            color: {
+              border: '#b3b3b3',
+              background: '#aaccff',
+              highlight: {
+                border: '#999999',
+                background: '#5599ff'
+              },
+              hover: {
+                border: '#2B7CE9',
+                background: '#D2E5FF'
+              }
+            },
+            size: 30,
+            shape: 'ellipse' //box is a good option as well.
+          }
+        };
 
     network = new vis.Network(container, data, networkOptions);
 
     network.on("selectNode", function (params) {
       var nodeId = params.nodes[0];
       if(nodeId){
+
         loadNode(nodeId);
         var nodeData = getNode(nodeId);
         var nodeLabel = nodeData.label;
@@ -280,6 +327,7 @@ function startNetwork(){
           font: {
             size: 20
         }});
+
         document.getElementById("selectedItemDiv").innerHTML =
           '<span id="nodeHeaderTitle">' + nodeLabel + '</span>' +
           '&nbsp;<a type="button" href="' + nodeData.url + '" target="_blank">Wiki Page</a>' +
@@ -287,8 +335,7 @@ function startNetwork(){
           ;
         //network.focus(nodeId); //re-center the graph on the newly selected node
         }
-      }
-    );
+      });
 
     network.on("deselectNode", function (params) {
       var nodeId = params.previousSelection.nodes[0].id;
@@ -297,66 +344,21 @@ function startNetwork(){
       node.setOptions({
         font: {
           size: 15
+          }});
         }
       });
-              }
-    });
 
-  }
+    }
 
 startNetwork();
 
-function resetAll() {
-  $('#mySelect2').val(null).trigger('change');
-  nodes.clear();
-  edges.clear();
-}
+        }); /*End of data fetching*/
 
-function getEdge(edgeId){
-  var result = edgesDatabase.filter(obj => {
-    return obj.id === nodeId
-    });
-  return result[0];
-}
+    /*
 
-function getNode(nodeId){
-  var result = nodesDatabase.filter(obj => {
-    return obj.id === nodeId
-    });
-  return result[0];
-}
+    //*/
 
-function loadAdjacent(nodeId){
-  for (i = 0; i < edgesDatabase.length; i++) {
-    myEdge = edgesDatabase[i];
-    if(myEdge.from == nodeId || myEdge.to == nodeId){
-      edges.update(myEdge);
-      nodes.update(getNode(myEdge.from));
-      nodes.update(getNode(myEdge.to));
-    }
-  }
-}
-
-function loadNode(nodeId){
-  var targetNode = getNode(nodeId);
-  nodes.update(targetNode);
-  loadAdjacent(nodeId);
-}
-
-function getMoreInformation(nodeId){
-  var targetNode = getNode(nodeId);
-  window.open(targetNode.url, "_blank");
-}
-
-function noSelection(){
-  document.getElementById("selectedItemDiv").innerHTML = "<i>No item selected</i>";
-}
-noSelection();
-
-function unloadNode(nodeId){
-  nodes.remove(nodeId);
-  noSelection();
-}
+  });
 
 </script>
 </body>
