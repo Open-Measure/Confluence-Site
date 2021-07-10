@@ -1,5 +1,5 @@
 {
-nodes:[
+"nodes":[
 {"label":"4-Eyes Check","id":"n09FF5045_1C8C_4006_B2D6_F9742CBF96E8","url":""}
 ,{"label":"4-Eyes Principle","id":"n949B469C_B258_4821_87B2_A3318627421D","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/805175450/4-Eyes+Principle"}
 ,{"label":"Access","id":"n345814A3_CDB9_48CD_9A28_0EA438DFE1AF","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/123962347/Access"}
@@ -488,7 +488,7 @@ nodes:[
 #REF!
 #REF!
 ]
-,edges:[
+,"edges":[
 {"id":"nC9236704_329A_41A4_ABC5_340A92CC3765","from":"nB3F90AFA_FC46_4122_9901_4FF284E9E7EC","to":"nE49F9EAF_3DC5_47FA_9722_CDE0190EAD09","label":"acronym for"}
 ,{"id":"n96BD0C0B_9A7F_45ED_9519_30416CA253CB","from":"nAC688165_B606_4D82_A016_0263D701EDF2","to":"n53877DB9_77FA_44E9_974A_BE3344133398","label":"is"}
 ,{"id":"nCFA197D3_9344_415D_9209_905E09487E5F","from":"n8B61F4C7_8FA2_43DC_B58C_AB2C5C0A8877","to":"nCEEB6DF9_D56B_4A1B_9B36_35674D25F038","label":"is"}
