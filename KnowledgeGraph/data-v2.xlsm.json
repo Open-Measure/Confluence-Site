@@ -18,13 +18,6 @@
 ,{"label":"Account Lockout Policy","group":"","id":"75809B3D-4AFA-478D-B776-071487E4ACA6","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/67699360"}
 ,{"label":"Account Management","group":"","id":"6F91E244-CF4B-4C2A-9D23-0EA4F55DCF3F","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1146847331"}
 ,{"label":"Account Takeover","group":"Account Takeover","id":"3707A70E-88B7-4B6D-A934-0BC5EE398FF6","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1079050286/Account+Takeover"}
-,{"label":"Authorization","group":"Account Takeover","id":"5F148AC3-F899-4AC2-AEB2-C6CA6005999B","url":""}
-,{"label":"Digital Identity","group":"Account Takeover","id":"2BE2F561-5FF3-4301-82B7-39FF29CD650A","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/419528705/Digital+Identity"}
-,{"label":"Mitigation","group":"Account Takeover","id":"515EECD7-8927-46CD-B811-39535FB71778","url":""}
-,{"label":"Motivation","group":"Account Takeover","id":"DB35E690-DA61-4DD6-8BFE-3D6A2BCFD097","url":""}
-,{"label":"Perpetrator","group":"Account Takeover","id":"5405E693-EB16-42E8-98EA-4E4BF4569BD9","url":""}
-,{"label":"Risk","group":"Account Takeover","id":"3F14E556-DBD3-4DBF-AC75-33A3EE0A9EE2","url":""}
-,{"label":"Victim","group":"Account Takeover","id":"0356B816-5188-4965-B4D7-28144AB3745F","url":""}
 ,{"label":"Accountability","group":"","id":"1E6B6BDD-5D3C-4D14-873F-3018C1627B69","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/425623718"}
 ,{"label":"Accreditation","group":"","id":"496EA7AA-3A24-4B06-96FF-26EB9E368ECD","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/446955580"}
 ,{"label":"Active Impersonation Attack","group":"","id":"4546EECC-4DB1-4E7D-B250-7C4FA9CBFD76","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/974454812"}
@@ -39,267 +32,274 @@
 ,{"label":"Application-Level Policy","group":"","id":"021F487D-5E5C-434B-B771-893DB72C04E0","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1122631854"}
 ,{"label":"Archive","group":"","id":"CDB3F96B-4E2C-4F45-A2C3-EEE0171479BB","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/425197720"}
 ,{"label":"ARM","group":"","id":"30D21895-D4A5-4F2A-A2B4-76E8AD149662","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1703994/ARM"}
-,{"label":"Asset Custody","group":"","id":"2090D58D-5C7A-44E1-B0DD-B4C12F0CBF2B","url":""}
-,{"label":"Attack Class","group":"","id":"F6D05109-A8EB-4630-8070-A3DC00484ED2","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/848724060"}
-,{"label":"Attestation","group":"","id":"C667981B-B081-4789-9993-2BC97D95D5F6","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998178905"}
-,{"label":"Attribute","group":"","id":"AEFD6523-59E0-47E0-921F-B5A26C6FC118","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/60882993"}
-,{"label":"Attribute Provider","group":"","id":"5FDF9F3F-FD1C-4DD0-A1D2-D943DB3091B5","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1311472"}
-,{"label":"Authenticated Users","group":"","id":"F58510E3-3CCC-4A1E-9BEF-76DE48432FE1","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998277774"}
-,{"label":"Authentication","group":"","id":"38617C53-5441-41E7-9C6D-C693D9A050AE","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998245198"}
-,{"label":"Authentication Factor","group":"","id":"A42E7343-FA4C-490A-A0A3-7F65FB188771","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998277876"}
-,{"label":"Authentication Method","group":"","id":"4C6DA97E-8091-41CA-B99C-4250D2678005","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998277805"}
-,{"label":"Authenticator","group":"","id":"EDEC0D80-0928-4226-B6D0-E8C67746479D","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998277852"}
-,{"label":"Authority","group":"","id":"795BF7BB-BED4-45ED-A0FB-5CAE400F9B36","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1071251573"}
-,{"label":"Authorization","group":"","id":"4CCAC3A5-F0D1-4BDF-8B19-D0D38CCBDE4B","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998245151"}
-,{"label":"Authorization Externalization","group":"","id":"3F93E417-521F-4E37-9FEB-2580B5B04AA6","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998277835"}
-,{"label":"Awareness","group":"","id":"405A68C8-B875-4F50-9E41-6D62C952D939","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998245125"}
-,{"label":"AWS Account Root User","group":"","id":"F6EB1544-9C33-48D4-AF92-B45BB09FED03","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1137573936/Authorization+Externalization"}
-,{"label":"AWS ACL","group":"","id":"C62C1C42-39F4-4AA1-9B87-83E2BEE4B626","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/797933843"}
-,{"label":"AWS IAM","group":"","id":"E61AF7B2-B5C6-449C-B896-7F48FC11826B","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1228079157"}
-,{"label":"AWS IAM Group","group":"","id":"8497A2DF-286C-438A-8FCC-A436A1AC5C23","url":""}
-,{"label":"AWS IAM Policy","group":"","id":"3451032E-0047-4623-A0EF-A9EE08C2868A","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1237549087/Bell-LaPadula+Model"}
-,{"label":"AWS IAM Principal","group":"","id":"E78EE0FA-A3E6-4C7E-A1FA-5D32463B089A","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1673527501/Behavioral+Authentication"}
-,{"label":"AWS IAM Role","group":"","id":"201C69AD-FFEB-4BB5-9C8F-8A8A013D0F1C","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/409174210"}
-,{"label":"AWS IAM Temporary Security Credentials","group":"","id":"FD548709-6B42-4503-8C15-643DF8C8EA67","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/409010581"}
-,{"label":"AWS IAM User","group":"","id":"8CFCEA6A-7EB1-4D9F-B537-1678723F481F","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1031209441"}
-,{"label":"Back-end Authentication","group":"","id":"21A4D9DF-238C-4BA7-8825-24EF16F72425","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/794492970"}
-,{"label":"BankID","group":"","id":"BCDD30C8-A3BF-4F54-AD8E-3430A62E3017","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1571389777/Boundary+Control"}
-,{"label":"Basic Z Rule","group":"","id":"2141A15F-A0C4-4D3E-91D1-644A5680A521","url":""}
-,{"label":"Behavioral Authentication","group":"","id":"C5D41CF2-6C5F-4065-8F8F-4D6BEF8D734B","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/81101750"}
-,{"label":"Bell-LaPadula Model","group":"","id":"447FA52C-F0D2-449B-9CB8-8F0DCC4160EF","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1348763687/Brute+Force+Attack"}
-,{"label":"Best Practice","group":"","id":"F8CB91F8-4AE7-48BD-A9ED-93259ECE5511","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140772106"}
-,{"label":"Biometric Authentication","group":"","id":"772179F1-5C79-4F83-BBC9-B0D9B62A2C38","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1228079170/BZR"}
-,{"label":"Biometric Identification","group":"","id":"A2967417-72BE-4537-BE1E-39E6298F5851","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1254588417/Cached+Credential"}
-,{"label":"Biometrics","group":"","id":"1708714B-D591-4C49-BC64-A40E2EC56A62","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/442466346/CDD"}
-,{"label":"Birth Certificate","group":"","id":"5C136530-C216-448D-BD43-D3CDEE503802","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1152483641"}
-,{"label":"Blast Radius","group":"","id":"13D6FA84-5FE3-442D-B9DF-224BD3E365DA","url":""}
-,{"label":"Boundary Control","group":"","id":"47316C02-A4EB-4832-B925-1D094DE618CA","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/823459864"}
-,{"label":"Brainwaves Authentication","group":"","id":"566E708D-FD51-436E-9E4D-051F1F485979","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1290076214/CIBA"}
-,{"label":"Broker","group":"","id":"01D4A4E5-1A5A-44FF-932C-3A234AD19355","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1323499650/Claim"}
-,{"label":"Brute Force Attack","group":"","id":"6408D202-5D49-43C4-8791-73A68286CDC9","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1309605928/Claim+Registry+Model"}
-,{"label":"Built-in","group":"","id":"12F7D586-DF55-411A-A2D1-3FF419D7892E","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/848363630"}
-,{"label":"BZR","group":"","id":"2E29B474-6EA5-4C50-B128-59B4A0262EA2","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140771387"}
-,{"label":"Cached Credential","group":"","id":"74413B1E-5653-42E3-8B45-6C7C60323C71","url":""}
-,{"label":"Capability to store information","group":"","id":"F6A0BA1D-4EAD-44AE-BB90-AAFC98899178","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1152516136"}
-,{"label":"Capability to transform information","group":"","id":"AFFF4DF7-5DE7-4EC2-B059-59963A26A6BD","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1152516118"}
-,{"label":"Capability to transmit information","group":"","id":"4414B2C4-B1F0-4BE8-A1D2-264AE3500755","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1147043959"}
-,{"label":"Capabilty to collect information","group":"","id":"CBC6B9A3-AA38-40D4-865C-53E8DB7037F3","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/206307528"}
-,{"label":"Causing Reputation Harm","group":"","id":"972F900D-A7B8-411F-BF29-19B9F2169285","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/206766142/Cloud+Service+User"}
-,{"label":"CDD","group":"","id":"60D564E5-DB50-4AE3-8752-13879D65CBF3","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998277125"}
-,{"label":"Centralized Identity Management System","group":"","id":"F516AA46-E0EB-45B4-A104-A3976665B25E","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/461307985"}
-,{"label":"Certificate-based Authentication","group":"","id":"3B65B580-6075-433D-8561-B387A409BD56","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/974454827"}
-,{"label":"Certification","group":"","id":"CE9CD80B-6E8D-43D3-A3D3-95067D578415","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1290076229/Client+Initiated+Backchannel+Authentication"}
-,{"label":"CIBA","group":"","id":"5CBC2CC4-509C-48D2-B770-68230D252ACC","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/82838169"}
-,{"label":"Claim","group":"","id":"19FCF28F-8FBB-4982-B245-3560F769CB31","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/138346642"}
-,{"label":"Claim Registry Model","group":"","id":"80DE07EC-7DCC-43D9-BCCD-B4EDBC295A74","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/67633343/Credential"}
-,{"label":"Claimant","group":"","id":"AC35FF28-B8CA-48F9-9504-5FC6F3FE32BF","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1254719498/Credential+Harvesting"}
-,{"label":"Classification","group":"","id":"BDAFF511-D4B1-45B0-8ADC-25E77A34A642","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/82870977"}
-,{"label":"Client Initiated Backchannel Authentication","group":"","id":"3F1E1BBA-CDE0-4D62-AF71-532300B38F13","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1348862053/Credential+Stuffing"}
-,{"label":"Cloud Identity Management System","group":"","id":"3C64CE03-CDC0-4385-9B0D-43B480F4FF2B","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/461340725"}
-,{"label":"Cloud IdMS","group":"","id":"6D6F4591-F482-4404-8ABF-A00BF28FA1F4","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/427130918"}
-,{"label":"Cloud Service Consumers","group":"","id":"01CEAE9D-600C-4A4D-B0EE-E301530C8C55","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1152516162/CSC"}
-,{"label":"Cloud Service Provider","group":"","id":"70AE9E57-05FE-4B1C-8D03-E1194F9EEA8C","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/82903984/CSP"}
-,{"label":"Cloud Service User","group":"","id":"F2DD1D05-0F5E-43BF-A828-718DA9EEB690","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/206667867/CSU"}
-,{"label":"Coherent Whole","group":"","id":"8A66FDF6-25FA-4400-8F76-04907B9F7088","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/414482448"}
-,{"label":"Commission Error","group":"","id":"6CD30943-D4D3-438F-9C01-C248A91BDE9C","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/414548006"}
-,{"label":"Compromised Identity","group":"","id":"D89DE997-64BE-4F19-B014-7995AF4D2FDF","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/138444875"}
-,{"label":"Concurrent Impersonation Attack","group":"","id":"AA62C302-F15B-4768-8C56-E59E07C97B03","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/409010717"}
-,{"label":"Continuous Authentication","group":"","id":"E8038D29-14AE-41B6-AC04-25F2B42A97CD","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/408944928"}
-,{"label":"Control Class","group":"","id":"5CB6C907-0D88-4068-B90F-90D2B4E5C9CF","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/797900801"}
-,{"label":"Control Party","group":"","id":"99F7B2C7-39DB-4A58-9132-0E2236C5812C","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1451982933/Cyber-sabotage"}
-,{"label":"Core Identity","group":"","id":"9F814534-7123-4E77-8D90-93B56FA09724","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1177845938/DAC"}
-,{"label":"Credential","group":"","id":"B5610ED8-EE1E-4F18-9D6C-BFF3E8CFFA86","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1267400850/Data+Anonymization"}
-,{"label":"Credential Harvesting","group":"","id":"E7398742-2D81-43A1-9286-43105111058A","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998244454"}
-,{"label":"Credential Service Provider","group":"","id":"E9E2053A-B9CA-466E-9D58-C408FC470495","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1132331029"}
-,{"label":"Credential Stuffing","group":"","id":"EED3245C-33E6-4527-BF19-4ED36B78325E","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/508330028"}
-,{"label":"Credential Theft","group":"","id":"80E78BDF-4943-440D-90B8-2D317C69DE7A","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1027048097"}
-,{"label":"Cryptographic Key","group":"","id":"ECCF1EB1-F977-411B-A39A-11DDDD6C555A","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998179040"}
-,{"label":"CSC","group":"","id":"744BFD3E-5211-4AC9-B18A-1ABC862485A0","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/408977837"}
-,{"label":"CSP","group":"","id":"1C19CD0D-B98F-4548-BE0E-7301626285E6","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1031242134"}
-,{"label":"CSU","group":"","id":"B7CD7B1D-8440-4BFC-80CC-94B662E0B3E6","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/782893122"}
-,{"label":"Customer Due Diligence","group":"","id":"DD17059A-FF58-425E-AD7B-173E4AD31ED5","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/62193665"}
-,{"label":"Customer Identification","group":"","id":"9EB6B213-B16A-4255-B33F-8F129B358217","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/782925889/DID"}
-,{"label":"Customer Identity","group":"","id":"3B8B4A9C-B755-417B-AB49-014BC1B23ABE","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/458326308"}
-,{"label":"Customer Identity Verification","group":"","id":"7EFBF862-540D-41C7-89ED-6E714AD96CF3","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/419561482/Digital+Identification+System"}
-,{"label":"Customer On-Boarding","group":"","id":"D72C1520-ABB1-40BF-B431-862B2B2025A4","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/419528705/Digital+Identity"}
-,{"label":"Customer Privacy and Consent Management","group":"","id":"03A534B5-791B-444F-8E13-0428ABCAD180","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/877297665"}
-,{"label":"Cyber-sabotage","group":"","id":"5B448AD7-2794-4051-AF23-EA23A4382F91","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/796983391"}
-,{"label":"DAC","group":"","id":"7EE8572E-06B5-4649-9806-824BE1B5D604","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1181876315"}
-,{"label":"Data","group":"","id":"BC9316FB-BCA1-4D66-9CD7-3112BEF13D86","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/810287202"}
-,{"label":"Data Anonymization","group":"","id":"848B10A2-B83E-4B4E-A37E-6B40F0BADB6A","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/419594251"}
-,{"label":"Data Custodian","group":"","id":"79C77EFB-D2E1-4437-AAC5-FE3ACD4613D0","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1270153304/Digital+Identity+Authenticity"}
-,{"label":"Data Lineage","group":"","id":"10537240-044E-49DF-984C-67CB23D33A0D","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/82903896"}
-,{"label":"Data Obfuscation","group":"","id":"90DF205E-DE37-4519-9847-FF954082EEBB","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/206766113"}
-,{"label":"Data Operation","group":"","id":"E1132C17-7D2B-4F86-A9F2-BAAA52027A5B","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/61964467"}
-,{"label":"Data Owner","group":"","id":"9B83B78F-F3DF-4D5A-BCA8-2329A9A280F2","url":""}
-,{"label":"Data-Level Policy","group":"","id":"4B3210C8-39F7-4985-AC37-C8EF09EA3061","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1031209232"}
-,{"label":"Death Certificate","group":"","id":"80F6B463-F9ED-44FB-A88C-1CE92651755E","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/206766092"}
-,{"label":"Decentralized Identifier","group":"","id":"8BEC95C0-8E9D-4DC5-8EF8-6551A505294C","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/62455952"}
-,{"label":"De-duplication","group":"","id":"8D7EB565-4332-4814-B30E-6ED4B2DC527E","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/76021801"}
-,{"label":"Deprovisioning","group":"","id":"9E2C6B4A-CFB9-46E8-876E-DFB73424448C","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1121878049"}
-,{"label":"DID","group":"","id":"BA9DA232-9DC6-4ACE-9735-B054E611BA2A","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1122566173"}
-,{"label":"Digital Continuity","group":"","id":"3DC5ABFD-85BA-4B82-B09D-45770980DE95","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1122566465"}
-,{"label":"Digital Identification System","group":"","id":"A237587B-270A-46F9-8435-C66292433607","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1121910973"}
-,{"label":"Digital Identity","group":"","id":"E1435B14-CC90-490D-B94E-09B54D033ED7","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1122631800"}
-,{"label":"Digital Identity Authenticity","group":"","id":"FA054117-A262-4F6D-93D6-2DE0BF7AA009","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/123830932"}
-,{"label":"Digital Triangulation","group":"","id":"645E681F-6A1D-4BD3-9423-0A9461A10004","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/75956266"}
-,{"label":"Discretionary Access Control","group":"","id":"4D9631E2-5D37-4E84-B756-23F708539197","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1104904275"}
-,{"label":"Distributed Identity","group":"","id":"C97DE42F-B869-4048-81B0-C866B88B527A","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/446824885"}
-,{"label":"Distributed Ledger Technology","group":"","id":"582B8EAF-A56F-4766-9F77-5F58C0B8D0EE","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/461275380"}
-,{"label":"Dual Authorization","group":"","id":"13B1AA7C-B79A-425E-B700-05712F16DD6A","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/82870848"}
-,{"label":"ECS","group":"","id":"C550F7EE-7B41-4DE1-B13F-507E85CA9D43","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1121878505"}
-,{"label":"e-Identity","group":"","id":"8B85D281-00AE-41BB-87F1-57ABD43B93E5","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/806584322"}
-,{"label":"EIdM","group":"","id":"8B556C0C-5217-424F-BC90-23413E7B6587","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1267433567/Fake+Digital+Identity"}
-,{"label":"Email OTP","group":"","id":"EEDDA991-575E-4867-BB6C-1D20D6C45BEB","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1290141697/FAPI"}
-,{"label":"Employee","group":"","id":"457ACBEA-70CB-43A0-AC18-D56FE9FA60A5","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/331579598"}
-,{"label":"Enterprise Cloud Subscriber","group":"","id":"46108898-4BC3-458E-8D58-039A1C42C7CB","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1152483703"}
-,{"label":"Enterprise Identity Management","group":"","id":"28947511-B080-4A93-A7B0-33218B1A2C92","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/75890786"}
-,{"label":"Enterprise Single Sign-On","group":"","id":"3EAA791E-3B70-449F-B568-9F5324F2D2D6","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/763035693"}
-,{"label":"Entitlement","group":"","id":"10741EE3-59A0-4E11-9900-13A8D78F55AF","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/331579618"}
-,{"label":"Entitlement Management","group":"","id":"F601F079-54E4-4305-A4BC-B76D58770A80","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1290207237/Financial-grade+API"}
-,{"label":"Entitlement Management Process","group":"","id":"FDE38578-7AC3-4972-A3E1-6A210CF1A58D","url":""}
-,{"label":"Entitlement Management Solution","group":"","id":"60094F30-C554-43E2-91D3-B87498F81E1B","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1378091043/FinTech"}
-,{"label":"Entitlement-Based Access Control","group":"","id":"AC8DD14B-B291-4F55-9CB1-ED5C8627F5C7","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/438698048"}
-,{"label":"Entity","group":"","id":"04460B33-F5FE-486A-8ACF-F7C6EF519ECA","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1223884872"}
-,{"label":"ESSO","group":"","id":"3BE8F8F2-63B2-44EF-AC53-8A1F4490F783","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1173585921"}
-,{"label":"Excessive Privilege Abuse","group":"","id":"1630C7DD-5632-4037-ABFC-6895CAA636FA","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1226833964"}
-,{"label":"Expanded Password System","group":"","id":"CE0DCBE2-3C5F-4C03-BB7A-B086BEAC3336","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/419561522/Foundational+Identification+System"}
-,{"label":"Exploited Identity","group":"","id":"31C91EDA-0806-410F-81D5-93FBD35200CB","url":""}
-,{"label":"Extended Enterprise","group":"","id":"2F11B389-703D-451F-A299-CB8279214953","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/419528747"}
-,{"label":"Extensible Access Control Markup Language","group":"","id":"C26C332D-5A94-4AC5-8F24-320F52866DDB","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1229619254"}
-,{"label":"External Threat Agent","group":"","id":"8A84FB45-D721-4F51-92D2-6F252494072A","url":""}
+,{"label":"Asset Custody","group":"","id":"2090D58D-5C7A-44E1-B0DD-B4C12F0CBF2B","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1094516867"}
+,{"label":"Attack Class","group":"","id":"F6D05109-A8EB-4630-8070-A3DC00484ED2","url":""}
+,{"label":"Attestation","group":"","id":"C667981B-B081-4789-9993-2BC97D95D5F6","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1323368851/Attestation"}
+,{"label":"Attribute","group":"","id":"AEFD6523-59E0-47E0-921F-B5A26C6FC118","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/409174161"}
+,{"label":"Attribute Provider","group":"","id":"5FDF9F3F-FD1C-4DD0-A1D2-D943DB3091B5","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/81101655"}
+,{"label":"Authentic Identity","group":"","id":"B9BC6707-084C-4264-ABDB-9F04C39AC188","url":""}
+,{"label":"Authenticated Users","group":"","id":"F58510E3-3CCC-4A1E-9BEF-76DE48432FE1","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/966492169"}
+,{"label":"Authentication","group":"","id":"38617C53-5441-41E7-9C6D-C693D9A050AE","url":""}
+,{"label":"Authentication Factor","group":"","id":"A42E7343-FA4C-490A-A0A3-7F65FB188771","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/848724060"}
+,{"label":"Authentication Method","group":"","id":"4C6DA97E-8091-41CA-B99C-4250D2678005","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998178905"}
+,{"label":"Authenticator","group":"","id":"EDEC0D80-0928-4226-B6D0-E8C67746479D","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/60882993"}
+,{"label":"Authority","group":"","id":"795BF7BB-BED4-45ED-A0FB-5CAE400F9B36","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1311472"}
+,{"label":"Authorization","group":"Account Takeover","id":"5F148AC3-F899-4AC2-AEB2-C6CA6005999B","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998277774"}
+,{"label":"Authorization","group":"","id":"4CCAC3A5-F0D1-4BDF-8B19-D0D38CCBDE4B","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998245198"}
+,{"label":"Authorization Externalization","group":"","id":"3F93E417-521F-4E37-9FEB-2580B5B04AA6","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998277876"}
+,{"label":"Awareness","group":"","id":"405A68C8-B875-4F50-9E41-6D62C952D939","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998277805"}
+,{"label":"AWS Account Root User","group":"","id":"F6EB1544-9C33-48D4-AF92-B45BB09FED03","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998277852"}
+,{"label":"AWS ACL","group":"","id":"C62C1C42-39F4-4AA1-9B87-83E2BEE4B626","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1071251573"}
+,{"label":"AWS IAM","group":"","id":"E61AF7B2-B5C6-449C-B896-7F48FC11826B","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998245151"}
+,{"label":"AWS IAM Group","group":"","id":"8497A2DF-286C-438A-8FCC-A436A1AC5C23","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998277835"}
+,{"label":"AWS IAM Policy","group":"","id":"3451032E-0047-4623-A0EF-A9EE08C2868A","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998245125"}
+,{"label":"AWS IAM Principal","group":"","id":"E78EE0FA-A3E6-4C7E-A1FA-5D32463B089A","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1137573936/Authorization+Externalization"}
+,{"label":"AWS IAM Role","group":"","id":"201C69AD-FFEB-4BB5-9C8F-8A8A013D0F1C","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/797933843"}
+,{"label":"AWS IAM Temporary Security Credentials","group":"","id":"FD548709-6B42-4503-8C15-643DF8C8EA67","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1228079157"}
+,{"label":"AWS IAM User","group":"","id":"8CFCEA6A-7EB1-4D9F-B537-1678723F481F","url":""}
+,{"label":"Back-end Authentication","group":"","id":"21A4D9DF-238C-4BA7-8825-24EF16F72425","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1237549087/Bell-LaPadula+Model"}
+,{"label":"BankID","group":"","id":"BCDD30C8-A3BF-4F54-AD8E-3430A62E3017","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1673527501/Behavioral+Authentication"}
+,{"label":"Basic Z Rule","group":"","id":"2141A15F-A0C4-4D3E-91D1-644A5680A521","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/409174210"}
+,{"label":"Behavioral Authentication","group":"","id":"C5D41CF2-6C5F-4065-8F8F-4D6BEF8D734B","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/409010581"}
+,{"label":"Bell-LaPadula Model","group":"","id":"447FA52C-F0D2-449B-9CB8-8F0DCC4160EF","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1031209441"}
+,{"label":"Best Practice","group":"","id":"F8CB91F8-4AE7-48BD-A9ED-93259ECE5511","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/794492970"}
+,{"label":"Biometric Authentication","group":"","id":"772179F1-5C79-4F83-BBC9-B0D9B62A2C38","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1571389777/Boundary+Control"}
+,{"label":"Biometric Identification","group":"","id":"A2967417-72BE-4537-BE1E-39E6298F5851","url":""}
+,{"label":"Biometrics","group":"","id":"1708714B-D591-4C49-BC64-A40E2EC56A62","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/81101750"}
+,{"label":"Birth Certificate","group":"","id":"5C136530-C216-448D-BD43-D3CDEE503802","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1348763687/Brute+Force+Attack"}
+,{"label":"Blast Radius","group":"","id":"13D6FA84-5FE3-442D-B9DF-224BD3E365DA","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140772106"}
+,{"label":"Boundary Control","group":"","id":"47316C02-A4EB-4832-B925-1D094DE618CA","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1228079170/BZR"}
+,{"label":"Brainwaves Authentication","group":"","id":"566E708D-FD51-436E-9E4D-051F1F485979","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1254588417/Cached+Credential"}
+,{"label":"Broker","group":"","id":"01D4A4E5-1A5A-44FF-932C-3A234AD19355","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/442466346/CDD"}
+,{"label":"Brute Force Attack","group":"","id":"6408D202-5D49-43C4-8791-73A68286CDC9","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1152483641"}
+,{"label":"Built-in","group":"","id":"12F7D586-DF55-411A-A2D1-3FF419D7892E","url":""}
+,{"label":"BZR","group":"","id":"2E29B474-6EA5-4C50-B128-59B4A0262EA2","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/823459864"}
+,{"label":"Cached Credential","group":"","id":"74413B1E-5653-42E3-8B45-6C7C60323C71","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1290076214/CIBA"}
+,{"label":"Capability to store information","group":"","id":"F6A0BA1D-4EAD-44AE-BB90-AAFC98899178","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1323499650/Claim"}
+,{"label":"Capability to transform information","group":"","id":"AFFF4DF7-5DE7-4EC2-B059-59963A26A6BD","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1309605928/Claim+Registry+Model"}
+,{"label":"Capability to transmit information","group":"","id":"4414B2C4-B1F0-4BE8-A1D2-264AE3500755","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/848363630"}
+,{"label":"Capabilty to collect information","group":"","id":"CBC6B9A3-AA38-40D4-865C-53E8DB7037F3","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140771387"}
+,{"label":"Causing Reputation Harm","group":"","id":"972F900D-A7B8-411F-BF29-19B9F2169285","url":""}
+,{"label":"CDD","group":"","id":"60D564E5-DB50-4AE3-8752-13879D65CBF3","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1152516136"}
+,{"label":"Centralized Identity Management System","group":"","id":"F516AA46-E0EB-45B4-A104-A3976665B25E","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1152516118"}
+,{"label":"Certificate-based Authentication","group":"","id":"3B65B580-6075-433D-8561-B387A409BD56","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1147043959"}
+,{"label":"Certification","group":"","id":"CE9CD80B-6E8D-43D3-A3D3-95067D578415","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/206307528"}
+,{"label":"CIBA","group":"","id":"5CBC2CC4-509C-48D2-B770-68230D252ACC","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/206766142/Cloud+Service+User"}
+,{"label":"Claim","group":"","id":"19FCF28F-8FBB-4982-B245-3560F769CB31","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998277125"}
+,{"label":"Claim Registry Model","group":"","id":"80DE07EC-7DCC-43D9-BCCD-B4EDBC295A74","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/461307985"}
+,{"label":"Claimant","group":"","id":"AC35FF28-B8CA-48F9-9504-5FC6F3FE32BF","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/974454827"}
+,{"label":"Classification","group":"","id":"BDAFF511-D4B1-45B0-8ADC-25E77A34A642","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1290076229/Client+Initiated+Backchannel+Authentication"}
+,{"label":"Client Initiated Backchannel Authentication","group":"","id":"3F1E1BBA-CDE0-4D62-AF71-532300B38F13","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/82838169"}
+,{"label":"Cloud Identity Management System","group":"","id":"3C64CE03-CDC0-4385-9B0D-43B480F4FF2B","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/138346642"}
+,{"label":"Cloud IdMS","group":"","id":"6D6F4591-F482-4404-8ABF-A00BF28FA1F4","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/67633343/Credential"}
+,{"label":"Cloud Service Consumers","group":"","id":"01CEAE9D-600C-4A4D-B0EE-E301530C8C55","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1254719498/Credential+Harvesting"}
+,{"label":"Cloud Service Provider","group":"","id":"70AE9E57-05FE-4B1C-8D03-E1194F9EEA8C","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/82870977"}
+,{"label":"Cloud Service User","group":"","id":"F2DD1D05-0F5E-43BF-A828-718DA9EEB690","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1348862053/Credential+Stuffing"}
+,{"label":"Coherent Whole","group":"","id":"8A66FDF6-25FA-4400-8F76-04907B9F7088","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/461340725"}
+,{"label":"Commission Error","group":"","id":"6CD30943-D4D3-438F-9C01-C248A91BDE9C","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/427130918"}
+,{"label":"Compromised Identity","group":"","id":"D89DE997-64BE-4F19-B014-7995AF4D2FDF","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1152516162/CSC"}
+,{"label":"Concurrent Impersonation Attack","group":"","id":"AA62C302-F15B-4768-8C56-E59E07C97B03","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/82903984/CSP"}
+,{"label":"Continuous Authentication","group":"","id":"E8038D29-14AE-41B6-AC04-25F2B42A97CD","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/206667867/CSU"}
+,{"label":"Control Class","group":"","id":"5CB6C907-0D88-4068-B90F-90D2B4E5C9CF","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/414482448"}
+,{"label":"Control Party","group":"","id":"99F7B2C7-39DB-4A58-9132-0E2236C5812C","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/414548006"}
+,{"label":"Core Identity","group":"","id":"9F814534-7123-4E77-8D90-93B56FA09724","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/138444875"}
+,{"label":"Credential","group":"","id":"B5610ED8-EE1E-4F18-9D6C-BFF3E8CFFA86","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/409010717"}
+,{"label":"Credential Harvesting","group":"","id":"E7398742-2D81-43A1-9286-43105111058A","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/408944928"}
+,{"label":"Credential Service Provider","group":"","id":"E9E2053A-B9CA-466E-9D58-C408FC470495","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/797900801"}
+,{"label":"Credential Stuffing","group":"","id":"EED3245C-33E6-4527-BF19-4ED36B78325E","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1451982933/Cyber-sabotage"}
+,{"label":"Credential Theft","group":"","id":"80E78BDF-4943-440D-90B8-2D317C69DE7A","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1177845938/DAC"}
+,{"label":"Cryptographic Key","group":"","id":"ECCF1EB1-F977-411B-A39A-11DDDD6C555A","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1267400850/Data+Anonymization"}
+,{"label":"CSC","group":"","id":"744BFD3E-5211-4AC9-B18A-1ABC862485A0","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998244454"}
+,{"label":"CSP","group":"","id":"1C19CD0D-B98F-4548-BE0E-7301626285E6","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1132331029"}
+,{"label":"CSU","group":"","id":"B7CD7B1D-8440-4BFC-80CC-94B662E0B3E6","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/508330028"}
+,{"label":"Customer Due Diligence","group":"","id":"DD17059A-FF58-425E-AD7B-173E4AD31ED5","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1027048097"}
+,{"label":"Customer Identification","group":"","id":"9EB6B213-B16A-4255-B33F-8F129B358217","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998179040"}
+,{"label":"Customer Identity","group":"","id":"3B8B4A9C-B755-417B-AB49-014BC1B23ABE","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/408977837"}
+,{"label":"Customer Identity Verification","group":"","id":"7EFBF862-540D-41C7-89ED-6E714AD96CF3","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1031242134"}
+,{"label":"Customer On-Boarding","group":"","id":"D72C1520-ABB1-40BF-B431-862B2B2025A4","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/782893122"}
+,{"label":"Customer Privacy and Consent Management","group":"","id":"03A534B5-791B-444F-8E13-0428ABCAD180","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/62193665"}
+,{"label":"Cyber-sabotage","group":"","id":"5B448AD7-2794-4051-AF23-EA23A4382F91","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/782925889/DID"}
+,{"label":"DAC","group":"","id":"7EE8572E-06B5-4649-9806-824BE1B5D604","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/458326308"}
+,{"label":"Data","group":"","id":"BC9316FB-BCA1-4D66-9CD7-3112BEF13D86","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/419561482/Digital+Identification+System"}
+,{"label":"Data Anonymization","group":"","id":"848B10A2-B83E-4B4E-A37E-6B40F0BADB6A","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/419528705/Digital+Identity"}
+,{"label":"Data Custodian","group":"","id":"79C77EFB-D2E1-4437-AAC5-FE3ACD4613D0","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/877297665"}
+,{"label":"Data Lineage","group":"","id":"10537240-044E-49DF-984C-67CB23D33A0D","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/796983391"}
+,{"label":"Data Obfuscation","group":"","id":"90DF205E-DE37-4519-9847-FF954082EEBB","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1181876315"}
+,{"label":"Data Operation","group":"","id":"E1132C17-7D2B-4F86-A9F2-BAAA52027A5B","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/810287202"}
+,{"label":"Data Owner","group":"","id":"9B83B78F-F3DF-4D5A-BCA8-2329A9A280F2","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/419594251"}
+,{"label":"Data-Level Policy","group":"","id":"4B3210C8-39F7-4985-AC37-C8EF09EA3061","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1270153304/Digital+Identity+Authenticity"}
+,{"label":"Death Certificate","group":"","id":"80F6B463-F9ED-44FB-A88C-1CE92651755E","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/82903896"}
+,{"label":"Decentralized Identifier","group":"","id":"8BEC95C0-8E9D-4DC5-8EF8-6551A505294C","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/206766113"}
+,{"label":"De-duplication","group":"","id":"8D7EB565-4332-4814-B30E-6ED4B2DC527E","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/61964467"}
+,{"label":"Deprovisioning","group":"","id":"9E2C6B4A-CFB9-46E8-876E-DFB73424448C","url":""}
+,{"label":"DID","group":"","id":"BA9DA232-9DC6-4ACE-9735-B054E611BA2A","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1031209232"}
+,{"label":"Digital Continuity","group":"","id":"3DC5ABFD-85BA-4B82-B09D-45770980DE95","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/206766092"}
+,{"label":"Digital Identification System","group":"","id":"A237587B-270A-46F9-8435-C66292433607","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/62455952"}
+,{"label":"Digital Identity","group":"Account Takeover","id":"2BE2F561-5FF3-4301-82B7-39FF29CD650A","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/76021801"}
+,{"label":"Digital Identity","group":"","id":"E1435B14-CC90-490D-B94E-09B54D033ED7","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1121878049"}
+,{"label":"Digital Identity Authenticity","group":"","id":"FA054117-A262-4F6D-93D6-2DE0BF7AA009","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1122566173"}
+,{"label":"Digital Triangulation","group":"","id":"645E681F-6A1D-4BD3-9423-0A9461A10004","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1122566465"}
+,{"label":"Discretionary Access Control","group":"","id":"4D9631E2-5D37-4E84-B756-23F708539197","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1121910973"}
+,{"label":"Distributed Identity","group":"","id":"C97DE42F-B869-4048-81B0-C866B88B527A","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1122631800"}
+,{"label":"Distributed Ledger Technology","group":"","id":"582B8EAF-A56F-4766-9F77-5F58C0B8D0EE","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/123830932"}
+,{"label":"Dual Authorization","group":"","id":"13B1AA7C-B79A-425E-B700-05712F16DD6A","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/75956266"}
+,{"label":"ECS","group":"","id":"C550F7EE-7B41-4DE1-B13F-507E85CA9D43","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1104904275"}
+,{"label":"e-Identity","group":"","id":"8B85D281-00AE-41BB-87F1-57ABD43B93E5","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/446824885"}
+,{"label":"EIdM","group":"","id":"8B556C0C-5217-424F-BC90-23413E7B6587","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/461275380"}
+,{"label":"Email OTP","group":"","id":"EEDDA991-575E-4867-BB6C-1D20D6C45BEB","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/82870848"}
+,{"label":"Employee","group":"","id":"457ACBEA-70CB-43A0-AC18-D56FE9FA60A5","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1121878505"}
+,{"label":"Enterprise Cloud Subscriber","group":"","id":"46108898-4BC3-458E-8D58-039A1C42C7CB","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/806584322"}
+,{"label":"Enterprise Identity Management","group":"","id":"28947511-B080-4A93-A7B0-33218B1A2C92","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1267433567/Fake+Digital+Identity"}
+,{"label":"Enterprise Single Sign-On","group":"","id":"3EAA791E-3B70-449F-B568-9F5324F2D2D6","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1290141697/FAPI"}
+,{"label":"Entitlement","group":"","id":"10741EE3-59A0-4E11-9900-13A8D78F55AF","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/331579598"}
+,{"label":"Entitlement Management","group":"","id":"F601F079-54E4-4305-A4BC-B76D58770A80","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1152483703"}
+,{"label":"Entitlement Management Process","group":"","id":"FDE38578-7AC3-4972-A3E1-6A210CF1A58D","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/75890786"}
+,{"label":"Entitlement Management Solution","group":"","id":"60094F30-C554-43E2-91D3-B87498F81E1B","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/763035693"}
+,{"label":"Entitlement-Based Access Control","group":"","id":"AC8DD14B-B291-4F55-9CB1-ED5C8627F5C7","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/331579618"}
+,{"label":"Entity","group":"","id":"04460B33-F5FE-486A-8ACF-F7C6EF519ECA","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1290207237/Financial-grade+API"}
+,{"label":"ESSO","group":"","id":"3BE8F8F2-63B2-44EF-AC53-8A1F4490F783","url":""}
+,{"label":"Excessive Privilege Abuse","group":"","id":"1630C7DD-5632-4037-ABFC-6895CAA636FA","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1378091043/FinTech"}
+,{"label":"Expanded Password System","group":"","id":"CE0DCBE2-3C5F-4C03-BB7A-B086BEAC3336","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/438698048"}
+,{"label":"Exploited Identity","group":"","id":"31C91EDA-0806-410F-81D5-93FBD35200CB","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1223884872"}
+,{"label":"Extended Enterprise","group":"","id":"2F11B389-703D-451F-A299-CB8279214953","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1173585921"}
+,{"label":"Extensible Access Control Markup Language","group":"","id":"C26C332D-5A94-4AC5-8F24-320F52866DDB","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1226833964"}
+,{"label":"External Threat Agent","group":"","id":"8A84FB45-D721-4F51-92D2-6F252494072A","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/419561522/Foundational+Identification+System"}
 ,{"label":"Facial Recognition Authentication","group":"","id":"EE59DD52-46E3-4C5E-B862-8914485F238F","url":""}
-,{"label":"Fake Digital Identity","group":"","id":"8C66A928-36FA-48EA-9F3D-2C1EF09EF236","url":""}
-,{"label":"FAPI","group":"","id":"BF511D2A-ABDC-42A8-863D-B6DB7720C2CA","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/966557699"}
+,{"label":"Fake Digital Identity","group":"","id":"8C66A928-36FA-48EA-9F3D-2C1EF09EF236","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/419528747"}
+,{"label":"Fake Identity","group":"","id":"FFAF2EE1-D9DE-4B8B-8A9C-EA4BB61848BD","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1229619254"}
+,{"label":"FAPI","group":"","id":"BF511D2A-ABDC-42A8-863D-B6DB7720C2CA","url":""}
 ,{"label":"Federated Identity Management","group":"","id":"AA96B139-EA71-4982-B3C2-CEF2CD60C0ED","url":""}
 ,{"label":"Federated Identity Management System","group":"","id":"2D187D28-E0FF-4E61-B301-9004010FE0CB","url":""}
-,{"label":"Federated SSO","group":"","id":"67968985-EC72-4204-8663-F69E48506540","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1177846011"}
-,{"label":"Federation Bridge","group":"","id":"943003BA-F5C4-48F2-8E39-5ACB651E5CFB","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998047786"}
-,{"label":"FIM","group":"","id":"BB202734-3B2A-45BC-AA97-3942123B816B","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998277156"}
-,{"label":"Financial Gain","group":"","id":"422E3DA9-1F9C-44DA-8A28-BF3685F5E402","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1572865/IAG"}
-,{"label":"Financial-grade API","group":"","id":"870968E0-B14B-436B-86C6-01DDFB6690F8","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1081356/IAM"}
-,{"label":"Fingerprint Recognition Authentication","group":"","id":"8A54CA58-95DE-462C-85F0-63881C492A91","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1037926677"}
-,{"label":"FinTech","group":"","id":"330623DE-99EE-4CA8-B00D-114EE18DAC41","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/82838735"}
-,{"label":"Flexibility","group":"","id":"DC655505-E767-43B6-B4E2-F76985C1DDF2","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/234487971"}
-,{"label":"Flow Analysis","group":"","id":"13C6C5FD-41EF-4804-BFD7-225AD27E5D38","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1149468857"}
-,{"label":"Forged Identity","group":"","id":"685B2849-5AE1-499B-BC28-C34AC51D7CDC","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/149356545"}
-,{"label":"Formal Verification","group":"","id":"BA6CE51E-FE3C-45DC-BF7B-3D55FD86E2C8","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/419659837"}
-,{"label":"Foundational Identification System","group":"","id":"55389033-E3DF-46EA-A00A-0DF5AD9AEE9C","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/419758113"}
-,{"label":"Front-end Authentication","group":"","id":"25C98848-F1A2-47F9-A610-0905735431C6","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/435322922"}
-,{"label":"Functional Identification System","group":"","id":"3209EB97-002A-444B-8EA8-FC58D3168085","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1311113273/Identifier+Registry+Model"}
-,{"label":"Functional System","group":"","id":"81968038-A760-40E8-88B9-48BDAF03E082","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/67600948"}
-,{"label":"Gait Recognition Authentication","group":"","id":"A4ADA3D7-3568-4A97-A8E3-4E47A1368F3D","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1600618542/Identity+Aggregation"}
-,{"label":"Geo-localization Authentication","group":"","id":"2DD29178-312A-43CE-BDC1-683D6D41409B","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1458176007/Identity+and+Access+Governance"}
-,{"label":"Graphical Password-Based Authentication","group":"","id":"3C40F0A7-7034-4A74-B397-97E035D694CF","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1409143/Identity+and+Access+Management"}
-,{"label":"Guest Account","group":"","id":"5D4E535A-4BDB-43E4-8E4A-67DCD94E5851","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1152516217"}
-,{"label":"Hand Gestures Recognition Authentication","group":"","id":"46401F0E-29CA-47A3-A39A-0230CB771074","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1600749655/Identity+Assurance"}
-,{"label":"Heartbeats Recognition Authentication","group":"","id":"C92DDCBA-ED8B-4196-A9FF-C96029349FAC","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/82903275"}
-,{"label":"High Water Mark Principle","group":"","id":"8F306956-00CB-4F68-965E-0326ED2BC64F","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/236748873"}
-,{"label":"Human Error","group":"","id":"11AAEA4F-4AD7-48B6-8503-D40BA5A579BE","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/123896632/Identity+Establishment"}
-,{"label":"Human Reliability","group":"","id":"7A092CEE-E4F8-4281-BD68-F18A87121871","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/336035929/Identity+Federation"}
-,{"label":"IAG","group":"","id":"38B37D63-FDC7-475E-9988-E94A8F7BEC94","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1323597918/Identity+Guardian"}
-,{"label":"IAM","group":"","id":"36B68626-2296-453F-BCA0-1240466A0E44","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/67600436"}
-,{"label":"IAM ARN","group":"","id":"CD9B9D1C-3229-4EB5-8852-EC243D4710C4","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1122533530"}
-,{"label":"IAM Management","group":"","id":"93FB5035-1C15-41AE-86FB-713DF99159A2","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1146847286"}
-,{"label":"IAP","group":"","id":"5B61B2A5-BF69-465F-B7C6-3B0617A2F86F","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1323434004/Identity+Portability"}
-,{"label":"IDaaS","group":"","id":"CDC7A351-B99F-43C4-BF6C-D38446310EC5","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/858522094"}
-,{"label":"Ideal Type","group":"","id":"04FCC654-7A38-423D-9654-4BB281273FA2","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/810254353"}
-,{"label":"Identification","group":"","id":"DBA49D0C-1156-48CB-9C7A-B4088A1EB0FC","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/82838020"}
-,{"label":"Identification System","group":"","id":"93DC22E7-F62B-4894-9016-734E87D969DC","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1117913089"}
-,{"label":"Identifier","group":"","id":"DA4116EE-07AC-40A4-9E22-4894AFACAF98","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1147043904"}
-,{"label":"Identifier Registry Model","group":"","id":"7182B918-101D-409C-B591-A6DF9854D46B","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/81101362"}
-,{"label":"Identity","group":"","id":"ECE5E949-7963-43BA-85FC-D7B165E74200","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/107708597"}
-,{"label":"Identity Aggregation","group":"","id":"AD502B6D-0586-456A-B841-C584063FFF6F","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/974323719"}
-,{"label":"Identity and Access Governance","group":"","id":"F49E932D-1DC4-443E-879B-95852251E1F4","url":""}
-,{"label":"Identity and Access Management","group":"","id":"C064B8CC-D2B3-4608-8ECA-84C284889DED","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1027342618"}
-,{"label":"Identity Assurance","group":"","id":"2BF9EC24-DB77-42D2-A63C-BB528873268F","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/455508212"}
-,{"label":"Identity Attribute","group":"","id":"3262567A-1B72-4C2F-9802-81AA2F63B13A","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1004896257"}
-,{"label":"Identity Deception","group":"","id":"8AB3C29B-04F9-4068-85E6-82031382CE74","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1177714758"}
-,{"label":"Identity Establishment","group":"","id":"ADC16E09-247E-4E67-B563-C7F962784D09","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998113409"}
-,{"label":"Identity Federation","group":"","id":"1097BABD-237E-4C31-B091-DA27B377143A","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/438698009/Information+Security+Domain"}
-,{"label":"Identity Guardian","group":"","id":"DD91104E-A753-4608-91C4-78A10E41CA1A","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1031241830/Information+System"}
-,{"label":"Identity Lifecycle","group":"","id":"D2F0CD41-D496-44FC-B1FF-DE2DB4F6E1F1","url":""}
-,{"label":"Identity Management","group":"","id":"A236A003-6F40-4107-9F00-034B4CA62DA0","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1477869651/Inside+Attacker"}
-,{"label":"Identity Management System","group":"","id":"9CD1916E-F309-41D5-AC6A-713B70461AAA","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1451884782/Insider"}
-,{"label":"Identity Portability","group":"","id":"1D0B9B27-BA0A-42A0-BA95-DA8B51BE6921","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1478459402/Insider+Attack"}
-,{"label":"Identity Proofing","group":"","id":"23033304-A691-4F86-A7D2-512923E7EBB7","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1451098397/Insider+Threat"}
-,{"label":"Identity Propagation","group":"","id":"8FE8C150-C077-40A5-85ED-7EB71C6537CA","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/822476843"}
-,{"label":"Identity Provider","group":"","id":"1C0D1083-FCAB-41BB-AB87-4829FB11D792","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998277141"}
-,{"label":"Identity Repository","group":"","id":"8F8C4201-E338-4774-98F7-CDDDC3BE6782","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1311417"}
-,{"label":"Identity Theft","group":"","id":"AB661E2B-F23C-4C53-A2BC-043F66BD26F6","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/442466314"}
-,{"label":"Identity-as-a-Service","group":"","id":"D6D32383-9B09-4C55-8468-237F6F03DB11","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/11567191"}
-,{"label":"Identity-Aware Proxy","group":"","id":"430357E7-C88F-4355-9B71-CFE34E711314","url":""}
-,{"label":"IdMS","group":"","id":"B063F9D8-C92C-4198-B23E-78506859E0C1","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1152483625"}
-,{"label":"IdP","group":"","id":"949E1644-7F28-4920-A069-D27F3A050A01","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/720902"}
-,{"label":"Illegal Action","group":"","id":"6989A549-F547-413E-9EFA-E4EFEF40B824","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1569095803/IT+System"}
-,{"label":"IMG","group":"","id":"16880A8C-D41A-4AC3-A936-8E73B369092B","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/858488984"}
-,{"label":"Impersonation","group":"","id":"7650DE30-1250-4B04-841B-B56DFC24A1E3","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/855506953"}
-,{"label":"In-band Authentication","group":"","id":"224CFF6B-5563-4531-A760-B85F8E142F63","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/858456203"}
-,{"label":"Information","group":"","id":"F34EDEC8-93E8-4A6B-969B-4E7B7D1F225E","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/852492379"}
-,{"label":"Information Asset","group":"","id":"F7AADE0A-877C-4258-9BCC-813E822029EA","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/858521641"}
-,{"label":"Information Custodian","group":"","id":"50AF471B-64DE-444F-A7DD-A82966C67457","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/852492338"}
-,{"label":"Information Flow Policy","group":"","id":"3143C5C2-BF70-4330-AE7D-3F39E66C97EB","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140706011"}
-,{"label":"Information Owner","group":"","id":"320E3BFD-9B92-4683-8370-4BFE767BB9B4","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/425623701"}
-,{"label":"Information Security Domain","group":"","id":"C8D1FD6C-534C-477A-BAF8-5F722BD18ECC","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/427163745"}
-,{"label":"Information System","group":"","id":"0AAC5032-53F8-4789-8F0C-D073C4CCC1AF","url":""}
-,{"label":"Inherence Factor","group":"","id":"257D3082-7AF3-4464-9C5B-77B2D083B427","url":""}
-,{"label":"Inside Attacker","group":"","id":"38BE3CB8-3BB4-40EF-807C-5D8D73ED15F7","url":""}
-,{"label":"Insider","group":"","id":"28358D25-ECBB-4BA2-8551-6C861E153F9E","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/442499114"}
-,{"label":"Insider Attack","group":"","id":"932F2E2B-D61A-48B8-83C4-267217ACC1A4","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/442400811"}
-,{"label":"Insider Threat","group":"","id":"61B67231-2D6A-41D5-B8E4-20E97C581446","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1177681925"}
-,{"label":"Insufficient Granularity of Access Control","group":"","id":"A8C57C79-B830-4ECF-A0C9-FB4CAFE2F1E1","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1181843548"}
-,{"label":"Intentional Error","group":"","id":"AA6A4DAC-9681-4AF8-A7FB-D9326801AE4C","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1177780225"}
-,{"label":"Interested Party","group":"","id":"D3D4C603-2CA2-4D42-B2E0-7B3B0C743DD8","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/49250375"}
-,{"label":"Interoperability","group":"","id":"A6834E50-EC5C-4FAC-91B5-7D3C84844ABE","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1006698533"}
-,{"label":"Interval Scale","group":"","id":"398E3452-5369-450C-88AD-DB588A51D0C0","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/442466361"}
-,{"label":"Iris Recognition Authentication","group":"","id":"BDF3CB39-431D-478C-A651-EBA1666F91C1","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1104936974"}
-,{"label":"Isolated Identity Management System","group":"","id":"FCBF11EB-7260-4BE4-85EF-F3883F1FC49B","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/442368033"}
-,{"label":"IT Asset Scope","group":"","id":"96AA1963-0BCF-447E-BC77-9FA9CD06A54A","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/442466381"}
-,{"label":"IT Component","group":"","id":"DB652713-5948-4322-8567-E5F6CB0440E8","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1177845957"}
-,{"label":"IT Hardware","group":"","id":"37CD23D4-9BFD-4A88-8D2B-CA84CE4FB78F","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/442400912"}
-,{"label":"IT Software","group":"","id":"5660B6DD-121E-4173-A110-7A4D00B3AB6A","url":""}
-,{"label":"IT System","group":"","id":"A4106055-17BD-4640-8746-5471A26FF444","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1452048577/Logic+Bomb"}
-,{"label":"JML","group":"","id":"DDCF5707-6980-4EE7-A89F-488C260AC013","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1440153606/Login"}
-,{"label":"Joiner","group":"","id":"33E5066F-5AD2-44CF-BA6A-6DDD49876562","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1428685307/Login+ID"}
-,{"label":"Joiner Hire Date","group":"","id":"9F30EE8C-2188-4E04-88AF-AEB23842FABB","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1428685365/Login+Name"}
-,{"label":"Joiner Lead Time","group":"","id":"5F379BAF-A7E3-454A-9383-430758055F96","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/67699227"}
-,{"label":"Joiner Process","group":"","id":"C4B32381-FE90-443B-8248-77C1FEEE79F9","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/834044288"}
-,{"label":"Joiner Start Date","group":"","id":"52F88A4C-3E93-4AF2-8DBF-CB8B8C2AD615","url":""}
-,{"label":"Key Criteria Type","group":"","id":"406CC236-DFF2-405A-B465-64F605223042","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/75890760"}
-,{"label":"Key Information","group":"","id":"98FC67D9-C9D3-4BC6-B927-8AB8F3894DB7","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1031241799"}
-,{"label":"Keying Material","group":"","id":"E5DF77A4-C200-40CE-9133-29FE8F45F83C","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1600684160/Multiple+Accounts"}
-,{"label":"Keystroke Recognition Authentication","group":"","id":"824C4DE1-CB45-4357-8D71-3D7A9B20A1FE","url":""}
-,{"label":"Knowledge Factor","group":"","id":"8F045301-B949-47A7-B850-24BF7725F524","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1474592794/Need-to-Know"}
-,{"label":"Knuckleprint Recognition Authentication","group":"","id":"935B2B66-22E7-4674-9564-5B7FE10D4526","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/858456124"}
-,{"label":"KYC","group":"","id":"1CE21E67-6A6D-4A6D-8F23-E3B426079C35","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1237483723"}
-,{"label":"KYC Registry","group":"","id":"166B5A26-5DAC-4BF8-AD48-69627F7B841D","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/858554692"}
-,{"label":"Lattice-Based Access Control","group":"","id":"86E48B84-25B8-4795-9A93-5217ED1B20EE","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1323336029/Numerical+Identity"}
-,{"label":"Layers Architectural Pattern","group":"","id":"47F51922-5209-4A6F-A67B-D153C7E5BAD5","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998244664"}
-,{"label":"LBAC","group":"","id":"EFAC5827-378C-4102-AFE2-CE07747FFDDE","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/67568133"}
-,{"label":"Leading Indicator","group":"","id":"A4CDF615-A105-417E-B48D-64356629F331","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998244357"}
-,{"label":"Least Privilege","group":"","id":"4E64ED8C-4B10-47C9-A311-D1727129E3B4","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/446825168"}
-,{"label":"Legal Entity Identifier","group":"","id":"94BD538B-2803-4922-B9FC-708C5A78D007","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1142358051"}
-,{"label":"Legitimate Privilege Abuse","group":"","id":"AD51CEE3-FB4A-407D-BCA6-FCB60D74C6CF","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1142259761"}
-,{"label":"LEI","group":"","id":"8E33930E-44DE-40EC-95F1-CFEFF12B8C1E","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/3211353"}
-,{"label":"Levels of Assurance","group":"","id":"C4757629-C6BF-455D-85BA-12928C66187A","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/148439181"}
-,{"label":"Liberal Discretionary Access Control","group":"","id":"6A3A70EE-334E-421F-B119-F98B151630FB","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/5932838"}
-,{"label":"LOA","group":"","id":"01E66989-6C9A-46DB-B262-E13459790817","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1311403"}
-,{"label":"Location Factor","group":"","id":"1D786316-F897-4DFF-8B41-5E1E1572959A","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/557057"}
-,{"label":"Logic Bomb","group":"","id":"3DC55223-7AFD-4287-8C27-5DBDFDDDED39","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1061650550"}
-,{"label":"Login","group":"","id":"2D3B2D2A-2926-478A-9DCB-A0FD0B959752","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1062207530/Orphan+Account"}
-,{"label":"Login ID","group":"","id":"70225704-C2BB-46FD-8E8E-C885AAE374B7","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1061748965"}
-,{"label":"Login Name","group":"","id":"3B358333-68D9-409A-AD5E-3E16459F4D9A","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1061650653"}
-,{"label":"Make MFA Mandatory","group":"","id":"A1D6E2B6-1A6F-40D5-BEF5-85AFDA4C4E86","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1061748925"}
-,{"label":"Mechanism","group":"","id":"02D5061A-3036-4CEC-B1B6-546A93BD011D","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1061749016"}
-,{"label":"Metadirectory","group":"","id":"4336BC2B-6BE9-4CCB-8214-8C41DA73E58F","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1063845889"}
-,{"label":"Multidomain Single Sign-On","group":"","id":"847852F8-F191-4109-94AD-7E3D596BB4FB","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1061650689"}
-,{"label":"Multilevel Security","group":"","id":"4E3A619E-0A05-401C-B96B-2D454AA9CF59","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1061748885"}
-,{"label":"Multi-Modal Biometric Authentication","group":"","id":"BFC2B385-EAA5-409A-8F21-E3B07033449A","url":""}
-,{"label":"Multiple Accounts","group":"","id":"41D94E9C-7647-429F-B245-C99C40319265","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1472692289/Outsider"}
-,{"label":"Mutual Authentication","group":"","id":"358EBE6C-C333-442F-A1BB-F0003161CA3A","url":""}
-,{"label":"Need-to-Know","group":"","id":"4A8EA0A2-70F9-438B-A69A-82B8D0AB35C9","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/974323764"}
-,{"label":"New Joiner","group":"","id":"F87F41D3-60DC-4E25-A0BC-1BD70749FD0C","url":""}
+,{"label":"Federated SSO","group":"","id":"67968985-EC72-4204-8663-F69E48506540","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/966557699"}
+,{"label":"Federation Bridge","group":"","id":"943003BA-F5C4-48F2-8E39-5ACB651E5CFB","url":""}
+,{"label":"FIM","group":"","id":"BB202734-3B2A-45BC-AA97-3942123B816B","url":""}
+,{"label":"Financial Gain","group":"","id":"422E3DA9-1F9C-44DA-8A28-BF3685F5E402","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1177846011"}
+,{"label":"Financial-grade API","group":"","id":"870968E0-B14B-436B-86C6-01DDFB6690F8","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998047786"}
+,{"label":"Fingerprint Recognition Authentication","group":"","id":"8A54CA58-95DE-462C-85F0-63881C492A91","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998277156"}
+,{"label":"FinTech","group":"","id":"330623DE-99EE-4CA8-B00D-114EE18DAC41","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1572865/IAG"}
+,{"label":"Flexibility","group":"","id":"DC655505-E767-43B6-B4E2-F76985C1DDF2","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1081356/IAM"}
+,{"label":"Flow Analysis","group":"","id":"13C6C5FD-41EF-4804-BFD7-225AD27E5D38","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1037926677"}
+,{"label":"Forged Identity","group":"","id":"685B2849-5AE1-499B-BC28-C34AC51D7CDC","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/82838735"}
+,{"label":"Formal Verification","group":"","id":"BA6CE51E-FE3C-45DC-BF7B-3D55FD86E2C8","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/234487971"}
+,{"label":"Foundational Identification System","group":"","id":"55389033-E3DF-46EA-A00A-0DF5AD9AEE9C","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1149468857"}
+,{"label":"Front-end Authentication","group":"","id":"25C98848-F1A2-47F9-A610-0905735431C6","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/149356545"}
+,{"label":"Functional Identification System","group":"","id":"3209EB97-002A-444B-8EA8-FC58D3168085","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/419659837"}
+,{"label":"Functional System","group":"","id":"81968038-A760-40E8-88B9-48BDAF03E082","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/419758113"}
+,{"label":"Gait Recognition Authentication","group":"","id":"A4ADA3D7-3568-4A97-A8E3-4E47A1368F3D","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/435322922"}
+,{"label":"Geo-localization Authentication","group":"","id":"2DD29178-312A-43CE-BDC1-683D6D41409B","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1311113273/Identifier+Registry+Model"}
+,{"label":"Graphical Password-Based Authentication","group":"","id":"3C40F0A7-7034-4A74-B397-97E035D694CF","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/67600948"}
+,{"label":"Guest Account","group":"","id":"5D4E535A-4BDB-43E4-8E4A-67DCD94E5851","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1600618542/Identity+Aggregation"}
+,{"label":"Hand Gestures Recognition Authentication","group":"","id":"46401F0E-29CA-47A3-A39A-0230CB771074","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1458176007/Identity+and+Access+Governance"}
+,{"label":"Heartbeats Recognition Authentication","group":"","id":"C92DDCBA-ED8B-4196-A9FF-C96029349FAC","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1409143/Identity+and+Access+Management"}
+,{"label":"High Water Mark Principle","group":"","id":"8F306956-00CB-4F68-965E-0326ED2BC64F","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1152516217"}
+,{"label":"Human Error","group":"","id":"11AAEA4F-4AD7-48B6-8503-D40BA5A579BE","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1600749655/Identity+Assurance"}
+,{"label":"Human Reliability","group":"","id":"7A092CEE-E4F8-4281-BD68-F18A87121871","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/82903275"}
+,{"label":"IAG","group":"","id":"38B37D63-FDC7-475E-9988-E94A8F7BEC94","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/236748873"}
+,{"label":"IAM","group":"","id":"36B68626-2296-453F-BCA0-1240466A0E44","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/123896632/Identity+Establishment"}
+,{"label":"IAM ARN","group":"","id":"CD9B9D1C-3229-4EB5-8852-EC243D4710C4","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/336035929/Identity+Federation"}
+,{"label":"IAM Management","group":"","id":"93FB5035-1C15-41AE-86FB-713DF99159A2","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1323597918/Identity+Guardian"}
+,{"label":"IAP","group":"","id":"5B61B2A5-BF69-465F-B7C6-3B0617A2F86F","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/67600436"}
+,{"label":"IDaaS","group":"","id":"CDC7A351-B99F-43C4-BF6C-D38446310EC5","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1122533530"}
+,{"label":"Ideal Type","group":"","id":"04FCC654-7A38-423D-9654-4BB281273FA2","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1146847286"}
+,{"label":"Identification","group":"","id":"DBA49D0C-1156-48CB-9C7A-B4088A1EB0FC","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1323434004/Identity+Portability"}
+,{"label":"Identification System","group":"","id":"93DC22E7-F62B-4894-9016-734E87D969DC","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/858522094"}
+,{"label":"Identifier","group":"","id":"DA4116EE-07AC-40A4-9E22-4894AFACAF98","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/810254353"}
+,{"label":"Identifier Registry Model","group":"","id":"7182B918-101D-409C-B591-A6DF9854D46B","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/82838020"}
+,{"label":"Identity","group":"","id":"ECE5E949-7963-43BA-85FC-D7B165E74200","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1117913089"}
+,{"label":"Identity Aggregation","group":"","id":"AD502B6D-0586-456A-B841-C584063FFF6F","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1147043904"}
+,{"label":"Identity and Access Governance","group":"","id":"F49E932D-1DC4-443E-879B-95852251E1F4","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/81101362"}
+,{"label":"Identity and Access Management","group":"","id":"C064B8CC-D2B3-4608-8ECA-84C284889DED","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/107708597"}
+,{"label":"Identity Assurance","group":"","id":"2BF9EC24-DB77-42D2-A63C-BB528873268F","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/974323719"}
+,{"label":"Identity Attribute","group":"","id":"3262567A-1B72-4C2F-9802-81AA2F63B13A","url":""}
+,{"label":"Identity Deception","group":"","id":"8AB3C29B-04F9-4068-85E6-82031382CE74","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1027342618"}
+,{"label":"Identity Establishment","group":"","id":"ADC16E09-247E-4E67-B563-C7F962784D09","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/455508212"}
+,{"label":"Identity Federation","group":"","id":"1097BABD-237E-4C31-B091-DA27B377143A","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1004896257"}
+,{"label":"Identity Guardian","group":"","id":"DD91104E-A753-4608-91C4-78A10E41CA1A","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1177714758"}
+,{"label":"Identity Lifecycle","group":"","id":"D2F0CD41-D496-44FC-B1FF-DE2DB4F6E1F1","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998113409"}
+,{"label":"Identity Management","group":"","id":"A236A003-6F40-4107-9F00-034B4CA62DA0","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/438698009/Information+Security+Domain"}
+,{"label":"Identity Management System","group":"","id":"9CD1916E-F309-41D5-AC6A-713B70461AAA","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1031241830/Information+System"}
+,{"label":"Identity Portability","group":"","id":"1D0B9B27-BA0A-42A0-BA95-DA8B51BE6921","url":""}
+,{"label":"Identity Proofing","group":"","id":"23033304-A691-4F86-A7D2-512923E7EBB7","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1477869651/Inside+Attacker"}
+,{"label":"Identity Propagation","group":"","id":"8FE8C150-C077-40A5-85ED-7EB71C6537CA","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1451884782/Insider"}
+,{"label":"Identity Provider","group":"","id":"1C0D1083-FCAB-41BB-AB87-4829FB11D792","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1478459402/Insider+Attack"}
+,{"label":"Identity Repository","group":"","id":"8F8C4201-E338-4774-98F7-CDDDC3BE6782","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1451098397/Insider+Threat"}
+,{"label":"Identity Theft","group":"","id":"AB661E2B-F23C-4C53-A2BC-043F66BD26F6","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/822476843"}
+,{"label":"Identity-as-a-Service","group":"","id":"D6D32383-9B09-4C55-8468-237F6F03DB11","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998277141"}
+,{"label":"Identity-Aware Proxy","group":"","id":"430357E7-C88F-4355-9B71-CFE34E711314","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1311417"}
+,{"label":"IdMS","group":"","id":"B063F9D8-C92C-4198-B23E-78506859E0C1","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/442466314"}
+,{"label":"IdP","group":"","id":"949E1644-7F28-4920-A069-D27F3A050A01","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/11567191"}
+,{"label":"Illegal Action","group":"","id":"6989A549-F547-413E-9EFA-E4EFEF40B824","url":""}
+,{"label":"IMG","group":"","id":"16880A8C-D41A-4AC3-A936-8E73B369092B","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1152483625"}
+,{"label":"Impersonation","group":"","id":"7650DE30-1250-4B04-841B-B56DFC24A1E3","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/720902"}
+,{"label":"In-band Authentication","group":"","id":"224CFF6B-5563-4531-A760-B85F8E142F63","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1569095803/IT+System"}
+,{"label":"Information","group":"","id":"F34EDEC8-93E8-4A6B-969B-4E7B7D1F225E","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/858488984"}
+,{"label":"Information Asset","group":"","id":"F7AADE0A-877C-4258-9BCC-813E822029EA","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/855506953"}
+,{"label":"Information Custodian","group":"","id":"50AF471B-64DE-444F-A7DD-A82966C67457","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/858456203"}
+,{"label":"Information Flow Policy","group":"","id":"3143C5C2-BF70-4330-AE7D-3F39E66C97EB","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/852492379"}
+,{"label":"Information Owner","group":"","id":"320E3BFD-9B92-4683-8370-4BFE767BB9B4","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/858521641"}
+,{"label":"Information Security Domain","group":"","id":"C8D1FD6C-534C-477A-BAF8-5F722BD18ECC","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/852492338"}
+,{"label":"Information System","group":"","id":"0AAC5032-53F8-4789-8F0C-D073C4CCC1AF","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140706011"}
+,{"label":"Inherence Factor","group":"","id":"257D3082-7AF3-4464-9C5B-77B2D083B427","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/425623701"}
+,{"label":"Inside Attacker","group":"","id":"38BE3CB8-3BB4-40EF-807C-5D8D73ED15F7","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/427163745"}
+,{"label":"Insider","group":"","id":"28358D25-ECBB-4BA2-8551-6C861E153F9E","url":""}
+,{"label":"Insider Attack","group":"","id":"932F2E2B-D61A-48B8-83C4-267217ACC1A4","url":""}
+,{"label":"Insider Threat","group":"","id":"61B67231-2D6A-41D5-B8E4-20E97C581446","url":""}
+,{"label":"Insufficient Granularity of Access Control","group":"","id":"A8C57C79-B830-4ECF-A0C9-FB4CAFE2F1E1","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/442499114"}
+,{"label":"Intentional Error","group":"","id":"AA6A4DAC-9681-4AF8-A7FB-D9326801AE4C","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/442400811"}
+,{"label":"Interested Party","group":"","id":"D3D4C603-2CA2-4D42-B2E0-7B3B0C743DD8","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1177681925"}
+,{"label":"Interoperability","group":"","id":"A6834E50-EC5C-4FAC-91B5-7D3C84844ABE","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1181843548"}
+,{"label":"Interval Scale","group":"","id":"398E3452-5369-450C-88AD-DB588A51D0C0","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1177780225"}
+,{"label":"Iris Recognition Authentication","group":"","id":"BDF3CB39-431D-478C-A651-EBA1666F91C1","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/49250375"}
+,{"label":"Isolated Identity Management System","group":"","id":"FCBF11EB-7260-4BE4-85EF-F3883F1FC49B","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1006698533"}
+,{"label":"IT Asset Scope","group":"","id":"96AA1963-0BCF-447E-BC77-9FA9CD06A54A","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/442466361"}
+,{"label":"IT Component","group":"","id":"DB652713-5948-4322-8567-E5F6CB0440E8","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1104936974"}
+,{"label":"IT Hardware","group":"","id":"37CD23D4-9BFD-4A88-8D2B-CA84CE4FB78F","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/442368033"}
+,{"label":"IT Software","group":"","id":"5660B6DD-121E-4173-A110-7A4D00B3AB6A","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/442466381"}
+,{"label":"IT System","group":"","id":"A4106055-17BD-4640-8746-5471A26FF444","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1177845957"}
+,{"label":"JML","group":"","id":"DDCF5707-6980-4EE7-A89F-488C260AC013","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/442400912"}
+,{"label":"Joiner","group":"","id":"33E5066F-5AD2-44CF-BA6A-6DDD49876562","url":""}
+,{"label":"Joiner Hire Date","group":"","id":"9F30EE8C-2188-4E04-88AF-AEB23842FABB","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1452048577/Logic+Bomb"}
+,{"label":"Joiner Lead Time","group":"","id":"5F379BAF-A7E3-454A-9383-430758055F96","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1440153606/Login"}
+,{"label":"Joiner Process","group":"","id":"C4B32381-FE90-443B-8248-77C1FEEE79F9","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1428685307/Login+ID"}
+,{"label":"Joiner Start Date","group":"","id":"52F88A4C-3E93-4AF2-8DBF-CB8B8C2AD615","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1428685365/Login+Name"}
+,{"label":"Key Criteria Type","group":"","id":"406CC236-DFF2-405A-B465-64F605223042","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/67699227"}
+,{"label":"Key Information","group":"","id":"98FC67D9-C9D3-4BC6-B927-8AB8F3894DB7","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/834044288"}
+,{"label":"Keying Material","group":"","id":"E5DF77A4-C200-40CE-9133-29FE8F45F83C","url":""}
+,{"label":"Keystroke Recognition Authentication","group":"","id":"824C4DE1-CB45-4357-8D71-3D7A9B20A1FE","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/75890760"}
+,{"label":"Knowledge Factor","group":"","id":"8F045301-B949-47A7-B850-24BF7725F524","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1031241799"}
+,{"label":"Knuckleprint Recognition Authentication","group":"","id":"935B2B66-22E7-4674-9564-5B7FE10D4526","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1600684160/Multiple+Accounts"}
+,{"label":"KYC","group":"","id":"1CE21E67-6A6D-4A6D-8F23-E3B426079C35","url":""}
+,{"label":"KYC Registry","group":"","id":"166B5A26-5DAC-4BF8-AD48-69627F7B841D","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1474592794/Need-to-Know"}
+,{"label":"Lattice-Based Access Control","group":"","id":"86E48B84-25B8-4795-9A93-5217ED1B20EE","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/858456124"}
+,{"label":"Layers Architectural Pattern","group":"","id":"47F51922-5209-4A6F-A67B-D153C7E5BAD5","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1237483723"}
+,{"label":"LBAC","group":"","id":"EFAC5827-378C-4102-AFE2-CE07747FFDDE","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/858554692"}
+,{"label":"Leading Indicator","group":"","id":"A4CDF615-A105-417E-B48D-64356629F331","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1323336029/Numerical+Identity"}
+,{"label":"Least Privilege","group":"","id":"4E64ED8C-4B10-47C9-A311-D1727129E3B4","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998244664"}
+,{"label":"Legal Entity Identifier","group":"","id":"94BD538B-2803-4922-B9FC-708C5A78D007","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/67568133"}
+,{"label":"Legitimate Privilege Abuse","group":"","id":"AD51CEE3-FB4A-407D-BCA6-FCB60D74C6CF","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998244357"}
+,{"label":"LEI","group":"","id":"8E33930E-44DE-40EC-95F1-CFEFF12B8C1E","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/446825168"}
+,{"label":"Levels of Assurance","group":"","id":"C4757629-C6BF-455D-85BA-12928C66187A","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1142358051"}
+,{"label":"Liberal Discretionary Access Control","group":"","id":"6A3A70EE-334E-421F-B119-F98B151630FB","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1142259761"}
+,{"label":"LOA","group":"","id":"01E66989-6C9A-46DB-B262-E13459790817","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/3211353"}
+,{"label":"Location Factor","group":"","id":"1D786316-F897-4DFF-8B41-5E1E1572959A","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/148439181"}
+,{"label":"Logic Bomb","group":"","id":"3DC55223-7AFD-4287-8C27-5DBDFDDDED39","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/5932838"}
+,{"label":"Login","group":"","id":"2D3B2D2A-2926-478A-9DCB-A0FD0B959752","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1311403"}
+,{"label":"Login ID","group":"","id":"70225704-C2BB-46FD-8E8E-C885AAE374B7","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/557057"}
+,{"label":"Login Name","group":"","id":"3B358333-68D9-409A-AD5E-3E16459F4D9A","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1061650550"}
+,{"label":"Make MFA Mandatory","group":"","id":"A1D6E2B6-1A6F-40D5-BEF5-85AFDA4C4E86","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1062207530/Orphan+Account"}
+,{"label":"Mechanism","group":"","id":"02D5061A-3036-4CEC-B1B6-546A93BD011D","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1061748965"}
+,{"label":"Metadirectory","group":"","id":"4336BC2B-6BE9-4CCB-8214-8C41DA73E58F","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1061650653"}
+,{"label":"Mitigation","group":"Account Takeover","id":"515EECD7-8927-46CD-B811-39535FB71778","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1061748925"}
+,{"label":"Motivation","group":"Account Takeover","id":"DB35E690-DA61-4DD6-8BFE-3D6A2BCFD097","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1061749016"}
+,{"label":"Multidomain Single Sign-On","group":"","id":"847852F8-F191-4109-94AD-7E3D596BB4FB","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1063845889"}
+,{"label":"Multilevel Security","group":"","id":"4E3A619E-0A05-401C-B96B-2D454AA9CF59","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1061650689"}
+,{"label":"Multi-Modal Biometric Authentication","group":"","id":"BFC2B385-EAA5-409A-8F21-E3B07033449A","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1061748885"}
+,{"label":"Multiple Accounts","group":"","id":"41D94E9C-7647-429F-B245-C99C40319265","url":""}
+,{"label":"Mutual Authentication","group":"","id":"358EBE6C-C333-442F-A1BB-F0003161CA3A","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1472692289/Outsider"}
+,{"label":"Need-to-Know","group":"","id":"4A8EA0A2-70F9-438B-A69A-82B8D0AB35C9","url":""}
+,{"label":"New Joiner","group":"","id":"F87F41D3-60DC-4E25-A0BC-1BD70749FD0C","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/974323764"}
 ,{"label":"No Tranquility Property","group":"","id":"F2A88B98-C993-4961-8AC6-ADDD67C1A890","url":""}
+,{"label":"Non-compromised Identity","group":"","id":"8933951D-59FE-48AC-8006-052B2292DA85","url":""}
 ,{"label":"Nonworker","group":"","id":"6F790090-3F49-4955-A3DE-5B137E7D0EB9","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1428652394/Password+Guessing+Attack"}
 ,{"label":"Numerical Identity","group":"","id":"1B1C3D4E-6852-434D-A4FE-33E5D423954F","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1027048058"}
 ,{"label":"OAuth","group":"","id":"5268CAAB-394F-4700-A5A8-A136BDF0E7C6","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1348730921/Password+Spraying+Attack"}
@@ -334,145 +334,150 @@
 ,{"label":"Passwordless Authentication","group":"","id":"6ECC2714-A684-4EB0-93B2-4E775A819929","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/11567198"}
 ,{"label":"People","group":"","id":"C446B750-1D60-4D40-8394-9E434437F653","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/408944908"}
 ,{"label":"Permission","group":"","id":"87FD8999-3B1A-4961-9E69-7A1CF4F30D47","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1677164768/QR+Code+Authentication"}
-,{"label":"Persona","group":"","id":"99021A76-61CA-44AE-BE37-E6296084E479","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/107840129"}
-,{"label":"Personal Identification Number Authentication","group":"","id":"886A0D30-70BF-42CF-9450-BEAE5ED1F53D","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/123962234"}
-,{"label":"Physical Token OTP","group":"","id":"7885B708-90A5-42B1-A82F-C33A40875DB1","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/873201665"}
-,{"label":"PMS","group":"","id":"CDD4B8ED-FC21-4CBE-84D1-1D00BC936D99","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/858521682"}
-,{"label":"Policy","group":"","id":"337ACFF8-BD95-4DDE-8603-B421B82F4F7B","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/67699423"}
-,{"label":"Policy Analysis","group":"","id":"EE1D7A13-FB03-479F-AAD4-471F1F3574F0","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/427130881"}
-,{"label":"Policy Centralization","group":"","id":"92C3BEA6-5B48-473C-AA56-0FDB337AF4FC","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/2589003"}
-,{"label":"Policy Interoperability","group":"","id":"790EFA1C-87AA-457B-8F45-36CD85344B1E","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/11141464"}
-,{"label":"Policy Manageability","group":"","id":"4D1F76E9-CDB9-40F6-ACB5-A913F09D855F","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/2588994"}
-,{"label":"Policy Mining","group":"","id":"BD42690B-5A27-4360-BB85-BBA341F80F90","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/67698769"}
-,{"label":"Policy Modeling","group":"","id":"26E164FB-0387-4F37-B760-4F0273BCC3AE","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/425623561"}
-,{"label":"Possession Factor","group":"","id":"4DAEE886-62B6-4A11-91E2-6CCC52E8C726","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/82870985"}
-,{"label":"Pre-approval","group":"","id":"C6F673E3-9A9B-468C-8A0A-59AA0393DFDC","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/86442069"}
-,{"label":"Principal","group":"","id":"2D48A747-188A-4B7C-879B-A60AF15CACA5","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1122566198"}
-,{"label":"Private Key Loss","group":"","id":"E9A7D411-061E-405C-9B92-1C34659C174D","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/814514401"}
-,{"label":"Privilege","group":"","id":"F37272F3-1097-44F4-84DC-2E9728009380","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1164902443"}
-,{"label":"Privilege Abuse","group":"","id":"6E3A9921-A43E-4432-A7DD-AFCB062D3882","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1164869655"}
-,{"label":"Privilege Chaining","group":"","id":"D4580406-13FA-46D3-A4B1-88E271E00836","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1164902498"}
-,{"label":"Privilege Escalation","group":"","id":"D9117FCF-D4B2-4319-B3F1-8B6281A9A4EB","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1152483772"}
-,{"label":"Privileged Identity","group":"","id":"55D24624-81CD-4311-872C-ACE6508C4954","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1130921985"}
-,{"label":"Privileged Insider","group":"","id":"DD56D5A2-3737-41A8-BFC6-C724FAC82A27","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/82903488"}
-,{"label":"Provisioning","group":"","id":"898672E0-DC3F-4C74-A8FD-75D84D37F4C6","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140739068/SAM+Database"}
-,{"label":"QR Code Authentication","group":"","id":"4002F83D-1FA4-4A51-9069-862DA33587FC","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1428586729/SAML"}
-,{"label":"Qualitative Identity","group":"","id":"0CCE7D8E-36A2-4D6D-A989-9E5AF5BADD5F","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/206307343"}
-,{"label":"RA","group":"","id":"F5C6FED5-BE9F-47F6-AC34-4DB56021BBBB","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/206372879"}
-,{"label":"Ratio Scale","group":"","id":"E75230A4-B6CE-49FE-B659-5503945A8D53","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/206307350"}
-,{"label":"RBA","group":"","id":"EA8C2A7C-C847-423D-8650-3FDC4EB22C64","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/206307373"}
-,{"label":"Re-authentication","group":"","id":"7527938D-FC2F-45AD-8F13-11F85060A353","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1376383"}
-,{"label":"Recertification","group":"","id":"F67B01C6-0B9E-4928-9911-4A352B25765A","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/5931115"}
-,{"label":"Reference Monitor","group":"","id":"0EB5069D-E5A5-402C-8C00-DAF559131A2B","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/234356901"}
-,{"label":"Registration Authority","group":"","id":"58700DBB-B8EB-4C2F-AA3A-AC085083A3C5","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1142390785"}
-,{"label":"Rejoiner","group":"","id":"98129EFA-C4C8-41C3-8313-39ACE625CA78","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1230831633"}
-,{"label":"Relying Party","group":"","id":"A3547087-B09A-4E9D-A244-127D48E979E2","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1231159321"}
-,{"label":"Remote Identity Proofing","group":"","id":"E8D0CCFA-DFD5-4797-BEF0-F02047B26EC1","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140673497"}
-,{"label":"Repeatability","group":"","id":"A853D6FF-E595-40FC-AE44-73E1EAE8E588","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1428619445/Security+Assertion+Markup+Language"}
-,{"label":"Representation Target","group":"","id":"F6760AC7-5706-4E92-96BC-0BD04BAADA92","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1177747653"}
-,{"label":"Reproducibility","group":"","id":"8A8B1DA2-731C-4D3E-81A5-75304481E79E","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1181843719"}
-,{"label":"Revocation","group":"","id":"005E7CA1-C7A4-4E9B-905F-F4E507649B81","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1177747630"}
-,{"label":"RIDP","group":"","id":"BF54C035-AEA4-4B89-8D09-2697ACBCA058","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/795836567"}
-,{"label":"Risk-Based Authentication","group":"","id":"75112034-1A11-4B4D-9E73-87435E2DD783","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1071185955"}
-,{"label":"Role","group":"","id":"E2F064FB-1C4A-4BAB-B863-626CFBBCDC18","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/446955653/Self-Sovereign+Identity"}
-,{"label":"Role Bloating","group":"","id":"265234BD-E2FE-43F4-8AD4-0BD0F6C80093","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/6029526"}
-,{"label":"Role Capacity","group":"","id":"77A5549B-ADB4-4985-AA98-588593A5BAAC","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/805142555"}
-,{"label":"Role Cardinality","group":"","id":"7C3A0667-DF23-4810-9BEE-59D939EF88A0","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1313538143/Service-Centric+Identity+Management+System"}
-,{"label":"Role Cardinality Activation Control","group":"","id":"DCADE1C3-9D23-48D0-99A5-D07D7EE414A0","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/881197061"}
+,{"label":"Perpetrator","group":"Account Takeover","id":"5405E693-EB16-42E8-98EA-4E4BF4569BD9","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/107840129"}
+,{"label":"Persona","group":"","id":"99021A76-61CA-44AE-BE37-E6296084E479","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/123962234"}
+,{"label":"Personal Identification Number Authentication","group":"","id":"886A0D30-70BF-42CF-9450-BEAE5ED1F53D","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/873201665"}
+,{"label":"Physical Token OTP","group":"","id":"7885B708-90A5-42B1-A82F-C33A40875DB1","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/858521682"}
+,{"label":"PMS","group":"","id":"CDD4B8ED-FC21-4CBE-84D1-1D00BC936D99","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/67699423"}
+,{"label":"Policy","group":"","id":"337ACFF8-BD95-4DDE-8603-B421B82F4F7B","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/427130881"}
+,{"label":"Policy Analysis","group":"","id":"EE1D7A13-FB03-479F-AAD4-471F1F3574F0","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/2589003"}
+,{"label":"Policy Centralization","group":"","id":"92C3BEA6-5B48-473C-AA56-0FDB337AF4FC","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/11141464"}
+,{"label":"Policy Interoperability","group":"","id":"790EFA1C-87AA-457B-8F45-36CD85344B1E","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/2588994"}
+,{"label":"Policy Manageability","group":"","id":"4D1F76E9-CDB9-40F6-ACB5-A913F09D855F","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/67698769"}
+,{"label":"Policy Mining","group":"","id":"BD42690B-5A27-4360-BB85-BBA341F80F90","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/425623561"}
+,{"label":"Policy Modeling","group":"","id":"26E164FB-0387-4F37-B760-4F0273BCC3AE","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/82870985"}
+,{"label":"Possession Factor","group":"","id":"4DAEE886-62B6-4A11-91E2-6CCC52E8C726","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/86442069"}
+,{"label":"Pre-approval","group":"","id":"C6F673E3-9A9B-468C-8A0A-59AA0393DFDC","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1122566198"}
+,{"label":"Principal","group":"","id":"2D48A747-188A-4B7C-879B-A60AF15CACA5","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/814514401"}
+,{"label":"Private Key Loss","group":"","id":"E9A7D411-061E-405C-9B92-1C34659C174D","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1164902443"}
+,{"label":"Privilege","group":"","id":"F37272F3-1097-44F4-84DC-2E9728009380","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1164869655"}
+,{"label":"Privilege Abuse","group":"","id":"6E3A9921-A43E-4432-A7DD-AFCB062D3882","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1164902498"}
+,{"label":"Privilege Chaining","group":"","id":"D4580406-13FA-46D3-A4B1-88E271E00836","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1152483772"}
+,{"label":"Privilege Escalation","group":"","id":"D9117FCF-D4B2-4319-B3F1-8B6281A9A4EB","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1130921985"}
+,{"label":"Privileged Identity","group":"","id":"55D24624-81CD-4311-872C-ACE6508C4954","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/82903488"}
+,{"label":"Privileged Insider","group":"","id":"DD56D5A2-3737-41A8-BFC6-C724FAC82A27","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140739068/SAM+Database"}
+,{"label":"Provisioning","group":"","id":"898672E0-DC3F-4C74-A8FD-75D84D37F4C6","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1428586729/SAML"}
+,{"label":"QR Code Authentication","group":"","id":"4002F83D-1FA4-4A51-9069-862DA33587FC","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/206307343"}
+,{"label":"Qualitative Identity","group":"","id":"0CCE7D8E-36A2-4D6D-A989-9E5AF5BADD5F","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/206372879"}
+,{"label":"RA","group":"","id":"F5C6FED5-BE9F-47F6-AC34-4DB56021BBBB","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/206307350"}
+,{"label":"Ratio Scale","group":"","id":"E75230A4-B6CE-49FE-B659-5503945A8D53","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/206307373"}
+,{"label":"RBA","group":"","id":"EA8C2A7C-C847-423D-8650-3FDC4EB22C64","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1376383"}
+,{"label":"Re-authentication","group":"","id":"7527938D-FC2F-45AD-8F13-11F85060A353","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/5931115"}
+,{"label":"Recertification","group":"","id":"F67B01C6-0B9E-4928-9911-4A352B25765A","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/234356901"}
+,{"label":"Reference Monitor","group":"","id":"0EB5069D-E5A5-402C-8C00-DAF559131A2B","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1142390785"}
+,{"label":"Registration Authority","group":"","id":"58700DBB-B8EB-4C2F-AA3A-AC085083A3C5","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1230831633"}
+,{"label":"Rejoiner","group":"","id":"98129EFA-C4C8-41C3-8313-39ACE625CA78","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1231159321"}
+,{"label":"Relying Party","group":"","id":"A3547087-B09A-4E9D-A244-127D48E979E2","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140673497"}
+,{"label":"Remote Identity Proofing","group":"","id":"E8D0CCFA-DFD5-4797-BEF0-F02047B26EC1","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1428619445/Security+Assertion+Markup+Language"}
+,{"label":"Repeatability","group":"","id":"A853D6FF-E595-40FC-AE44-73E1EAE8E588","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1177747653"}
+,{"label":"Representation Target","group":"","id":"F6760AC7-5706-4E92-96BC-0BD04BAADA92","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1181843719"}
+,{"label":"Reproducibility","group":"","id":"8A8B1DA2-731C-4D3E-81A5-75304481E79E","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1177747630"}
+,{"label":"Research Account","group":"","id":"01F6A80A-3190-462D-BEEB-328CC562A345","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/795836567"}
+,{"label":"Revocation","group":"","id":"005E7CA1-C7A4-4E9B-905F-F4E507649B81","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1071185955"}
+,{"label":"RIDP","group":"","id":"BF54C035-AEA4-4B89-8D09-2697ACBCA058","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/446955653/Self-Sovereign+Identity"}
+,{"label":"Risk","group":"Account Takeover","id":"3F14E556-DBD3-4DBF-AC75-33A3EE0A9EE2","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/6029526"}
+,{"label":"Risk-Based Authentication","group":"","id":"75112034-1A11-4B4D-9E73-87435E2DD783","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/805142555"}
+,{"label":"Role","group":"","id":"E2F064FB-1C4A-4BAB-B863-626CFBBCDC18","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1313538143/Service-Centric+Identity+Management+System"}
+,{"label":"Role Bloating","group":"","id":"265234BD-E2FE-43F4-8AD4-0BD0F6C80093","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/881197061"}
+,{"label":"Role Capacity","group":"","id":"77A5549B-ADB4-4985-AA98-588593A5BAAC","url":""}
+,{"label":"Role Cardinality","group":"","id":"7C3A0667-DF23-4810-9BEE-59D939EF88A0","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/78741548"}
+,{"label":"Role Cardinality Activation Control","group":"","id":"DCADE1C3-9D23-48D0-99A5-D07D7EE414A0","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/75956255"}
 ,{"label":"Role Explosion","group":"","id":"BC3FACA4-0E97-4210-B64C-2ABEEB957725","url":""}
-,{"label":"Role Management","group":"","id":"4EF4C70A-5545-4CC8-91D4-926D1DBEBFD3","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/78741548"}
-,{"label":"Role-Based Access Control","group":"","id":"099CE096-FB19-46B5-B267-49F027CAE57E","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/75956255"}
-,{"label":"RP","group":"","id":"DBA5D7A7-4AEC-4D4C-B4DF-D241E110D70B","url":""}
-,{"label":"SAM Database","group":"","id":"E2E7B142-C29A-4741-B84C-5250026C48FB","url":""}
+,{"label":"Role Management","group":"","id":"4EF4C70A-5545-4CC8-91D4-926D1DBEBFD3","url":""}
+,{"label":"Role-Based Access Control","group":"","id":"099CE096-FB19-46B5-B267-49F027CAE57E","url":""}
+,{"label":"RP","group":"","id":"DBA5D7A7-4AEC-4D4C-B4DF-D241E110D70B","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1270055026/Social+Honeypot"}
+,{"label":"SAM Database","group":"","id":"E2E7B142-C29A-4741-B84C-5250026C48FB","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1071317018"}
 ,{"label":"SAML","group":"","id":"90CB2E29-E738-4CF6-94F1-57D1D56A7DE2","url":""}
-,{"label":"SCIM","group":"","id":"7382999F-2952-47EA-B504-605581DF965D","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1270055026/Social+Honeypot"}
-,{"label":"SCIM 1.0","group":"","id":"9B03D500-207D-4BB2-802C-6F943AC2D63B","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1071317018"}
-,{"label":"SCIM 1.1","group":"","id":"068C287A-2C5D-4786-BCBD-0480BF6454FC","url":""}
-,{"label":"SCIM 2.0","group":"","id":"2B4F240D-0052-45E8-9E88-D64C6CE7E498","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/234487981"}
-,{"label":"Scoping","group":"","id":"9A0E73FF-74F8-416B-9C01-C74D1A9F62AA","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1142292486"}
-,{"label":"SD","group":"","id":"F3DBFDA7-7228-4271-8DFE-C4B3274FC824","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1605648"}
-,{"label":"SDP","group":"","id":"870FB524-FE12-4832-B874-1EDAC17758D5","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1027342899"}
-,{"label":"Secure Production Identity Framework for Everyone","group":"","id":"EBE8666B-589D-4A28-A63A-EAF39B999CEE","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1311113221/SSI"}
-,{"label":"Secure System","group":"","id":"F28930DB-08DB-4FDE-BD0C-8BF3A4F7F48F","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/75956237"}
-,{"label":"Security","group":"","id":"5F072FEA-2F7C-4A5F-96C3-CCB07DB37FA7","url":""}
-,{"label":"Security Accounts Manager","group":"","id":"BCAB190F-35D0-4C68-879E-9C761061AF4C","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998244645"}
-,{"label":"Security Assertion Markup Language","group":"","id":"044E1028-928F-4A2E-BEFF-BA6CA0550388","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1311763"}
-,{"label":"Security Clearance Level","group":"","id":"671AAD33-6134-431E-835D-B5AF1E68D11E","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1600684200/Social+Authentication"}
-,{"label":"Security Compartment","group":"","id":"94503EA9-AD38-4C11-9DE6-444F395D8365","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1540175"}
-,{"label":"Security Label","group":"","id":"101FEA1C-4D3E-4582-81FA-C05674414CAE","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1181909085"}
-,{"label":"Security Question Authentication","group":"","id":"70454EDE-B6AA-47CB-9D8D-75E86F2B4D43","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/663257097/Step-Up+Authentication"}
-,{"label":"Segregation of Duties","group":"","id":"48BA8CF1-C437-4C55-A6D7-66A9DCEEACBF","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1177747756"}
-,{"label":"Self-Sovereign Identity","group":"","id":"E3BCF096-5AFF-4C75-9900-F8ED3FA2B44C","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/67600697"}
-,{"label":"Semantic Differential","group":"","id":"3E6ECBFC-E5E3-4C64-A06B-DCC89DC4CBDD","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/2981920"}
-,{"label":"Service Account","group":"","id":"838B156E-51C7-49AD-86E5-021CE1C76CEF","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1477869640/Supply+Chain+Attack"}
-,{"label":"Service-Centric Identity Management System","group":"","id":"E291FC5B-160B-4794-A024-5F76EC077C72","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1254588545/Sybil+Attack"}
-,{"label":"Session","group":"","id":"B2C6C1CF-A55F-46DF-B4F4-5EA1CE8E7DE2","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/794296433"}
-,{"label":"Session Authentication","group":"","id":"51BB27DC-A631-4ECF-A85A-AE6DB1ADB8CB","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/5965562/System"}
-,{"label":"Single Login","group":"","id":"3F0327EF-55D4-4729-8C46-C2BCCAB37CBE","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/446824644/System+Boundaries"}
-,{"label":"Single Sign-On","group":"","id":"BB5A4945-7680-42C0-9AE5-C6DC4F302773","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/206372869"}
-,{"label":"Single Sign-On","group":"","id":"E23C4B98-F4F8-47E9-8CDF-AD122A7FBD6D","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1004961963"}
-,{"label":"SMS OTP","group":"","id":"6389E521-8890-4428-BC27-16436CA97E0E","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1226571890"}
-,{"label":"Social Authentication","group":"","id":"D2250C06-07E5-483C-90C7-54D103513A9E","url":""}
-,{"label":"Social Honeypot","group":"","id":"0D3BEAC3-BF18-4F5C-8CAC-2F389DE47B6A","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1122631693"}
-,{"label":"SoD","group":"","id":"D7E94DEF-7DD1-42A8-81B8-9232F54C9E5E","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/81199126"}
+,{"label":"SCIM","group":"","id":"7382999F-2952-47EA-B504-605581DF965D","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/234487981"}
+,{"label":"SCIM 1.0","group":"","id":"9B03D500-207D-4BB2-802C-6F943AC2D63B","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1142292486"}
+,{"label":"SCIM 1.1","group":"","id":"068C287A-2C5D-4786-BCBD-0480BF6454FC","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1605648"}
+,{"label":"SCIM 2.0","group":"","id":"2B4F240D-0052-45E8-9E88-D64C6CE7E498","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1027342899"}
+,{"label":"Scoping","group":"","id":"9A0E73FF-74F8-416B-9C01-C74D1A9F62AA","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1311113221/SSI"}
+,{"label":"SD","group":"","id":"F3DBFDA7-7228-4271-8DFE-C4B3274FC824","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/75956237"}
+,{"label":"SDP","group":"","id":"870FB524-FE12-4832-B874-1EDAC17758D5","url":""}
+,{"label":"Secure Production Identity Framework for Everyone","group":"","id":"EBE8666B-589D-4A28-A63A-EAF39B999CEE","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/998244645"}
+,{"label":"Secure System","group":"","id":"F28930DB-08DB-4FDE-BD0C-8BF3A4F7F48F","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1311763"}
+,{"label":"Security","group":"","id":"5F072FEA-2F7C-4A5F-96C3-CCB07DB37FA7","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1600684200/Social+Authentication"}
+,{"label":"Security Accounts Manager","group":"","id":"BCAB190F-35D0-4C68-879E-9C761061AF4C","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1540175"}
+,{"label":"Security Assertion Markup Language","group":"","id":"044E1028-928F-4A2E-BEFF-BA6CA0550388","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1181909085"}
+,{"label":"Security Clearance Level","group":"","id":"671AAD33-6134-431E-835D-B5AF1E68D11E","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/663257097/Step-Up+Authentication"}
+,{"label":"Security Compartment","group":"","id":"94503EA9-AD38-4C11-9DE6-444F395D8365","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1177747756"}
+,{"label":"Security Label","group":"","id":"101FEA1C-4D3E-4582-81FA-C05674414CAE","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/67600697"}
+,{"label":"Security Question Authentication","group":"","id":"70454EDE-B6AA-47CB-9D8D-75E86F2B4D43","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/2981920"}
+,{"label":"Segregation of Duties","group":"","id":"48BA8CF1-C437-4C55-A6D7-66A9DCEEACBF","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1477869640/Supply+Chain+Attack"}
+,{"label":"Self-Sovereign Identity","group":"","id":"E3BCF096-5AFF-4C75-9900-F8ED3FA2B44C","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1254588545/Sybil+Attack"}
+,{"label":"Semantic Differential","group":"","id":"3E6ECBFC-E5E3-4C64-A06B-DCC89DC4CBDD","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/794296433"}
+,{"label":"Service Account","group":"","id":"838B156E-51C7-49AD-86E5-021CE1C76CEF","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/5965562/System"}
+,{"label":"Service-Centric Identity Management System","group":"","id":"E291FC5B-160B-4794-A024-5F76EC077C72","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/446824644/System+Boundaries"}
+,{"label":"Session","group":"","id":"B2C6C1CF-A55F-46DF-B4F4-5EA1CE8E7DE2","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/206372869"}
+,{"label":"Session Authentication","group":"","id":"51BB27DC-A631-4ECF-A85A-AE6DB1ADB8CB","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1004961963"}
+,{"label":"Single Login","group":"","id":"3F0327EF-55D4-4729-8C46-C2BCCAB37CBE","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1226571890"}
+,{"label":"Single Sign-On","group":"","id":"BB5A4945-7680-42C0-9AE5-C6DC4F302773","url":""}
+,{"label":"SMS OTP","group":"","id":"6389E521-8890-4428-BC27-16436CA97E0E","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1122631693"}
+,{"label":"Social Authentication","group":"","id":"D2250C06-07E5-483C-90C7-54D103513A9E","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/81199126"}
+,{"label":"Social Honeypot","group":"","id":"0D3BEAC3-BF18-4F5C-8CAC-2F389DE47B6A","url":""}
+,{"label":"SoD","group":"","id":"D7E94DEF-7DD1-42A8-81B8-9232F54C9E5E","url":""}
 ,{"label":"Software / App OTP","group":"","id":"7BC6DF8D-2864-4107-9B24-5A62FE4DF44D","url":""}
-,{"label":"Software-Defined Perimeter","group":"","id":"0B583F79-2565-428E-970F-92F46196FE8E","url":""}
-,{"label":"SPIFFE","group":"","id":"370838FB-B9DF-45E1-B6B7-BA831894BBC6","url":""}
-,{"label":"SPMS","group":"","id":"CC97123E-E172-4C11-BD8C-915A1733C7CB","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1130954862"}
-,{"label":"SSH Key","group":"","id":"1A14EF9A-0173-4449-9CE9-02DF9CA7E55D","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/360467"}
-,{"label":"SSI","group":"","id":"0F07D97A-4A97-4CBB-B3B6-1376383802B5","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1237582070/Tranquil"}
-,{"label":"SSO","group":"","id":"C1C5A5DE-0719-4029-91FB-BA270420DAAE","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1237483759"}
-,{"label":"SSO","group":"","id":"AF5F7710-3E4A-4FE7-B587-D506648F1AD6","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1181876587"}
-,{"label":"Stability of Access Decision Factors","group":"","id":"5EB8E1BB-048F-48F9-9C15-A607EB6CE1D7","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1037926452/Trust"}
-,{"label":"Stakeholder","group":"","id":"1CD5E796-9541-4E10-B155-5CFFB089C745","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1027048185"}
-,{"label":"Step-Up Authentication","group":"","id":"80B586F1-8F81-45BB-A723-63E0C8D071BE","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1027048128"}
-,{"label":"Strategic Performance Measurement System","group":"","id":"1DBA9C53-C5E0-43EF-9435-A1EBBD55EBA5","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1027048209"}
-,{"label":"Strict Discretionary Access Control","group":"","id":"DAF6C5BF-9FE6-47FD-A91F-C9262E4BC678","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1031242345"}
-,{"label":"Strong Authentication","group":"","id":"37D903A7-19DA-409D-B894-0E24792752A0","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1417084929/Typing+Biometrics"}
-,{"label":"Strong Tranquility Property","group":"","id":"E4118F66-497F-47CF-95B5-FDAE112F40D2","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140673267"}
-,{"label":"Subject","group":"","id":"3A8CFE3B-4E00-45F4-896B-2AE136802599","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1027080193/Unanticipated+User"}
-,{"label":"Subjective Indicator","group":"","id":"423F3767-6032-47A8-9358-8200FEF6FC44","url":""}
-,{"label":"Supply Chain Attack","group":"","id":"6F38FD61-A99B-462F-B1D6-F0B58A8AF7B1","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/446955662/Unique+ID+Number"}
-,{"label":"Sybil Attack","group":"","id":"76C9697B-0C4E-4D81-8131-2D47E500D64E","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1477902414/Unprivileged+Insider"}
-,{"label":"Synthetic Identity Fraud","group":"","id":"43ED5B5E-F12A-4C25-91D6-B8C7A48F69DE","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/82839586/User"}
-,{"label":"System","group":"","id":"B92DFC96-CD21-42CC-B21F-7D5820C1DCC7","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1428587273/User+Account"}
-,{"label":"System Boundaries","group":"","id":"B8070D41-760A-4A0C-8C9B-DAF481931D80","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1323597878/User-Centric+Identity+Management+System"}
-,{"label":"System for Cross-domain Identity Management","group":"","id":"96D5B885-035E-4160-BD34-8372037552E5","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1146847344/User+De-Provisioning"}
-,{"label":"System Owner","group":"","id":"214BBC4F-915B-4EBE-90D4-A7E8FC779451","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1121878257"}
-,{"label":"System Z","group":"","id":"67FF4999-75C9-47BD-8A13-29EBC3373BF8","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1428652448/User+ID"}
-,{"label":"TAN List OTP","group":"","id":"F71AD266-B5F6-4514-88E6-F25BCE3D8F4C","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1147043973/User+Provisioning"}
-,{"label":"Task-Based Access Control","group":"","id":"8B5EA442-514F-4D05-89D6-33F5CE7456C2","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1428652183/Username"}
-,{"label":"Text Password Authentication","group":"","id":"0AF1286B-2D4B-4F5F-981B-1B36B2526DC2","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1311146179/Verifiable+Claim"}
-,{"label":"Threat Agent","group":"","id":"1CA22954-068F-4603-9932-7CAFD3C4E2A6","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/446988510/Verification"}
-,{"label":"Time Factor","group":"","id":"DF8479E4-7ED0-4699-B624-53A022550DA0","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/834044330"}
-,{"label":"Token-Based Authentication","group":"","id":"E6AFFC0B-70FD-4FF0-B810-88AF9D1F52C5","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/236748839"}
-,{"label":"Touchstroke Recognition Authentication","group":"","id":"B5825B69-4900-43C0-A761-B839CC2A150A","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/542146561"}
-,{"label":"Toxic Combinations","group":"","id":"317A06D1-6B71-47B7-8DA3-E30729547A3D","url":""}
-,{"label":"Toxic Right Rule (Definition)","group":"","id":"634EC852-0B85-47F5-A9CB-39119FCA597A","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1231126540/Unauthorized+Access"}
-,{"label":"Tranquil","group":"","id":"CD4395C6-4D11-44F0-9379-3C7BAEDE14F2","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/234389605"}
-,{"label":"Tranquility Principle","group":"","id":"3476F350-3230-422E-ACA7-DB215DBE8F83","url":""}
-,{"label":"Tranquility Property","group":"","id":"9D1B24A0-56AF-4617-ADB3-C71C13B7ECF1","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1177845999"}
-,{"label":"Trust","group":"","id":"A1678A0D-5911-4EEF-9E11-60BF598EC965","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/75923587"}
-,{"label":"Trust Asymmetry","group":"","id":"02C83109-714D-445E-BEE7-BD8C5DF01F88","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140673566"}
-,{"label":"Trust Composability","group":"","id":"25644D60-00E5-472D-BE6D-971FB814715F","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140739507"}
-,{"label":"Trust Personalization","group":"","id":"972542DD-F88B-4F6B-A455-6E376E45AD99","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140673594"}
-,{"label":"Trust Transitivity","group":"","id":"B7CE828C-5FD8-48C8-9404-F733747924F0","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140739482"}
-,{"label":"Typing Biometrics","group":"","id":"D70A7F63-0F25-47AE-8AE4-C137A5FBFDC4","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140673653"}
-,{"label":"Typology","group":"","id":"4F608F4E-4015-49D4-AC9A-086CAF01EC18","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140771901"}
-,{"label":"Unanticipated User","group":"","id":"BFDF9B3C-2AFB-413C-A8ED-285523AC2B1F","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140772047"}
-,{"label":"Unauthorized Access","group":"","id":"5F07E772-71B1-4356-BFEF-4C9C6B3E0236","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140739277"}
-,{"label":"Unique ID Number","group":"","id":"32B4EC23-AF1A-4610-A639-00BBEA4C8CCA","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140673818"}
-,{"label":"Unprivileged Insider","group":"","id":"2169AA61-B763-4A78-84B6-AD1A906A5E71","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140772011"}
-,{"label":"User","group":"","id":"14F55B57-7DA0-449A-AFEC-28F642F73AC8","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140706624"}
-,{"label":"User Account","group":"","id":"069DED9F-281C-4491-A517-716E324BA3B2","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140706700"}
-,{"label":"User De-Provisioning","group":"","id":"AE1792C6-7918-47DF-AAF4-019C8334670F","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/855638141"}
-,{"label":"User Entitlement Reviews","group":"","id":"218DF218-D5B3-4BFF-B0DB-794CBCCDEC98","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/814448722"}
-,{"label":"User ID","group":"","id":"99A24377-B914-4F1A-A6B3-D4FF757FBC77","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/852492409"}
-,{"label":"User Provisioning","group":"","id":"5C9A52EB-A26B-4561-BD31-59AF5569B1F6","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1122631791"}
-,{"label":"User-Centric Identity Management System","group":"","id":"216B8B65-351B-4014-AC11-77C5B0F7E653","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/234356891/Zero-Trust+Access"}
-,{"label":"Username","group":"","id":"7B78C61F-6A15-4434-B851-3C9932D3B430","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/782893195/Zombie+Account"}
-,{"label":"Verifiable Claim","group":"","id":"54FF7375-CD37-4E95-ABFC-4397B126B84B","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/234389671/ZTA"}
-,{"label":"Verification","group":"","id":"1F6337C5-076B-4741-818A-798E01267BDB","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/81068120"}
+,{"label":"Software-Defined Perimeter","group":"","id":"0B583F79-2565-428E-970F-92F46196FE8E","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1130954862"}
+,{"label":"SPIFFE","group":"","id":"370838FB-B9DF-45E1-B6B7-BA831894BBC6","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/360467"}
+,{"label":"SPMS","group":"","id":"CC97123E-E172-4C11-BD8C-915A1733C7CB","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1237582070/Tranquil"}
+,{"label":"SSH Key","group":"","id":"1A14EF9A-0173-4449-9CE9-02DF9CA7E55D","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1237483759"}
+,{"label":"SSI","group":"","id":"0F07D97A-4A97-4CBB-B3B6-1376383802B5","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1181876587"}
+,{"label":"SSO","group":"","id":"C1C5A5DE-0719-4029-91FB-BA270420DAAE","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1037926452/Trust"}
+,{"label":"SSO","group":"","id":"AF5F7710-3E4A-4FE7-B587-D506648F1AD6","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1027048185"}
+,{"label":"Stability of Access Decision Factors","group":"","id":"5EB8E1BB-048F-48F9-9C15-A607EB6CE1D7","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1027048128"}
+,{"label":"Stakeholder","group":"","id":"1CD5E796-9541-4E10-B155-5CFFB089C745","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1027048209"}
+,{"label":"Step-Up Authentication","group":"","id":"80B586F1-8F81-45BB-A723-63E0C8D071BE","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1031242345"}
+,{"label":"Stolen Identity","group":"","id":"7256DFFB-F727-40B1-B8CB-3E8ED7B93E61","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1417084929/Typing+Biometrics"}
+,{"label":"Strategic Performance Measurement System","group":"","id":"1DBA9C53-C5E0-43EF-9435-A1EBBD55EBA5","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140673267"}
+,{"label":"Strict Discretionary Access Control","group":"","id":"DAF6C5BF-9FE6-47FD-A91F-C9262E4BC678","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1027080193/Unanticipated+User"}
+,{"label":"Strong Authentication","group":"","id":"37D903A7-19DA-409D-B894-0E24792752A0","url":""}
+,{"label":"Strong Tranquility Property","group":"","id":"E4118F66-497F-47CF-95B5-FDAE112F40D2","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/446955662/Unique+ID+Number"}
+,{"label":"Subject","group":"","id":"3A8CFE3B-4E00-45F4-896B-2AE136802599","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1477902414/Unprivileged+Insider"}
+,{"label":"Subjective Indicator","group":"","id":"423F3767-6032-47A8-9358-8200FEF6FC44","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/82839586/User"}
+,{"label":"Supply Chain Attack","group":"","id":"6F38FD61-A99B-462F-B1D6-F0B58A8AF7B1","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1428587273/User+Account"}
+,{"label":"Sybil Attack","group":"","id":"76C9697B-0C4E-4D81-8131-2D47E500D64E","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1323597878/User-Centric+Identity+Management+System"}
+,{"label":"Synthetic Identity Fraud","group":"","id":"43ED5B5E-F12A-4C25-91D6-B8C7A48F69DE","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1146847344/User+De-Provisioning"}
+,{"label":"System","group":"","id":"B92DFC96-CD21-42CC-B21F-7D5820C1DCC7","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1121878257"}
+,{"label":"System Boundaries","group":"","id":"B8070D41-760A-4A0C-8C9B-DAF481931D80","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1428652448/User+ID"}
+,{"label":"System for Cross-domain Identity Management","group":"","id":"96D5B885-035E-4160-BD34-8372037552E5","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1147043973/User+Provisioning"}
+,{"label":"System Owner","group":"","id":"214BBC4F-915B-4EBE-90D4-A7E8FC779451","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1428652183/Username"}
+,{"label":"System Z","group":"","id":"67FF4999-75C9-47BD-8A13-29EBC3373BF8","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1311146179/Verifiable+Claim"}
+,{"label":"TAN List OTP","group":"","id":"F71AD266-B5F6-4514-88E6-F25BCE3D8F4C","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/446988510/Verification"}
+,{"label":"Task-Based Access Control","group":"","id":"8B5EA442-514F-4D05-89D6-33F5CE7456C2","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/834044330"}
+,{"label":"Test Account","group":"","id":"25323A0E-B290-48AC-A147-597F1DF61288","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/236748839"}
+,{"label":"Text Password Authentication","group":"","id":"0AF1286B-2D4B-4F5F-981B-1B36B2526DC2","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/542146561"}
+,{"label":"Threat Agent","group":"","id":"1CA22954-068F-4603-9932-7CAFD3C4E2A6","url":""}
+,{"label":"Time Factor","group":"","id":"DF8479E4-7ED0-4699-B624-53A022550DA0","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1231126540/Unauthorized+Access"}
+,{"label":"Token-Based Authentication","group":"","id":"E6AFFC0B-70FD-4FF0-B810-88AF9D1F52C5","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/234389605"}
+,{"label":"Touchstroke Recognition Authentication","group":"","id":"B5825B69-4900-43C0-A761-B839CC2A150A","url":""}
+,{"label":"Toxic Combinations","group":"","id":"317A06D1-6B71-47B7-8DA3-E30729547A3D","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1177845999"}
+,{"label":"Toxic Right Rule (Definition)","group":"","id":"634EC852-0B85-47F5-A9CB-39119FCA597A","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/75923587"}
+,{"label":"Tranquil","group":"","id":"CD4395C6-4D11-44F0-9379-3C7BAEDE14F2","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140673566"}
+,{"label":"Tranquility Principle","group":"","id":"3476F350-3230-422E-ACA7-DB215DBE8F83","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140739507"}
+,{"label":"Tranquility Property","group":"","id":"9D1B24A0-56AF-4617-ADB3-C71C13B7ECF1","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140673594"}
+,{"label":"Trust","group":"","id":"A1678A0D-5911-4EEF-9E11-60BF598EC965","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140739482"}
+,{"label":"Trust Asymmetry","group":"","id":"02C83109-714D-445E-BEE7-BD8C5DF01F88","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140673653"}
+,{"label":"Trust Composability","group":"","id":"25644D60-00E5-472D-BE6D-971FB814715F","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140771901"}
+,{"label":"Trust Personalization","group":"","id":"972542DD-F88B-4F6B-A455-6E376E45AD99","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140772047"}
+,{"label":"Trust Transitivity","group":"","id":"B7CE828C-5FD8-48C8-9404-F733747924F0","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140739277"}
+,{"label":"Typing Biometrics","group":"","id":"D70A7F63-0F25-47AE-8AE4-C137A5FBFDC4","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140673818"}
+,{"label":"Typology","group":"","id":"4F608F4E-4015-49D4-AC9A-086CAF01EC18","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140772011"}
+,{"label":"Unanticipated User","group":"","id":"BFDF9B3C-2AFB-413C-A8ED-285523AC2B1F","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140706624"}
+,{"label":"Unauthorized Access","group":"","id":"5F07E772-71B1-4356-BFEF-4C9C6B3E0236","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/140706700"}
+,{"label":"Unique ID Number","group":"","id":"32B4EC23-AF1A-4610-A639-00BBEA4C8CCA","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/855638141"}
+,{"label":"Unprivileged Insider","group":"","id":"2169AA61-B763-4A78-84B6-AD1A906A5E71","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/814448722"}
+,{"label":"User","group":"","id":"14F55B57-7DA0-449A-AFEC-28F642F73AC8","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/852492409"}
+,{"label":"User Account","group":"","id":"069DED9F-281C-4491-A517-716E324BA3B2","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1122631791"}
+,{"label":"User De-Provisioning","group":"","id":"AE1792C6-7918-47DF-AAF4-019C8334670F","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/234356891/Zero-Trust+Access"}
+,{"label":"User Entitlement Reviews","group":"","id":"218DF218-D5B3-4BFF-B0DB-794CBCCDEC98","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/782893195/Zombie+Account"}
+,{"label":"User ID","group":"","id":"99A24377-B914-4F1A-A6B3-D4FF757FBC77","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/234389671/ZTA"}
+,{"label":"User Provisioning","group":"","id":"5C9A52EB-A26B-4561-BD31-59AF5569B1F6","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/81068120"}
+,{"label":"User-Centric Identity Management System","group":"","id":"216B8B65-351B-4014-AC11-77C5B0F7E653","url":""}
+,{"label":"Username","group":"","id":"7B78C61F-6A15-4434-B851-3C9932D3B430","url":""}
+,{"label":"Verifiable Claim","group":"","id":"54FF7375-CD37-4E95-ABFC-4397B126B84B","url":""}
+,{"label":"Verification","group":"","id":"1F6337C5-076B-4741-818A-798E01267BDB","url":""}
+,{"label":"Victim","group":"Account Takeover","id":"0356B816-5188-4965-B4D7-28144AB3745F","url":""}
 ,{"label":"Virtual Directory","group":"","id":"CD8C43C0-976C-4405-BAA4-A6B2B9A2D916","url":""}
 ,{"label":"Virtual Private Network","group":"","id":"0D37256E-D2AB-4231-9F6A-7B41A6762475","url":""}
 ,{"label":"Virtual Risk and Security Site Review","group":"","id":"D7E3E163-D6A6-42EE-BCDB-C350AEC368E2","url":""}
@@ -505,91 +510,98 @@
 
 
 
+
+
+
+
+
+
+
 ]
 ,"edges":[
-{"id":"A17E472C-A172-448D-8213-07C1399DEEFA","from":"A2967417-72BE-4537-BE1E-39E6298F5851","to":"4C6DA97E-8091-41CA-B99C-4250D2678005","label":"is"}
-,{"id":"8BDEB3AE-BCDB-42D9-AA7F-516CC0127EC0","from":"47316C02-A4EB-4832-B925-1D094DE618CA","to":"5CB6C907-0D88-4068-B90F-90D2B4E5C9CF","label":"is"}
-,{"id":"A6E9BB21-DA1C-4399-8FC4-0166CA3A459C","from":"47316C02-A4EB-4832-B925-1D094DE618CA","to":"B92DFC96-CD21-42CC-B21F-7D5820C1DCC7","label":"protects"}
-,{"id":"2451BBD8-749D-46FA-BD78-F55BF4C71428","from":"47316C02-A4EB-4832-B925-1D094DE618CA","to":"8A84FB45-D721-4F51-92D2-6F252494072A","label":"protects from"}
-,{"id":"3BCFFB5B-0A18-4B2A-914D-E47714BA8556","from":"566E708D-FD51-436E-9E4D-051F1F485979","to":"4C6DA97E-8091-41CA-B99C-4250D2678005","label":"is"}
-,{"id":"0123F3C2-3082-4585-8B6E-9A952C4BEBA5","from":"566E708D-FD51-436E-9E4D-051F1F485979","to":"A2967417-72BE-4537-BE1E-39E6298F5851","label":"is"}
-,{"id":"56C85E0C-EF4C-483B-862A-301E4306F3BB","from":"BC9316FB-BCA1-4D66-9CD7-3112BEF13D86","to":"DB652713-5948-4322-8567-E5F6CB0440E8","label":"is"}
-,{"id":"B202CE57-28CF-4BD4-BB59-7FE7F177CC48","from":"E1132C17-7D2B-4F86-A9F2-BAAA52027A5B","to":"DB652713-5948-4322-8567-E5F6CB0440E8","label":"is"}
-,{"id":"EEBA770F-5EF8-4495-87DF-C601E4D85E74","from":"8A84FB45-D721-4F51-92D2-6F252494072A","to":"1CA22954-068F-4603-9932-7CAFD3C4E2A6","label":"is"}
-,{"id":"037045CE-CAFF-4FC4-8629-0F8986EC231F","from":"EE59DD52-46E3-4C5E-B862-8914485F238F","to":"4C6DA97E-8091-41CA-B99C-4250D2678005","label":"is"}
-,{"id":"066380CA-56C5-4AA4-AA77-8503109741DC","from":"EE59DD52-46E3-4C5E-B862-8914485F238F","to":"A2967417-72BE-4537-BE1E-39E6298F5851","label":"is"}
-,{"id":"96BB6D66-BC08-4132-B285-605F17A1FB04","from":"8A54CA58-95DE-462C-85F0-63881C492A91","to":"4C6DA97E-8091-41CA-B99C-4250D2678005","label":"is"}
-,{"id":"C29FCE9E-21E1-42D7-87DB-8731D7FEDF7F","from":"8A54CA58-95DE-462C-85F0-63881C492A91","to":"A2967417-72BE-4537-BE1E-39E6298F5851","label":"is"}
-,{"id":"F6463590-0601-4EB7-A393-604B13E5AFB5","from":"A4ADA3D7-3568-4A97-A8E3-4E47A1368F3D","to":"4C6DA97E-8091-41CA-B99C-4250D2678005","label":"is"}
-,{"id":"41793FBD-53F6-403D-A68C-97E809C8F7BF","from":"A4ADA3D7-3568-4A97-A8E3-4E47A1368F3D","to":"A2967417-72BE-4537-BE1E-39E6298F5851","label":"is"}
-,{"id":"ACF425C2-222C-4ACB-BEC5-7121E2BB20A3","from":"46401F0E-29CA-47A3-A39A-0230CB771074","to":"4C6DA97E-8091-41CA-B99C-4250D2678005","label":"is"}
-,{"id":"1E4DE7F7-3410-4064-8D62-8AC2E7F5BDCB","from":"46401F0E-29CA-47A3-A39A-0230CB771074","to":"A2967417-72BE-4537-BE1E-39E6298F5851","label":"is"}
-,{"id":"462DDE67-7793-438D-A9E1-E040880F0CBB","from":"C92DDCBA-ED8B-4196-A9FF-C96029349FAC","to":"4C6DA97E-8091-41CA-B99C-4250D2678005","label":"is"}
-,{"id":"9147DA1B-716C-4370-8349-27B0C4D8E137","from":"C92DDCBA-ED8B-4196-A9FF-C96029349FAC","to":"A2967417-72BE-4537-BE1E-39E6298F5851","label":"is"}
-,{"id":"07EB776F-7AFB-4196-BAAD-1955983C37AE","from":"257D3082-7AF3-4464-9C5B-77B2D083B427","to":"A42E7343-FA4C-490A-A0A3-7F65FB188771","label":"is"}
-,{"id":"9182F971-C8EF-4CE0-9C9B-2CA31842BEE1","from":"BDF3CB39-431D-478C-A651-EBA1666F91C1","to":"4C6DA97E-8091-41CA-B99C-4250D2678005","label":"is"}
-,{"id":"911F0665-DDA1-4886-817D-F259148022CA","from":"BDF3CB39-431D-478C-A651-EBA1666F91C1","to":"A2967417-72BE-4537-BE1E-39E6298F5851","label":"is"}
-,{"id":"C7F4F378-9012-44FD-9610-142E7055C553","from":"37CD23D4-9BFD-4A88-8D2B-CA84CE4FB78F","to":"DB652713-5948-4322-8567-E5F6CB0440E8","label":"is"}
-,{"id":"379247CB-D303-4299-B095-6BA06E3655B7","from":"5660B6DD-121E-4173-A110-7A4D00B3AB6A","to":"DB652713-5948-4322-8567-E5F6CB0440E8","label":"is"}
-,{"id":"58516742-BDFB-4911-B546-C69551E8F832","from":"A4106055-17BD-4640-8746-5471A26FF444","to":"DB652713-5948-4322-8567-E5F6CB0440E8","label":"composed of"}
-,{"id":"3F35EE72-EF26-40E6-AD83-E3EFFFBE8004","from":"A4106055-17BD-4640-8746-5471A26FF444","to":"F6A0BA1D-4EAD-44AE-BB90-AAFC98899178","label":"may have"}
-,{"id":"EFC19BFA-E154-4290-BE90-38868BCFF62F","from":"A4106055-17BD-4640-8746-5471A26FF444","to":"AFFF4DF7-5DE7-4EC2-B059-59963A26A6BD","label":"may have"}
-,{"id":"C131A76E-DF02-4483-9E69-C20F8B04EC83","from":"A4106055-17BD-4640-8746-5471A26FF444","to":"4414B2C4-B1F0-4BE8-A1D2-264AE3500755","label":"may have"}
-,{"id":"286BD24E-847D-46DE-921B-06993F9B7479","from":"A4106055-17BD-4640-8746-5471A26FF444","to":"CBC6B9A3-AA38-40D4-865C-53E8DB7037F3","label":"may have"}
-,{"id":"F4D85694-D77C-4730-8767-17ABDC889E3A","from":"A4106055-17BD-4640-8746-5471A26FF444","to":"8A66FDF6-25FA-4400-8F76-04907B9F7088","label":"regarded as"}
-,{"id":"183E600D-FA04-4EAB-BE8D-963FFB82D6B7","from":"824C4DE1-CB45-4357-8D71-3D7A9B20A1FE","to":"B5825B69-4900-43C0-A761-B839CC2A150A","label":"synonym for"}
-,{"id":"48FA3CD3-D310-4F93-865D-83C3BCA9AC85","from":"824C4DE1-CB45-4357-8D71-3D7A9B20A1FE","to":"4C6DA97E-8091-41CA-B99C-4250D2678005","label":"is"}
-,{"id":"BCCC560D-DE6C-4081-BD37-3A1F300DF47D","from":"824C4DE1-CB45-4357-8D71-3D7A9B20A1FE","to":"A2967417-72BE-4537-BE1E-39E6298F5851","label":"is"}
-,{"id":"232EBB4F-218B-4CF6-AE54-1EEC03F10FA7","from":"8F045301-B949-47A7-B850-24BF7725F524","to":"A42E7343-FA4C-490A-A0A3-7F65FB188771","label":"is"}
-,{"id":"5C72756F-3320-43EA-88E5-138048851A00","from":"935B2B66-22E7-4674-9564-5B7FE10D4526","to":"4C6DA97E-8091-41CA-B99C-4250D2678005","label":"is"}
-,{"id":"8FA8BA60-4F2A-4BFD-A297-E4053CB17D73","from":"935B2B66-22E7-4674-9564-5B7FE10D4526","to":"A2967417-72BE-4537-BE1E-39E6298F5851","label":"is"}
-,{"id":"43895014-FE0C-4117-87D5-FBF8AAF56D63","from":"1D786316-F897-4DFF-8B41-5E1E1572959A","to":"A42E7343-FA4C-490A-A0A3-7F65FB188771","label":"is"}
-,{"id":"8A776D00-32D8-4078-8B34-F55068F0FD47","from":"BFC2B385-EAA5-409A-8F21-E3B07033449A","to":"4C6DA97E-8091-41CA-B99C-4250D2678005","label":"is"}
-,{"id":"B292E7B1-1707-4B0B-BBE7-605D19444883","from":"BFC2B385-EAA5-409A-8F21-E3B07033449A","to":"A2967417-72BE-4537-BE1E-39E6298F5851","label":"is"}
-,{"id":"33065C30-A3B9-4D0D-B5CC-ED8D767FBEC1","from":"087C6620-F50C-4D7E-B3DF-516DA675DD50","to":"4C6DA97E-8091-41CA-B99C-4250D2678005","label":"is"}
-,{"id":"C6BBD49A-A858-43A9-9337-8EB58F0C51B2","from":"087C6620-F50C-4D7E-B3DF-516DA675DD50","to":"A2967417-72BE-4537-BE1E-39E6298F5851","label":"is"}
-,{"id":"FABAAE46-324C-4399-87DA-0B0EE767B29A","from":"4DAEE886-62B6-4A11-91E2-6CCC52E8C726","to":"A42E7343-FA4C-490A-A0A3-7F65FB188771","label":"is"}
-,{"id":"28500740-6EE6-4335-8EF3-39D42CD9EB16","from":"DF8479E4-7ED0-4699-B624-53A022550DA0","to":"A42E7343-FA4C-490A-A0A3-7F65FB188771","label":"is"}
-,{"id":"B0C857BE-9AD0-4BB2-BEF3-0102CD2627FD","from":"B5825B69-4900-43C0-A761-B839CC2A150A","to":"4C6DA97E-8091-41CA-B99C-4250D2678005","label":"is"}
-,{"id":"1A7AC49D-0F1C-47EE-BC58-AC3EAE721F57","from":"B5825B69-4900-43C0-A761-B839CC2A150A","to":"A2967417-72BE-4537-BE1E-39E6298F5851","label":"is"}
-,{"id":"FCE6A6BB-8894-457D-8ABB-A0A449520297","from":"F308D789-DA7D-4E47-A5C3-2B03D6929447","to":"4C6DA97E-8091-41CA-B99C-4250D2678005","label":"is"}
-,{"id":"361CF5E5-A4E7-41F1-B5E0-BE5AA8CBC1AB","from":"F308D789-DA7D-4E47-A5C3-2B03D6929447","to":"A2967417-72BE-4537-BE1E-39E6298F5851","label":"is"}
-,{"id":"26E77BE3-5EC8-4DB4-98EF-7A96B2955DEF","from":"3707A70E-88B7-4B6D-A934-0BC5EE398FF6","to":"AB661E2B-F23C-4C53-A2BC-043F66BD26F6","label":"is"}
-,{"id":"40665882-7B0C-4C43-80B9-296692AF819C","from":"AB661E2B-F23C-4C53-A2BC-043F66BD26F6","to":"F6D05109-A8EB-4630-8070-A3DC00484ED2","label":"is"}
-,{"id":"E6BF5314-2600-4444-8CED-A384480EC12C","from":"3707A70E-88B7-4B6D-A934-0BC5EE398FF6","to":"5405E693-EB16-42E8-98EA-4E4BF4569BD9","label":"committed by"}
-,{"id":"DBEF589E-61B7-48CA-BF62-BE1EFE5B5B5F","from":"3707A70E-88B7-4B6D-A934-0BC5EE398FF6","to":"0356B816-5188-4965-B4D7-28144AB3745F","label":"victimize"}
-,{"id":"D9F6340D-C755-478B-A8BA-B75B075E3FC8","from":"5405E693-EB16-42E8-98EA-4E4BF4569BD9","to":"2BE2F561-5FF3-4301-82B7-39FF29CD650A","label":"take control of"}
-,{"id":"624D8A78-15B2-4960-86BC-B962167A2B50","from":"0356B816-5188-4965-B4D7-28144AB3745F","to":"2BE2F561-5FF3-4301-82B7-39FF29CD650A","label":"owns"}
-,{"id":"AC3D99D3-A737-46B2-8B00-7D9A3ABC113C","from":"5405E693-EB16-42E8-98EA-4E4BF4569BD9","to":"0356B816-5188-4965-B4D7-28144AB3745F","label":"distinct from"}
-,{"id":"B8D2A8FF-158D-431C-B23D-8ABC12909059","from":"DB35E690-DA61-4DD6-8BFE-3D6A2BCFD097","to":"422E3DA9-1F9C-44DA-8A28-BF3685F5E402","label":"may be"}
-,{"id":"FF977DA1-3B9C-47F7-BE05-A16485CB0D72","from":"DB35E690-DA61-4DD6-8BFE-3D6A2BCFD097","to":"972F900D-A7B8-411F-BF29-19B9F2169285","label":"may be"}
-,{"id":"0000618D-67F2-4990-801A-1E881520AF74","from":"DB35E690-DA61-4DD6-8BFE-3D6A2BCFD097","to":"8AB3C29B-04F9-4068-85E6-82031382CE74","label":"may be"}
-,{"id":"9B287D99-25E1-4DA4-B3CF-D4B1DCB74C64","from":"5405E693-EB16-42E8-98EA-4E4BF4569BD9","to":"5F148AC3-F899-4AC2-AEB2-C6CA6005999B","label":"has not"}
-,{"id":"C03B5509-A5F0-4A30-AE2C-799A6A30E031","from":"0356B816-5188-4965-B4D7-28144AB3745F","to":"5F148AC3-F899-4AC2-AEB2-C6CA6005999B","label":"has"}
-,{"id":"C1A0FF6A-51A9-49F1-993D-6D626514246A","from":"3707A70E-88B7-4B6D-A934-0BC5EE398FF6","to":"6989A549-F547-413E-9EFA-E4EFEF40B824","label":"is"}
-,{"id":"355A97DF-7524-4AAD-9971-402E919670C5","from":"5F148AC3-F899-4AC2-AEB2-C6CA6005999B","to":"2BE2F561-5FF3-4301-82B7-39FF29CD650A","label":"to impersonate"}
-,{"id":"03C65088-C04C-48F0-BCF8-7C56E778D79A","from":"5405E693-EB16-42E8-98EA-4E4BF4569BD9","to":"DB35E690-DA61-4DD6-8BFE-3D6A2BCFD097","label":"has"}
-,{"id":"16C846ED-2379-48BF-B8E8-CA51AF983FE7","from":"972F900D-A7B8-411F-BF29-19B9F2169285","to":"0356B816-5188-4965-B4D7-28144AB3745F","label":"to"}
-,{"id":"1C87EBE0-AB78-4669-86B6-15191BA0722D","from":"3707A70E-88B7-4B6D-A934-0BC5EE398FF6","to":"2BE2F561-5FF3-4301-82B7-39FF29CD650A","label":"target"}
-,{"id":"99073CC5-247E-40C9-83CE-5529D6C81921","from":"0356B816-5188-4965-B4D7-28144AB3745F","to":"2BE2F561-5FF3-4301-82B7-39FF29CD650A","label":"lose control of"}
-,{"id":"49121DE6-F842-494C-BE1B-909B0E2D43B7","from":"3707A70E-88B7-4B6D-A934-0BC5EE398FF6","to":"3F14E556-DBD3-4DBF-AC75-33A3EE0A9EE2","label":"constitute a"}
-,{"id":"4FA39A2E-11DF-4646-9432-46173027F558","from":"3F14E556-DBD3-4DBF-AC75-33A3EE0A9EE2","to":"515EECD7-8927-46CD-B811-39535FB71778","label":"has"}
-,{"id":"816A61AA-E15A-457E-A2A2-884BEDEC2928","from":"515EECD7-8927-46CD-B811-39535FB71778","to":"A1D6E2B6-1A6F-40D5-BEF5-85AFDA4C4E86","label":"may be"}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+{"id":"A17E472C-A172-448D-8213-07C1399DEEFA","from":"Biometric Identification","to":"Authentication Method","label":"is"}
+,{"id":"8BDEB3AE-BCDB-42D9-AA7F-516CC0127EC0","from":"Boundary Control","to":"Control Class","label":"is"}
+,{"id":"A6E9BB21-DA1C-4399-8FC4-0166CA3A459C","from":"Boundary Control","to":"System","label":"protects"}
+,{"id":"2451BBD8-749D-46FA-BD78-F55BF4C71428","from":"Boundary Control","to":"External Threat Agent","label":"protects from"}
+,{"id":"3BCFFB5B-0A18-4B2A-914D-E47714BA8556","from":"Brainwaves Authentication","to":"Authentication Method","label":"is"}
+,{"id":"0123F3C2-3082-4585-8B6E-9A952C4BEBA5","from":"Brainwaves Authentication","to":"Biometric Identification","label":"is"}
+,{"id":"56C85E0C-EF4C-483B-862A-301E4306F3BB","from":"Data","to":"IT Component","label":"is"}
+,{"id":"B202CE57-28CF-4BD4-BB59-7FE7F177CC48","from":"Data Operation","to":"IT Component","label":"is"}
+,{"id":"EEBA770F-5EF8-4495-87DF-C601E4D85E74","from":"External Threat Agent","to":"Threat Agent","label":"is"}
+,{"id":"037045CE-CAFF-4FC4-8629-0F8986EC231F","from":"Facial Recognition Authentication","to":"Authentication Method","label":"is"}
+,{"id":"066380CA-56C5-4AA4-AA77-8503109741DC","from":"Facial Recognition Authentication","to":"Biometric Identification","label":"is"}
+,{"id":"96BB6D66-BC08-4132-B285-605F17A1FB04","from":"Fingerprint Recognition Authentication","to":"Authentication Method","label":"is"}
+,{"id":"C29FCE9E-21E1-42D7-87DB-8731D7FEDF7F","from":"Fingerprint Recognition Authentication","to":"Biometric Identification","label":"is"}
+,{"id":"F6463590-0601-4EB7-A393-604B13E5AFB5","from":"Gait Recognition Authentication","to":"Authentication Method","label":"is"}
+,{"id":"41793FBD-53F6-403D-A68C-97E809C8F7BF","from":"Gait Recognition Authentication","to":"Biometric Identification","label":"is"}
+,{"id":"ACF425C2-222C-4ACB-BEC5-7121E2BB20A3","from":"Hand Gestures Recognition Authentication","to":"Authentication Method","label":"is"}
+,{"id":"1E4DE7F7-3410-4064-8D62-8AC2E7F5BDCB","from":"Hand Gestures Recognition Authentication","to":"Biometric Identification","label":"is"}
+,{"id":"462DDE67-7793-438D-A9E1-E040880F0CBB","from":"Heartbeats Recognition Authentication","to":"Authentication Method","label":"is"}
+,{"id":"9147DA1B-716C-4370-8349-27B0C4D8E137","from":"Heartbeats Recognition Authentication","to":"Biometric Identification","label":"is"}
+,{"id":"07EB776F-7AFB-4196-BAAD-1955983C37AE","from":"Inherence Factor","to":"Authentication Factor","label":"is"}
+,{"id":"9182F971-C8EF-4CE0-9C9B-2CA31842BEE1","from":"Iris Recognition Authentication","to":"Authentication Method","label":"is"}
+,{"id":"911F0665-DDA1-4886-817D-F259148022CA","from":"Iris Recognition Authentication","to":"Biometric Identification","label":"is"}
+,{"id":"C7F4F378-9012-44FD-9610-142E7055C553","from":"IT Hardware","to":"IT Component","label":"is"}
+,{"id":"379247CB-D303-4299-B095-6BA06E3655B7","from":"IT Software","to":"IT Component","label":"is"}
+,{"id":"58516742-BDFB-4911-B546-C69551E8F832","from":"IT System","to":"IT Component","label":"composed of"}
+,{"id":"3F35EE72-EF26-40E6-AD83-E3EFFFBE8004","from":"IT System","to":"Capability to store information","label":"may have"}
+,{"id":"EFC19BFA-E154-4290-BE90-38868BCFF62F","from":"IT System","to":"Capability to transform information","label":"may have"}
+,{"id":"C131A76E-DF02-4483-9E69-C20F8B04EC83","from":"IT System","to":"Capability to transmit information","label":"may have"}
+,{"id":"286BD24E-847D-46DE-921B-06993F9B7479","from":"IT System","to":"Capabilty to collect information","label":"may have"}
+,{"id":"F4D85694-D77C-4730-8767-17ABDC889E3A","from":"IT System","to":"Coherent Whole","label":"regarded as"}
+,{"id":"183E600D-FA04-4EAB-BE8D-963FFB82D6B7","from":"Keystroke Recognition Authentication","to":"Touchstroke Recognition Authentication","label":"synonym for"}
+,{"id":"48FA3CD3-D310-4F93-865D-83C3BCA9AC85","from":"Keystroke Recognition Authentication","to":"Authentication Method","label":"is"}
+,{"id":"BCCC560D-DE6C-4081-BD37-3A1F300DF47D","from":"Keystroke Recognition Authentication","to":"Biometric Identification","label":"is"}
+,{"id":"232EBB4F-218B-4CF6-AE54-1EEC03F10FA7","from":"Knowledge Factor","to":"Authentication Factor","label":"is"}
+,{"id":"5C72756F-3320-43EA-88E5-138048851A00","from":"Knuckleprint Recognition Authentication","to":"Authentication Method","label":"is"}
+,{"id":"8FA8BA60-4F2A-4BFD-A297-E4053CB17D73","from":"Knuckleprint Recognition Authentication","to":"Biometric Identification","label":"is"}
+,{"id":"43895014-FE0C-4117-87D5-FBF8AAF56D63","from":"Location Factor","to":"Authentication Factor","label":"is"}
+,{"id":"8A776D00-32D8-4078-8B34-F55068F0FD47","from":"Multi-Modal Biometric Authentication","to":"Authentication Method","label":"is"}
+,{"id":"B292E7B1-1707-4B0B-BBE7-605D19444883","from":"Multi-Modal Biometric Authentication","to":"Biometric Identification","label":"is"}
+,{"id":"33065C30-A3B9-4D0D-B5CC-ED8D767FBEC1","from":"Palmprint Recognition Authentication","to":"Authentication Method","label":"is"}
+,{"id":"C6BBD49A-A858-43A9-9337-8EB58F0C51B2","from":"Palmprint Recognition Authentication","to":"Biometric Identification","label":"is"}
+,{"id":"FABAAE46-324C-4399-87DA-0B0EE767B29A","from":"Possession Factor","to":"Authentication Factor","label":"is"}
+,{"id":"28500740-6EE6-4335-8EF3-39D42CD9EB16","from":"Time Factor","to":"Authentication Factor","label":"is"}
+,{"id":"B0C857BE-9AD0-4BB2-BEF3-0102CD2627FD","from":"Touchstroke Recognition Authentication","to":"Authentication Method","label":"is"}
+,{"id":"1A7AC49D-0F1C-47EE-BC58-AC3EAE721F57","from":"Touchstroke Recognition Authentication","to":"Biometric Identification","label":"is"}
+,{"id":"FCE6A6BB-8894-457D-8ABB-A0A449520297","from":"Voice Recognition Authentication","to":"Authentication Method","label":"is"}
+,{"id":"361CF5E5-A4E7-41F1-B5E0-BE5AA8CBC1AB","from":"Voice Recognition Authentication","to":"Biometric Identification","label":"is"}
+,{"id":"26E77BE3-5EC8-4DB4-98EF-7A96B2955DEF","from":"Account Takeover","to":"Identity Theft","label":"is"}
+,{"id":"40665882-7B0C-4C43-80B9-296692AF819C","from":"Identity Theft","to":"Attack Class","label":"is"}
+,{"id":"E6BF5314-2600-4444-8CED-A384480EC12C","from":"Account Takeover","to":"Perpetrator","label":"committed by"}
+,{"id":"DBEF589E-61B7-48CA-BF62-BE1EFE5B5B5F","from":"Account Takeover","to":"Victim","label":"victimize"}
+,{"id":"D9F6340D-C755-478B-A8BA-B75B075E3FC8","from":"Perpetrator","to":"Digital Identity","label":"take control of"}
+,{"id":"624D8A78-15B2-4960-86BC-B962167A2B50","from":"Victim","to":"Digital Identity","label":"owns"}
+,{"id":"AC3D99D3-A737-46B2-8B00-7D9A3ABC113C","from":"Perpetrator","to":"Victim","label":"distinct from"}
+,{"id":"B8D2A8FF-158D-431C-B23D-8ABC12909059","from":"Motivation","to":"Financial Gain","label":"may be"}
+,{"id":"FF977DA1-3B9C-47F7-BE05-A16485CB0D72","from":"Motivation","to":"Causing Reputation Harm","label":"may be"}
+,{"id":"0000618D-67F2-4990-801A-1E881520AF74","from":"Motivation","to":"Identity Deception","label":"may be"}
+,{"id":"9B287D99-25E1-4DA4-B3CF-D4B1DCB74C64","from":"Perpetrator","to":"Authorization","label":"has not"}
+,{"id":"C03B5509-A5F0-4A30-AE2C-799A6A30E031","from":"Victim","to":"Authorization","label":"has"}
+,{"id":"C1A0FF6A-51A9-49F1-993D-6D626514246A","from":"Account Takeover","to":"Illegal Action","label":"is"}
+,{"id":"355A97DF-7524-4AAD-9971-402E919670C5","from":"Authorization","to":"Digital Identity","label":"to impersonate"}
+,{"id":"03C65088-C04C-48F0-BCF8-7C56E778D79A","from":"Perpetrator","to":"Motivation","label":"has"}
+,{"id":"16C846ED-2379-48BF-B8E8-CA51AF983FE7","from":"Causing Reputation Harm","to":"Victim","label":"to"}
+,{"id":"1C87EBE0-AB78-4669-86B6-15191BA0722D","from":"Account Takeover","to":"Digital Identity","label":"target"}
+,{"id":"99073CC5-247E-40C9-83CE-5529D6C81921","from":"Victim","to":"Digital Identity","label":"lose control of"}
+,{"id":"49121DE6-F842-494C-BE1B-909B0E2D43B7","from":"Account Takeover","to":"Risk","label":"constitute a"}
+,{"id":"4FA39A2E-11DF-4646-9432-46173027F558","from":"Risk","to":"Mitigation","label":"has"}
+,{"id":"816A61AA-E15A-457E-A2A2-884BEDEC2928","from":"Mitigation","to":"Make MFA Mandatory","label":"may be"}
+,{"id":"5F168986-E77E-4F33-91B1-EA2A80D27A62","from":"Digital Identity","to":"Stolen Identity","label":"is"}
+,{"id":"DD3E4086-9258-4CEC-AA71-60BBCA780A26","from":"Stolen Identity","to":"Compromised Identity","label":"is"}
+,{"id":"DE5D9227-B769-4D5A-8500-889A611D98E8","from":"Compromised Identity","to":"Digital Identity","label":"is"}
+,{"id":"5BF4A680-E4D0-43AF-B39E-023C875B56AE","from":"Non-compromised Identity","to":"Digital Identity","label":"is"}
+,{"id":"5C157834-A0AC-4B72-874D-381E356D1427","from":"Authentic Identity","to":"Digital Identity","label":"is"}
+,{"id":"B169787F-142F-4F48-91D5-4E1631A209C3","from":"Fake Identity","to":"Digital Identity","label":"is"}
+,{"id":"172317F5-7551-4A51-B85B-0DAFEE004E16","from":"Social Honeypot","to":"Fake Identity","label":"is"}
+,{"id":"DB7BF994-4210-4C32-9CBA-583C39FE5614","from":"Social Honeypot","to":"Non-compromised Identity","label":"is"}
+,{"id":"C09521E2-4E29-448A-9B5E-BAD855A6FC9D","from":"Zombie Account","to":"Compromised Identity","label":"is"}
+,{"id":"142CE4C1-7773-4488-BB24-CA0345911809","from":"Zombie Account","to":"Fake Identity","label":"is"}
+,{"id":"64363645-20C2-4118-8A43-16197D0B273F","from":"Stolen Identity","to":"Fake Identity","label":"is"}
+,{"id":"C7F33B3E-E8A0-4C36-AEB3-0F4AAF16D526","from":"Test Account","to":"Non-compromised Identity","label":"is"}
+,{"id":"A961B21D-25E5-4F52-83DC-48A0A527EE3C","from":"Test Account","to":"Fake Identity","label":"is"}
+,{"id":"A3A83BDB-BBEE-4294-AE65-C57A875F7714","from":"Research Account","to":"Non-compromised Identity","label":"is"}
+,{"id":"11D55571-665E-4CCA-B449-C292219C2AAD","from":"Research Account","to":"Fake Identity","label":"is"}
 
 
 ]
