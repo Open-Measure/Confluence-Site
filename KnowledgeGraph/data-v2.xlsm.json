@@ -17,7 +17,7 @@
 ,{"label":"Account","group":"","id":"n60E574D8_853F_46D9_A1FB_433B2771BF75","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/461308120/Account"}
 ,{"label":"Account Lockout Policy","group":"","id":"n6CB6D4CB_AB42_4B54_8FC3_DD4C4D6C2B3E","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/67699360"}
 ,{"label":"Account Management","group":"","id":"nF83276D7_E44A_4A0B_A465_28B40B846C1C","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1146847331"}
-,{"label":"Account Takeover","group":"","id":"nE9C9661B_8C28_413E_A8E3_A720E03C04B7","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1079050286/Account+Takeover"}
+,{"label":"Account Takeover","group":"Account Takeover","id":"nE9C9661B_8C28_413E_A8E3_A720E03C04B7","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/1079050286/Account+Takeover"}
 ,{"label":"Authorization","group":"Account Takeover","id":"n4E7B27FA_8562_4EC8_869A_378A5937334A","url":""}
 ,{"label":"Digital Identity","group":"Account Takeover","id":"n65057A73_5E5D_4997_843D_70FCDDBF4863","url":"https://open-measure.atlassian.net/wiki/spaces/DIC/pages/419528705/Digital+Identity"}
 ,{"label":"Motivation","group":"Account Takeover","id":"n4FA68550_C829_46CD_ADC2_9BE67FA41543","url":""}
@@ -497,6 +497,10 @@
 ,{"label":"Zero-Trust Access","group":"","id":"nA083172A_2D30_45C1_A7AA_C0950BF75AF5","url":""}
 ,{"label":"Zombie Account","group":"","id":"n32F8B5A2_2FF3_46A6_92A0_A0A74C77207C","url":""}
 ,{"label":"ZTA","group":"","id":"n0BF6DF94_3689_4DC6_A2E2_4E916F963D9A","url":""}
+,{"label":"Make MFA Mandatory","group":"","id":"nCC292B9C_DF75_4B68_B63E_75C8C586FD1E","url":""}
+,{"label":"Best Practice","group":"","id":"n82C51C5C_9487_4142_9937_10C422C1CD81","url":""}
+,{"label":"Risk","group":"Account Takeover","id":"nB622D019_1525_4A1F_838B_BA98AC1BD971","url":""}
+,{"label":"Mitigation","group":"Account Takeover","id":"nA8C4DBF8_4D5F_45D9_9EDF_74F94F6892E8","url":""}
 ]
 ,"edges":[
 {"id":"n96BD0C0B_9A7F_45ED_9519_30416CA253CB","from":"nAC688165_B606_4D82_A016_0263D701EDF2","to":"n53877DB9_77FA_44E9_974A_BE3344133398","label":"is"}
@@ -550,7 +554,7 @@
 ,{"id":"nE8DE4BFE_8184_4CDB_AB2B_F5BBB01DDEC9","from":"n23656C0A_A156_405F_9FF8_7AE62FD6FB07","to":"nBC613B66_5F94_4F48_91BD_5F6BBA766E79","label":"is"}
 ,{"id":"n4DCA1FCE_1B55_469F_A7BE_191D25CCF3FD","from":"nE9C9661B_8C28_413E_A8E3_A720E03C04B7","to":"n02B81E29_1266_4611_897E_FD90C5DD5788","label":"committed by"}
 ,{"id":"n13EF72AA_08CA_410B_B24C_89AAA3D27701","from":"nE9C9661B_8C28_413E_A8E3_A720E03C04B7","to":"n89FBB4A6_DF18_465F_9DA3_BD367759F09E","label":"victimize"}
-,{"id":"nB26195B6_F9CB_4615_844F_03A801F54319","from":"n02B81E29_1266_4611_897E_FD90C5DD5788","to":"n65057A73_5E5D_4997_843D_70FCDDBF4863","label":"control"}
+,{"id":"nB26195B6_F9CB_4615_844F_03A801F54319","from":"n02B81E29_1266_4611_897E_FD90C5DD5788","to":"n65057A73_5E5D_4997_843D_70FCDDBF4863","label":"take control of"}
 ,{"id":"n7E6F3531_1C90_4207_87E3_03DC75297CD1","from":"n89FBB4A6_DF18_465F_9DA3_BD367759F09E","to":"n65057A73_5E5D_4997_843D_70FCDDBF4863","label":"owns"}
 ,{"id":"n486B9FB2_ED32_4106_B93F_8269064F6641","from":"n02B81E29_1266_4611_897E_FD90C5DD5788","to":"n89FBB4A6_DF18_465F_9DA3_BD367759F09E","label":"distinct from"}
 ,{"id":"nB02D7F5B_26E1_4631_97FB_9B92CB3DD9A1","from":"n4FA68550_C829_46CD_ADC2_9BE67FA41543","to":"n52564682_5FAD_48CB_A320_6CFE17950D03","label":"may be"}
@@ -563,6 +567,9 @@
 ,{"id":"n7E99EFA2_7827_4773_91E4_D9B34E3CAA5A","from":"n02B81E29_1266_4611_897E_FD90C5DD5788","to":"n4FA68550_C829_46CD_ADC2_9BE67FA41543","label":"has"}
 ,{"id":"n0028F731_EC86_4C20_B77F_946A63CC2AC9","from":"nA59D49F8_3819_4341_A310_19C77AB08AAB","to":"n89FBB4A6_DF18_465F_9DA3_BD367759F09E","label":"to"}
 ,{"id":"n87A12089_2F7A_43C7_8FAD_0D12176C5DD3","from":"nE9C9661B_8C28_413E_A8E3_A720E03C04B7","to":"n65057A73_5E5D_4997_843D_70FCDDBF4863","label":"target"}
+,{"id":"nE22C0A99_F7DE_454D_ABB2_46E129D016B4","from":"n89FBB4A6_DF18_465F_9DA3_BD367759F09E","to":"n65057A73_5E5D_4997_843D_70FCDDBF4863","label":"lose control of"}
+,{"id":"nF4597E0B_96C0_4B53_9A3B_935F968E1B38","from":"nE9C9661B_8C28_413E_A8E3_A720E03C04B7","to":"nB622D019_1525_4A1F_838B_BA98AC1BD971","label":"constitute a"}
+,{"id":"n3FB94ED9_5239_4367_95B1_3737EDA89276","from":"nB622D019_1525_4A1F_838B_BA98AC1BD971","to":"nA8C4DBF8_4D5F_45D9_9EDF_74F94F6892E8","label":"has"}
+,{"id":"n2E360D3F_EDF4_4A66_AB3B_464337BD50F8","from":"nA8C4DBF8_4D5F_45D9_9EDF_74F94F6892E8","to":"n58FC3163_C98D_45E6_8BD3_405AF26CA056","label":"may be"}
 ]
 }
-  
