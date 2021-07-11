@@ -519,89 +519,89 @@
 
 ]
 ,"edges":[
-{"id":"A17E472C-A172-448D-8213-07C1399DEEFA","from":"Biometric Identification","to":"Authentication Method","label":"is"}
-,{"id":"8BDEB3AE-BCDB-42D9-AA7F-516CC0127EC0","from":"Boundary Control","to":"Control Class","label":"is"}
-,{"id":"A6E9BB21-DA1C-4399-8FC4-0166CA3A459C","from":"Boundary Control","to":"System","label":"protects"}
-,{"id":"2451BBD8-749D-46FA-BD78-F55BF4C71428","from":"Boundary Control","to":"External Threat Agent","label":"protects from"}
-,{"id":"3BCFFB5B-0A18-4B2A-914D-E47714BA8556","from":"Brainwaves Authentication","to":"Authentication Method","label":"is"}
-,{"id":"0123F3C2-3082-4585-8B6E-9A952C4BEBA5","from":"Brainwaves Authentication","to":"Biometric Identification","label":"is"}
-,{"id":"56C85E0C-EF4C-483B-862A-301E4306F3BB","from":"Data","to":"IT Component","label":"is"}
-,{"id":"B202CE57-28CF-4BD4-BB59-7FE7F177CC48","from":"Data Operation","to":"IT Component","label":"is"}
-,{"id":"EEBA770F-5EF8-4495-87DF-C601E4D85E74","from":"External Threat Agent","to":"Threat Agent","label":"is"}
-,{"id":"037045CE-CAFF-4FC4-8629-0F8986EC231F","from":"Facial Recognition Authentication","to":"Authentication Method","label":"is"}
-,{"id":"066380CA-56C5-4AA4-AA77-8503109741DC","from":"Facial Recognition Authentication","to":"Biometric Identification","label":"is"}
-,{"id":"96BB6D66-BC08-4132-B285-605F17A1FB04","from":"Fingerprint Recognition Authentication","to":"Authentication Method","label":"is"}
-,{"id":"C29FCE9E-21E1-42D7-87DB-8731D7FEDF7F","from":"Fingerprint Recognition Authentication","to":"Biometric Identification","label":"is"}
-,{"id":"F6463590-0601-4EB7-A393-604B13E5AFB5","from":"Gait Recognition Authentication","to":"Authentication Method","label":"is"}
-,{"id":"41793FBD-53F6-403D-A68C-97E809C8F7BF","from":"Gait Recognition Authentication","to":"Biometric Identification","label":"is"}
-,{"id":"ACF425C2-222C-4ACB-BEC5-7121E2BB20A3","from":"Hand Gestures Recognition Authentication","to":"Authentication Method","label":"is"}
-,{"id":"1E4DE7F7-3410-4064-8D62-8AC2E7F5BDCB","from":"Hand Gestures Recognition Authentication","to":"Biometric Identification","label":"is"}
-,{"id":"462DDE67-7793-438D-A9E1-E040880F0CBB","from":"Heartbeats Recognition Authentication","to":"Authentication Method","label":"is"}
-,{"id":"9147DA1B-716C-4370-8349-27B0C4D8E137","from":"Heartbeats Recognition Authentication","to":"Biometric Identification","label":"is"}
-,{"id":"07EB776F-7AFB-4196-BAAD-1955983C37AE","from":"Inherence Factor","to":"Authentication Factor","label":"is"}
-,{"id":"9182F971-C8EF-4CE0-9C9B-2CA31842BEE1","from":"Iris Recognition Authentication","to":"Authentication Method","label":"is"}
-,{"id":"911F0665-DDA1-4886-817D-F259148022CA","from":"Iris Recognition Authentication","to":"Biometric Identification","label":"is"}
-,{"id":"C7F4F378-9012-44FD-9610-142E7055C553","from":"IT Hardware","to":"IT Component","label":"is"}
-,{"id":"379247CB-D303-4299-B095-6BA06E3655B7","from":"IT Software","to":"IT Component","label":"is"}
-,{"id":"58516742-BDFB-4911-B546-C69551E8F832","from":"IT System","to":"IT Component","label":"composed of"}
-,{"id":"3F35EE72-EF26-40E6-AD83-E3EFFFBE8004","from":"IT System","to":"Capability to store information","label":"may have"}
-,{"id":"EFC19BFA-E154-4290-BE90-38868BCFF62F","from":"IT System","to":"Capability to transform information","label":"may have"}
-,{"id":"C131A76E-DF02-4483-9E69-C20F8B04EC83","from":"IT System","to":"Capability to transmit information","label":"may have"}
-,{"id":"286BD24E-847D-46DE-921B-06993F9B7479","from":"IT System","to":"Capabilty to collect information","label":"may have"}
-,{"id":"F4D85694-D77C-4730-8767-17ABDC889E3A","from":"IT System","to":"Coherent Whole","label":"regarded as"}
-,{"id":"183E600D-FA04-4EAB-BE8D-963FFB82D6B7","from":"Keystroke Recognition Authentication","to":"Touchstroke Recognition Authentication","label":"synonym for"}
-,{"id":"48FA3CD3-D310-4F93-865D-83C3BCA9AC85","from":"Keystroke Recognition Authentication","to":"Authentication Method","label":"is"}
-,{"id":"BCCC560D-DE6C-4081-BD37-3A1F300DF47D","from":"Keystroke Recognition Authentication","to":"Biometric Identification","label":"is"}
-,{"id":"232EBB4F-218B-4CF6-AE54-1EEC03F10FA7","from":"Knowledge Factor","to":"Authentication Factor","label":"is"}
-,{"id":"5C72756F-3320-43EA-88E5-138048851A00","from":"Knuckleprint Recognition Authentication","to":"Authentication Method","label":"is"}
-,{"id":"8FA8BA60-4F2A-4BFD-A297-E4053CB17D73","from":"Knuckleprint Recognition Authentication","to":"Biometric Identification","label":"is"}
-,{"id":"43895014-FE0C-4117-87D5-FBF8AAF56D63","from":"Location Factor","to":"Authentication Factor","label":"is"}
-,{"id":"8A776D00-32D8-4078-8B34-F55068F0FD47","from":"Multi-Modal Biometric Authentication","to":"Authentication Method","label":"is"}
-,{"id":"B292E7B1-1707-4B0B-BBE7-605D19444883","from":"Multi-Modal Biometric Authentication","to":"Biometric Identification","label":"is"}
-,{"id":"33065C30-A3B9-4D0D-B5CC-ED8D767FBEC1","from":"Palmprint Recognition Authentication","to":"Authentication Method","label":"is"}
-,{"id":"C6BBD49A-A858-43A9-9337-8EB58F0C51B2","from":"Palmprint Recognition Authentication","to":"Biometric Identification","label":"is"}
-,{"id":"FABAAE46-324C-4399-87DA-0B0EE767B29A","from":"Possession Factor","to":"Authentication Factor","label":"is"}
-,{"id":"28500740-6EE6-4335-8EF3-39D42CD9EB16","from":"Time Factor","to":"Authentication Factor","label":"is"}
-,{"id":"B0C857BE-9AD0-4BB2-BEF3-0102CD2627FD","from":"Touchstroke Recognition Authentication","to":"Authentication Method","label":"is"}
-,{"id":"1A7AC49D-0F1C-47EE-BC58-AC3EAE721F57","from":"Touchstroke Recognition Authentication","to":"Biometric Identification","label":"is"}
-,{"id":"FCE6A6BB-8894-457D-8ABB-A0A449520297","from":"Voice Recognition Authentication","to":"Authentication Method","label":"is"}
-,{"id":"361CF5E5-A4E7-41F1-B5E0-BE5AA8CBC1AB","from":"Voice Recognition Authentication","to":"Biometric Identification","label":"is"}
-,{"id":"26E77BE3-5EC8-4DB4-98EF-7A96B2955DEF","from":"Account Takeover","to":"Identity Theft","label":"is"}
-,{"id":"40665882-7B0C-4C43-80B9-296692AF819C","from":"Identity Theft","to":"Attack Class","label":"is"}
-,{"id":"E6BF5314-2600-4444-8CED-A384480EC12C","from":"Account Takeover","to":"Perpetrator","label":"committed by"}
-,{"id":"DBEF589E-61B7-48CA-BF62-BE1EFE5B5B5F","from":"Account Takeover","to":"Victim","label":"victimize"}
-,{"id":"D9F6340D-C755-478B-A8BA-B75B075E3FC8","from":"Perpetrator","to":"Digital Identity","label":"take control of"}
-,{"id":"624D8A78-15B2-4960-86BC-B962167A2B50","from":"Victim","to":"Digital Identity","label":"owns"}
-,{"id":"AC3D99D3-A737-46B2-8B00-7D9A3ABC113C","from":"Perpetrator","to":"Victim","label":"distinct from"}
-,{"id":"B8D2A8FF-158D-431C-B23D-8ABC12909059","from":"Motivation","to":"Financial Gain","label":"may be"}
-,{"id":"FF977DA1-3B9C-47F7-BE05-A16485CB0D72","from":"Motivation","to":"Causing Reputation Harm","label":"may be"}
-,{"id":"0000618D-67F2-4990-801A-1E881520AF74","from":"Motivation","to":"Identity Deception","label":"may be"}
-,{"id":"9B287D99-25E1-4DA4-B3CF-D4B1DCB74C64","from":"Perpetrator","to":"Authorization","label":"has not"}
-,{"id":"C03B5509-A5F0-4A30-AE2C-799A6A30E031","from":"Victim","to":"Authorization","label":"has"}
-,{"id":"C1A0FF6A-51A9-49F1-993D-6D626514246A","from":"Account Takeover","to":"Illegal Action","label":"is"}
-,{"id":"355A97DF-7524-4AAD-9971-402E919670C5","from":"Authorization","to":"Digital Identity","label":"to impersonate"}
-,{"id":"03C65088-C04C-48F0-BCF8-7C56E778D79A","from":"Perpetrator","to":"Motivation","label":"has"}
-,{"id":"16C846ED-2379-48BF-B8E8-CA51AF983FE7","from":"Causing Reputation Harm","to":"Victim","label":"to"}
-,{"id":"1C87EBE0-AB78-4669-86B6-15191BA0722D","from":"Account Takeover","to":"Digital Identity","label":"target"}
-,{"id":"99073CC5-247E-40C9-83CE-5529D6C81921","from":"Victim","to":"Digital Identity","label":"lose control of"}
-,{"id":"49121DE6-F842-494C-BE1B-909B0E2D43B7","from":"Account Takeover","to":"Risk","label":"constitute a"}
-,{"id":"4FA39A2E-11DF-4646-9432-46173027F558","from":"Risk","to":"Mitigation","label":"has"}
-,{"id":"816A61AA-E15A-457E-A2A2-884BEDEC2928","from":"Mitigation","to":"Make MFA Mandatory","label":"may be"}
-,{"id":"5F168986-E77E-4F33-91B1-EA2A80D27A62","from":"Digital Identity","to":"Stolen Identity","label":"is"}
-,{"id":"DD3E4086-9258-4CEC-AA71-60BBCA780A26","from":"Stolen Identity","to":"Compromised Identity","label":"is"}
-,{"id":"DE5D9227-B769-4D5A-8500-889A611D98E8","from":"Compromised Identity","to":"Digital Identity","label":"is"}
-,{"id":"5BF4A680-E4D0-43AF-B39E-023C875B56AE","from":"Non-compromised Identity","to":"Digital Identity","label":"is"}
-,{"id":"5C157834-A0AC-4B72-874D-381E356D1427","from":"Authentic Identity","to":"Digital Identity","label":"is"}
-,{"id":"B169787F-142F-4F48-91D5-4E1631A209C3","from":"Fake Identity","to":"Digital Identity","label":"is"}
-,{"id":"172317F5-7551-4A51-B85B-0DAFEE004E16","from":"Social Honeypot","to":"Fake Identity","label":"is"}
-,{"id":"DB7BF994-4210-4C32-9CBA-583C39FE5614","from":"Social Honeypot","to":"Non-compromised Identity","label":"is"}
-,{"id":"C09521E2-4E29-448A-9B5E-BAD855A6FC9D","from":"Zombie Account","to":"Compromised Identity","label":"is"}
-,{"id":"142CE4C1-7773-4488-BB24-CA0345911809","from":"Zombie Account","to":"Fake Identity","label":"is"}
-,{"id":"64363645-20C2-4118-8A43-16197D0B273F","from":"Stolen Identity","to":"Fake Identity","label":"is"}
-,{"id":"C7F33B3E-E8A0-4C36-AEB3-0F4AAF16D526","from":"Test Account","to":"Non-compromised Identity","label":"is"}
-,{"id":"A961B21D-25E5-4F52-83DC-48A0A527EE3C","from":"Test Account","to":"Fake Identity","label":"is"}
-,{"id":"A3A83BDB-BBEE-4294-AE65-C57A875F7714","from":"Research Account","to":"Non-compromised Identity","label":"is"}
-,{"id":"11D55571-665E-4CCA-B449-C292219C2AAD","from":"Research Account","to":"Fake Identity","label":"is"}
+{"id":"A17E472C-A172-448D-8213-07C1399DEEFA","from":"A2967417-72BE-4537-BE1E-39E6298F5851","to":"4C6DA97E-8091-41CA-B99C-4250D2678005","label":"is"}
+,{"id":"8BDEB3AE-BCDB-42D9-AA7F-516CC0127EC0","from":"47316C02-A4EB-4832-B925-1D094DE618CA","to":"5CB6C907-0D88-4068-B90F-90D2B4E5C9CF","label":"is"}
+,{"id":"A6E9BB21-DA1C-4399-8FC4-0166CA3A459C","from":"47316C02-A4EB-4832-B925-1D094DE618CA","to":"B92DFC96-CD21-42CC-B21F-7D5820C1DCC7","label":"protects"}
+,{"id":"2451BBD8-749D-46FA-BD78-F55BF4C71428","from":"47316C02-A4EB-4832-B925-1D094DE618CA","to":"8A84FB45-D721-4F51-92D2-6F252494072A","label":"protects from"}
+,{"id":"3BCFFB5B-0A18-4B2A-914D-E47714BA8556","from":"566E708D-FD51-436E-9E4D-051F1F485979","to":"4C6DA97E-8091-41CA-B99C-4250D2678005","label":"is"}
+,{"id":"0123F3C2-3082-4585-8B6E-9A952C4BEBA5","from":"566E708D-FD51-436E-9E4D-051F1F485979","to":"A2967417-72BE-4537-BE1E-39E6298F5851","label":"is"}
+,{"id":"56C85E0C-EF4C-483B-862A-301E4306F3BB","from":"BC9316FB-BCA1-4D66-9CD7-3112BEF13D86","to":"DB652713-5948-4322-8567-E5F6CB0440E8","label":"is"}
+,{"id":"B202CE57-28CF-4BD4-BB59-7FE7F177CC48","from":"E1132C17-7D2B-4F86-A9F2-BAAA52027A5B","to":"DB652713-5948-4322-8567-E5F6CB0440E8","label":"is"}
+,{"id":"EEBA770F-5EF8-4495-87DF-C601E4D85E74","from":"8A84FB45-D721-4F51-92D2-6F252494072A","to":"1CA22954-068F-4603-9932-7CAFD3C4E2A6","label":"is"}
+,{"id":"037045CE-CAFF-4FC4-8629-0F8986EC231F","from":"EE59DD52-46E3-4C5E-B862-8914485F238F","to":"4C6DA97E-8091-41CA-B99C-4250D2678005","label":"is"}
+,{"id":"066380CA-56C5-4AA4-AA77-8503109741DC","from":"EE59DD52-46E3-4C5E-B862-8914485F238F","to":"A2967417-72BE-4537-BE1E-39E6298F5851","label":"is"}
+,{"id":"96BB6D66-BC08-4132-B285-605F17A1FB04","from":"8A54CA58-95DE-462C-85F0-63881C492A91","to":"4C6DA97E-8091-41CA-B99C-4250D2678005","label":"is"}
+,{"id":"C29FCE9E-21E1-42D7-87DB-8731D7FEDF7F","from":"8A54CA58-95DE-462C-85F0-63881C492A91","to":"A2967417-72BE-4537-BE1E-39E6298F5851","label":"is"}
+,{"id":"F6463590-0601-4EB7-A393-604B13E5AFB5","from":"A4ADA3D7-3568-4A97-A8E3-4E47A1368F3D","to":"4C6DA97E-8091-41CA-B99C-4250D2678005","label":"is"}
+,{"id":"41793FBD-53F6-403D-A68C-97E809C8F7BF","from":"A4ADA3D7-3568-4A97-A8E3-4E47A1368F3D","to":"A2967417-72BE-4537-BE1E-39E6298F5851","label":"is"}
+,{"id":"ACF425C2-222C-4ACB-BEC5-7121E2BB20A3","from":"46401F0E-29CA-47A3-A39A-0230CB771074","to":"4C6DA97E-8091-41CA-B99C-4250D2678005","label":"is"}
+,{"id":"1E4DE7F7-3410-4064-8D62-8AC2E7F5BDCB","from":"46401F0E-29CA-47A3-A39A-0230CB771074","to":"A2967417-72BE-4537-BE1E-39E6298F5851","label":"is"}
+,{"id":"462DDE67-7793-438D-A9E1-E040880F0CBB","from":"C92DDCBA-ED8B-4196-A9FF-C96029349FAC","to":"4C6DA97E-8091-41CA-B99C-4250D2678005","label":"is"}
+,{"id":"9147DA1B-716C-4370-8349-27B0C4D8E137","from":"C92DDCBA-ED8B-4196-A9FF-C96029349FAC","to":"A2967417-72BE-4537-BE1E-39E6298F5851","label":"is"}
+,{"id":"07EB776F-7AFB-4196-BAAD-1955983C37AE","from":"257D3082-7AF3-4464-9C5B-77B2D083B427","to":"A42E7343-FA4C-490A-A0A3-7F65FB188771","label":"is"}
+,{"id":"9182F971-C8EF-4CE0-9C9B-2CA31842BEE1","from":"BDF3CB39-431D-478C-A651-EBA1666F91C1","to":"4C6DA97E-8091-41CA-B99C-4250D2678005","label":"is"}
+,{"id":"911F0665-DDA1-4886-817D-F259148022CA","from":"BDF3CB39-431D-478C-A651-EBA1666F91C1","to":"A2967417-72BE-4537-BE1E-39E6298F5851","label":"is"}
+,{"id":"C7F4F378-9012-44FD-9610-142E7055C553","from":"37CD23D4-9BFD-4A88-8D2B-CA84CE4FB78F","to":"DB652713-5948-4322-8567-E5F6CB0440E8","label":"is"}
+,{"id":"379247CB-D303-4299-B095-6BA06E3655B7","from":"5660B6DD-121E-4173-A110-7A4D00B3AB6A","to":"DB652713-5948-4322-8567-E5F6CB0440E8","label":"is"}
+,{"id":"58516742-BDFB-4911-B546-C69551E8F832","from":"A4106055-17BD-4640-8746-5471A26FF444","to":"DB652713-5948-4322-8567-E5F6CB0440E8","label":"composed of"}
+,{"id":"3F35EE72-EF26-40E6-AD83-E3EFFFBE8004","from":"A4106055-17BD-4640-8746-5471A26FF444","to":"F6A0BA1D-4EAD-44AE-BB90-AAFC98899178","label":"may have"}
+,{"id":"EFC19BFA-E154-4290-BE90-38868BCFF62F","from":"A4106055-17BD-4640-8746-5471A26FF444","to":"AFFF4DF7-5DE7-4EC2-B059-59963A26A6BD","label":"may have"}
+,{"id":"C131A76E-DF02-4483-9E69-C20F8B04EC83","from":"A4106055-17BD-4640-8746-5471A26FF444","to":"4414B2C4-B1F0-4BE8-A1D2-264AE3500755","label":"may have"}
+,{"id":"286BD24E-847D-46DE-921B-06993F9B7479","from":"A4106055-17BD-4640-8746-5471A26FF444","to":"CBC6B9A3-AA38-40D4-865C-53E8DB7037F3","label":"may have"}
+,{"id":"F4D85694-D77C-4730-8767-17ABDC889E3A","from":"A4106055-17BD-4640-8746-5471A26FF444","to":"8A66FDF6-25FA-4400-8F76-04907B9F7088","label":"regarded as"}
+,{"id":"183E600D-FA04-4EAB-BE8D-963FFB82D6B7","from":"824C4DE1-CB45-4357-8D71-3D7A9B20A1FE","to":"B5825B69-4900-43C0-A761-B839CC2A150A","label":"synonym for"}
+,{"id":"48FA3CD3-D310-4F93-865D-83C3BCA9AC85","from":"824C4DE1-CB45-4357-8D71-3D7A9B20A1FE","to":"4C6DA97E-8091-41CA-B99C-4250D2678005","label":"is"}
+,{"id":"BCCC560D-DE6C-4081-BD37-3A1F300DF47D","from":"824C4DE1-CB45-4357-8D71-3D7A9B20A1FE","to":"A2967417-72BE-4537-BE1E-39E6298F5851","label":"is"}
+,{"id":"232EBB4F-218B-4CF6-AE54-1EEC03F10FA7","from":"8F045301-B949-47A7-B850-24BF7725F524","to":"A42E7343-FA4C-490A-A0A3-7F65FB188771","label":"is"}
+,{"id":"5C72756F-3320-43EA-88E5-138048851A00","from":"935B2B66-22E7-4674-9564-5B7FE10D4526","to":"4C6DA97E-8091-41CA-B99C-4250D2678005","label":"is"}
+,{"id":"8FA8BA60-4F2A-4BFD-A297-E4053CB17D73","from":"935B2B66-22E7-4674-9564-5B7FE10D4526","to":"A2967417-72BE-4537-BE1E-39E6298F5851","label":"is"}
+,{"id":"43895014-FE0C-4117-87D5-FBF8AAF56D63","from":"1D786316-F897-4DFF-8B41-5E1E1572959A","to":"A42E7343-FA4C-490A-A0A3-7F65FB188771","label":"is"}
+,{"id":"8A776D00-32D8-4078-8B34-F55068F0FD47","from":"BFC2B385-EAA5-409A-8F21-E3B07033449A","to":"4C6DA97E-8091-41CA-B99C-4250D2678005","label":"is"}
+,{"id":"B292E7B1-1707-4B0B-BBE7-605D19444883","from":"BFC2B385-EAA5-409A-8F21-E3B07033449A","to":"A2967417-72BE-4537-BE1E-39E6298F5851","label":"is"}
+,{"id":"33065C30-A3B9-4D0D-B5CC-ED8D767FBEC1","from":"087C6620-F50C-4D7E-B3DF-516DA675DD50","to":"4C6DA97E-8091-41CA-B99C-4250D2678005","label":"is"}
+,{"id":"C6BBD49A-A858-43A9-9337-8EB58F0C51B2","from":"087C6620-F50C-4D7E-B3DF-516DA675DD50","to":"A2967417-72BE-4537-BE1E-39E6298F5851","label":"is"}
+,{"id":"FABAAE46-324C-4399-87DA-0B0EE767B29A","from":"4DAEE886-62B6-4A11-91E2-6CCC52E8C726","to":"A42E7343-FA4C-490A-A0A3-7F65FB188771","label":"is"}
+,{"id":"28500740-6EE6-4335-8EF3-39D42CD9EB16","from":"DF8479E4-7ED0-4699-B624-53A022550DA0","to":"A42E7343-FA4C-490A-A0A3-7F65FB188771","label":"is"}
+,{"id":"B0C857BE-9AD0-4BB2-BEF3-0102CD2627FD","from":"B5825B69-4900-43C0-A761-B839CC2A150A","to":"4C6DA97E-8091-41CA-B99C-4250D2678005","label":"is"}
+,{"id":"1A7AC49D-0F1C-47EE-BC58-AC3EAE721F57","from":"B5825B69-4900-43C0-A761-B839CC2A150A","to":"A2967417-72BE-4537-BE1E-39E6298F5851","label":"is"}
+,{"id":"FCE6A6BB-8894-457D-8ABB-A0A449520297","from":"F308D789-DA7D-4E47-A5C3-2B03D6929447","to":"4C6DA97E-8091-41CA-B99C-4250D2678005","label":"is"}
+,{"id":"361CF5E5-A4E7-41F1-B5E0-BE5AA8CBC1AB","from":"F308D789-DA7D-4E47-A5C3-2B03D6929447","to":"A2967417-72BE-4537-BE1E-39E6298F5851","label":"is"}
+,{"id":"26E77BE3-5EC8-4DB4-98EF-7A96B2955DEF","from":"3707A70E-88B7-4B6D-A934-0BC5EE398FF6","to":"AB661E2B-F23C-4C53-A2BC-043F66BD26F6","label":"is"}
+,{"id":"40665882-7B0C-4C43-80B9-296692AF819C","from":"AB661E2B-F23C-4C53-A2BC-043F66BD26F6","to":"F6D05109-A8EB-4630-8070-A3DC00484ED2","label":"is"}
+,{"id":"E6BF5314-2600-4444-8CED-A384480EC12C","from":"3707A70E-88B7-4B6D-A934-0BC5EE398FF6","to":"5405E693-EB16-42E8-98EA-4E4BF4569BD9","label":"committed by"}
+,{"id":"DBEF589E-61B7-48CA-BF62-BE1EFE5B5B5F","from":"3707A70E-88B7-4B6D-A934-0BC5EE398FF6","to":"0356B816-5188-4965-B4D7-28144AB3745F","label":"victimize"}
+,{"id":"D9F6340D-C755-478B-A8BA-B75B075E3FC8","from":"5405E693-EB16-42E8-98EA-4E4BF4569BD9","to":"2BE2F561-5FF3-4301-82B7-39FF29CD650A","label":"take control of"}
+,{"id":"624D8A78-15B2-4960-86BC-B962167A2B50","from":"0356B816-5188-4965-B4D7-28144AB3745F","to":"2BE2F561-5FF3-4301-82B7-39FF29CD650A","label":"owns"}
+,{"id":"AC3D99D3-A737-46B2-8B00-7D9A3ABC113C","from":"5405E693-EB16-42E8-98EA-4E4BF4569BD9","to":"0356B816-5188-4965-B4D7-28144AB3745F","label":"distinct from"}
+,{"id":"B8D2A8FF-158D-431C-B23D-8ABC12909059","from":"DB35E690-DA61-4DD6-8BFE-3D6A2BCFD097","to":"422E3DA9-1F9C-44DA-8A28-BF3685F5E402","label":"may be"}
+,{"id":"FF977DA1-3B9C-47F7-BE05-A16485CB0D72","from":"DB35E690-DA61-4DD6-8BFE-3D6A2BCFD097","to":"972F900D-A7B8-411F-BF29-19B9F2169285","label":"may be"}
+,{"id":"0000618D-67F2-4990-801A-1E881520AF74","from":"DB35E690-DA61-4DD6-8BFE-3D6A2BCFD097","to":"8AB3C29B-04F9-4068-85E6-82031382CE74","label":"may be"}
+,{"id":"9B287D99-25E1-4DA4-B3CF-D4B1DCB74C64","from":"5405E693-EB16-42E8-98EA-4E4BF4569BD9","to":"5F148AC3-F899-4AC2-AEB2-C6CA6005999B","label":"has not"}
+,{"id":"C03B5509-A5F0-4A30-AE2C-799A6A30E031","from":"0356B816-5188-4965-B4D7-28144AB3745F","to":"5F148AC3-F899-4AC2-AEB2-C6CA6005999B","label":"has"}
+,{"id":"C1A0FF6A-51A9-49F1-993D-6D626514246A","from":"3707A70E-88B7-4B6D-A934-0BC5EE398FF6","to":"6989A549-F547-413E-9EFA-E4EFEF40B824","label":"is"}
+,{"id":"355A97DF-7524-4AAD-9971-402E919670C5","from":"5F148AC3-F899-4AC2-AEB2-C6CA6005999B","to":"2BE2F561-5FF3-4301-82B7-39FF29CD650A","label":"to impersonate"}
+,{"id":"03C65088-C04C-48F0-BCF8-7C56E778D79A","from":"5405E693-EB16-42E8-98EA-4E4BF4569BD9","to":"DB35E690-DA61-4DD6-8BFE-3D6A2BCFD097","label":"has"}
+,{"id":"16C846ED-2379-48BF-B8E8-CA51AF983FE7","from":"972F900D-A7B8-411F-BF29-19B9F2169285","to":"0356B816-5188-4965-B4D7-28144AB3745F","label":"to"}
+,{"id":"1C87EBE0-AB78-4669-86B6-15191BA0722D","from":"3707A70E-88B7-4B6D-A934-0BC5EE398FF6","to":"2BE2F561-5FF3-4301-82B7-39FF29CD650A","label":"target"}
+,{"id":"99073CC5-247E-40C9-83CE-5529D6C81921","from":"0356B816-5188-4965-B4D7-28144AB3745F","to":"2BE2F561-5FF3-4301-82B7-39FF29CD650A","label":"lose control of"}
+,{"id":"49121DE6-F842-494C-BE1B-909B0E2D43B7","from":"3707A70E-88B7-4B6D-A934-0BC5EE398FF6","to":"3F14E556-DBD3-4DBF-AC75-33A3EE0A9EE2","label":"constitute a"}
+,{"id":"4FA39A2E-11DF-4646-9432-46173027F558","from":"3F14E556-DBD3-4DBF-AC75-33A3EE0A9EE2","to":"515EECD7-8927-46CD-B811-39535FB71778","label":"has"}
+,{"id":"816A61AA-E15A-457E-A2A2-884BEDEC2928","from":"515EECD7-8927-46CD-B811-39535FB71778","to":"A1D6E2B6-1A6F-40D5-BEF5-85AFDA4C4E86","label":"may be"}
+,{"id":"5F168986-E77E-4F33-91B1-EA2A80D27A62","from":"2BE2F561-5FF3-4301-82B7-39FF29CD650A","to":"7256DFFB-F727-40B1-B8CB-3E8ED7B93E61","label":"is"}
+,{"id":"DD3E4086-9258-4CEC-AA71-60BBCA780A26","from":"7256DFFB-F727-40B1-B8CB-3E8ED7B93E61","to":"D89DE997-64BE-4F19-B014-7995AF4D2FDF","label":"is"}
+,{"id":"DE5D9227-B769-4D5A-8500-889A611D98E8","from":"D89DE997-64BE-4F19-B014-7995AF4D2FDF","to":"E1435B14-CC90-490D-B94E-09B54D033ED7","label":"is"}
+,{"id":"5BF4A680-E4D0-43AF-B39E-023C875B56AE","from":"8933951D-59FE-48AC-8006-052B2292DA85","to":"E1435B14-CC90-490D-B94E-09B54D033ED7","label":"is"}
+,{"id":"5C157834-A0AC-4B72-874D-381E356D1427","from":"B9BC6707-084C-4264-ABDB-9F04C39AC188","to":"E1435B14-CC90-490D-B94E-09B54D033ED7","label":"is"}
+,{"id":"B169787F-142F-4F48-91D5-4E1631A209C3","from":"FFAF2EE1-D9DE-4B8B-8A9C-EA4BB61848BD","to":"E1435B14-CC90-490D-B94E-09B54D033ED7","label":"is"}
+,{"id":"172317F5-7551-4A51-B85B-0DAFEE004E16","from":"0D3BEAC3-BF18-4F5C-8CAC-2F389DE47B6A","to":"FFAF2EE1-D9DE-4B8B-8A9C-EA4BB61848BD","label":"is"}
+,{"id":"DB7BF994-4210-4C32-9CBA-583C39FE5614","from":"0D3BEAC3-BF18-4F5C-8CAC-2F389DE47B6A","to":"8933951D-59FE-48AC-8006-052B2292DA85","label":"is"}
+,{"id":"C09521E2-4E29-448A-9B5E-BAD855A6FC9D","from":"21BF3343-85D6-4B23-ACBA-331CF49F8E96","to":"D89DE997-64BE-4F19-B014-7995AF4D2FDF","label":"is"}
+,{"id":"142CE4C1-7773-4488-BB24-CA0345911809","from":"21BF3343-85D6-4B23-ACBA-331CF49F8E96","to":"FFAF2EE1-D9DE-4B8B-8A9C-EA4BB61848BD","label":"is"}
+,{"id":"64363645-20C2-4118-8A43-16197D0B273F","from":"7256DFFB-F727-40B1-B8CB-3E8ED7B93E61","to":"FFAF2EE1-D9DE-4B8B-8A9C-EA4BB61848BD","label":"is"}
+,{"id":"C7F33B3E-E8A0-4C36-AEB3-0F4AAF16D526","from":"25323A0E-B290-48AC-A147-597F1DF61288","to":"8933951D-59FE-48AC-8006-052B2292DA85","label":"is"}
+,{"id":"A961B21D-25E5-4F52-83DC-48A0A527EE3C","from":"25323A0E-B290-48AC-A147-597F1DF61288","to":"FFAF2EE1-D9DE-4B8B-8A9C-EA4BB61848BD","label":"is"}
+,{"id":"A3A83BDB-BBEE-4294-AE65-C57A875F7714","from":"01F6A80A-3190-462D-BEEB-328CC562A345","to":"8933951D-59FE-48AC-8006-052B2292DA85","label":"is"}
+,{"id":"11D55571-665E-4CCA-B449-C292219C2AAD","from":"01F6A80A-3190-462D-BEEB-328CC562A345","to":"FFAF2EE1-D9DE-4B8B-8A9C-EA4BB61848BD","label":"is"}
 
 
 ]
