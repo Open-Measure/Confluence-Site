@@ -497,7 +497,6 @@
 ,{"label":"Zero-Trust Access","group":"","id":"nA083172A_2D30_45C1_A7AA_C0950BF75AF5","url":""}
 ,{"label":"Zombie Account","group":"","id":"n32F8B5A2_2FF3_46A6_92A0_A0A74C77207C","url":""}
 ,{"label":"ZTA","group":"","id":"n0BF6DF94_3689_4DC6_A2E2_4E916F963D9A","url":""}
-,{"label":"","group":"","id":"","url":""}
 ]
 ,"edges":[
 {"id":"n96BD0C0B_9A7F_45ED_9519_30416CA253CB","from":"nAC688165_B606_4D82_A016_0263D701EDF2","to":"n53877DB9_77FA_44E9_974A_BE3344133398","label":"is"}
